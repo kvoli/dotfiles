@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 484720bbba3e2b175b71dba283c3a84b13e71eea kvoli <kvoli@github.com> 1596502616 +1000	branch: Created from HEAD
+484720bbba3e2b175b71dba283c3a84b13e71eea d4e7bd63ca849d76159376046b71d373b24edbad kvoli <kvoli@github.com> 1596503023 +1000	merge conf: Fast-forward
+d4e7bd63ca849d76159376046b71d373b24edbad 1d94bf334b6dfd460762dea11d47d9b52cb9642c kvoli <kvoli@github.com> 1596503289 +1000	merge bar: Fast-forward
+1d94bf334b6dfd460762dea11d47d9b52cb9642c d4e7bd63ca849d76159376046b71d373b24edbad kvoli <kvoli@github.com> 1596503561 +1000	reset: moving to HEAD~
+d4e7bd63ca849d76159376046b71d373b24edbad 271422fb14f5a98b56d901ccd50a6b9ed2dd386f kvoli <amcclernon@student.unimelb.edu.au> 1601804617 +1100	commit: update config
+271422fb14f5a98b56d901ccd50a6b9ed2dd386f 3c8bee025c92f34d3009f40485d6e463141f0783 kvoli <amcclernon@student.unimelb.edu.au> 1615272331 +1100	commit: update font & force draw inversion bar:
+3c8bee025c92f34d3009f40485d6e463141f0783 80434a78f01fcb319fc48040626fa53f389a8780 kvoli <amcclernon@student.unimelb.edu.au> 1625103523 +1000	commit: update config w/ remap <- -> to [ ] tagmon
+80434a78f01fcb319fc48040626fa53f389a8780 d3b86ee7589bb577c09ea87621b0d9f0de121320 kvoli <amcclernon@student.unimelb.edu.au> 1629483407 +1000	commit: update theme
+d3b86ee7589bb577c09ea87621b0d9f0de121320 faf858c5d1619979216da6c6bce6d170c8ae0c4e kvoli <amcclernon@student.unimelb.edu.au> 1635464058 +1100	commit: update color scheme
