@@ -1,0 +1,42 @@
+# Base16 PhD - amfora color config
+# Hennig Hasemann (http://leetless.de/vim.html)
+
+[theme]
+bg = "#061229"
+fg = "#b8bbc2"
+
+bottombar_label = "#9989cc"
+bottombar_text = "#b8bbc2"
+bottombar_bg = "#2a3448"
+
+tab_num = "#4d5666"
+tab_divider = "#9a99a3"
+
+amfora_link = "#99bf52"
+foreign_link = "#717885"
+link_number = "#717885"
+
+btn_bg = "#2a3448"
+btn_text = "#b8bbc2"
+
+input_modal_bg = "#2a3448"
+input_modal_text = "#b8bbc2"
+input_modal_field_bg = "#061229"
+input_modal_field_text = "#b8bbc2"
+info_modal_bg = "#2a3448"
+info_modal_text = "#b8bbc2"
+error_modal_bg = "#2a3448"
+error_modal_text = "#b08060"
+yesno_modal_bg = "#2a3448"
+yesno_modal_text = "#b8bbc2"
+tofu_modal_bg = "#2a3448"
+tofu_modal_text = "#b8bbc2"
+subscription_modal_bg = "#2a3448"
+subscription_modal_text = "#b8bbc2"
+
+hdg_1 = "#f0a000"
+hdg_2 = "#fbd461"
+hdg_3 = "#5299bf"
+regular_text = "#b8bbc2"
+preformatted_text = "#72b9bf"
+list_text = "#b8bbc2"

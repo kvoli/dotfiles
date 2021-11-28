@@ -1,0 +1,42 @@
+# Base16 Sandcastle - amfora color config
+# George Essig (https://github.com/gessig)
+
+[theme]
+bg = "#282c34"
+fg = "#a89984"
+
+bottombar_label = "#d75f5f"
+bottombar_text = "#a89984"
+bottombar_bg = "#2c323b"
+
+tab_num = "#3e4451"
+tab_divider = "#928374"
+
+amfora_link = "#528b8b"
+foreign_link = "#665c54"
+link_number = "#665c54"
+
+btn_bg = "#2c323b"
+btn_text = "#a89984"
+
+input_modal_bg = "#2c323b"
+input_modal_text = "#a89984"
+input_modal_field_bg = "#282c34"
+input_modal_field_text = "#a89984"
+info_modal_bg = "#2c323b"
+info_modal_text = "#a89984"
+error_modal_bg = "#2c323b"
+error_modal_text = "#a87322"
+yesno_modal_bg = "#2c323b"
+yesno_modal_text = "#a89984"
+tofu_modal_bg = "#2c323b"
+tofu_modal_text = "#a89984"
+subscription_modal_bg = "#2c323b"
+subscription_modal_text = "#a89984"
+
+hdg_1 = "#a07e3b"
+hdg_2 = "#a07e3b"
+hdg_3 = "#83a598"
+regular_text = "#a89984"
+preformatted_text = "#83a598"
+list_text = "#a89984"

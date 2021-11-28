@@ -1,0 +1,42 @@
+# Base16 Pasque - amfora color config
+# Gabriel Fontes (https://github.com/Misterio77)
+
+[theme]
+bg = "#271C3A"
+fg = "#DEDCDF"
+
+bottombar_label = "#953B9D"
+bottombar_text = "#DEDCDF"
+bottombar_bg = "#100323"
+
+tab_num = "#3E2D5C"
+tab_divider = "#BEBCBF"
+
+amfora_link = "#C6914B"
+foreign_link = "#5D5766"
+link_number = "#5D5766"
+
+btn_bg = "#100323"
+btn_text = "#DEDCDF"
+
+input_modal_bg = "#100323"
+input_modal_text = "#DEDCDF"
+input_modal_field_bg = "#271C3A"
+input_modal_field_text = "#DEDCDF"
+info_modal_bg = "#100323"
+info_modal_text = "#DEDCDF"
+error_modal_bg = "#100323"
+error_modal_text = "#59325C"
+yesno_modal_bg = "#100323"
+yesno_modal_text = "#DEDCDF"
+tofu_modal_bg = "#100323"
+tofu_modal_text = "#DEDCDF"
+subscription_modal_bg = "#100323"
+subscription_modal_text = "#DEDCDF"
+
+hdg_1 = "#918889"
+hdg_2 = "#804ead"
+hdg_3 = "#8E7DC6"
+regular_text = "#DEDCDF"
+preformatted_text = "#7263AA"
+list_text = "#DEDCDF"

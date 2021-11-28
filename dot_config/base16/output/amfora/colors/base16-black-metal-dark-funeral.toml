@@ -1,0 +1,42 @@
+# Base16 Black Metal (Dark Funeral) - amfora color config
+# metalelf0 (https://github.com/metalelf0)
+
+[theme]
+bg = "#000000"
+fg = "#c1c1c1"
+
+bottombar_label = "#999999"
+bottombar_text = "#c1c1c1"
+bottombar_bg = "#121212"
+
+tab_num = "#222222"
+tab_divider = "#999999"
+
+amfora_link = "#d0dfee"
+foreign_link = "#333333"
+link_number = "#333333"
+
+btn_bg = "#121212"
+btn_text = "#c1c1c1"
+
+input_modal_bg = "#121212"
+input_modal_text = "#c1c1c1"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#c1c1c1"
+info_modal_bg = "#121212"
+info_modal_text = "#c1c1c1"
+error_modal_bg = "#121212"
+error_modal_text = "#444444"
+yesno_modal_bg = "#121212"
+yesno_modal_text = "#c1c1c1"
+tofu_modal_bg = "#121212"
+tofu_modal_text = "#c1c1c1"
+subscription_modal_bg = "#121212"
+subscription_modal_text = "#c1c1c1"
+
+hdg_1 = "#aaaaaa"
+hdg_2 = "#5f81a5"
+hdg_3 = "#888888"
+regular_text = "#c1c1c1"
+preformatted_text = "#aaaaaa"
+list_text = "#c1c1c1"

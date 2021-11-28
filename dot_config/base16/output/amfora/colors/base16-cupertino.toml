@@ -1,0 +1,42 @@
+# Base16 Cupertino - amfora color config
+# Defman21
+
+[theme]
+bg = "#ffffff"
+fg = "#404040"
+
+bottombar_label = "#a90d91"
+bottombar_text = "#404040"
+bottombar_bg = "#c0c0c0"
+
+tab_num = "#c0c0c0"
+tab_divider = "#808080"
+
+amfora_link = "#007400"
+foreign_link = "#808080"
+link_number = "#808080"
+
+btn_bg = "#c0c0c0"
+btn_text = "#404040"
+
+input_modal_bg = "#c0c0c0"
+input_modal_text = "#404040"
+input_modal_field_bg = "#ffffff"
+input_modal_field_text = "#404040"
+info_modal_bg = "#c0c0c0"
+info_modal_text = "#404040"
+error_modal_bg = "#c0c0c0"
+error_modal_text = "#826b28"
+yesno_modal_bg = "#c0c0c0"
+yesno_modal_text = "#404040"
+tofu_modal_bg = "#c0c0c0"
+tofu_modal_text = "#404040"
+subscription_modal_bg = "#c0c0c0"
+subscription_modal_text = "#404040"
+
+hdg_1 = "#eb8500"
+hdg_2 = "#826b28"
+hdg_3 = "#0000ff"
+regular_text = "#404040"
+preformatted_text = "#318495"
+list_text = "#404040"

@@ -1,0 +1,42 @@
+# Base16 Gigavolt - amfora color config
+# Aidan Swope (http://github.com/Whillikers)
+
+[theme]
+bg = "#202126"
+fg = "#e9e7e1"
+
+bottombar_label = "#ae94f9"
+bottombar_text = "#e9e7e1"
+bottombar_bg = "#2d303d"
+
+tab_num = "#5a576e"
+tab_divider = "#cad3ff"
+
+amfora_link = "#f2e6a9"
+foreign_link = "#a1d2e6"
+link_number = "#a1d2e6"
+
+btn_bg = "#2d303d"
+btn_text = "#e9e7e1"
+
+input_modal_bg = "#2d303d"
+input_modal_text = "#e9e7e1"
+input_modal_field_bg = "#202126"
+input_modal_field_text = "#e9e7e1"
+info_modal_bg = "#2d303d"
+info_modal_text = "#e9e7e1"
+error_modal_bg = "#2d303d"
+error_modal_text = "#6187ff"
+yesno_modal_bg = "#2d303d"
+yesno_modal_text = "#e9e7e1"
+tofu_modal_bg = "#2d303d"
+tofu_modal_text = "#e9e7e1"
+subscription_modal_bg = "#2d303d"
+subscription_modal_text = "#e9e7e1"
+
+hdg_1 = "#19f988"
+hdg_2 = "#ffdc2d"
+hdg_3 = "#40bfff"
+regular_text = "#e9e7e1"
+preformatted_text = "#fb6acb"
+list_text = "#e9e7e1"

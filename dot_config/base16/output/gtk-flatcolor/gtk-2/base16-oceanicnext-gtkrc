@@ -1,0 +1,15 @@
+## Base16 OceanicNext
+# Author: https://github.com/voronianski/oceanic-next-color-scheme
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#1B2B34
+color0:#1B2B34
+text_color:#C0C5CE
+selected_bg_color:#4F5B66
+selected_fg_color:#C0C5CE
+tooltip_bg_color:#1B2B34
+tooltip_fg_color:#C0C5CE
+titlebar_bg_color:#1B2B34
+titlebar_fg_color:#C0C5CE
+menu_bg_color:#1B2B34
+menu_fg_color:#C0C5CE
+link_color:#4F5B66"

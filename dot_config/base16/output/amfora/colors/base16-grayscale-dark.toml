@@ -1,0 +1,42 @@
+# Base16 Grayscale Dark - amfora color config
+# Alexandre Gavioli (https://github.com/Alexx2/)
+
+[theme]
+bg = "#101010"
+fg = "#b9b9b9"
+
+bottombar_label = "#747474"
+bottombar_text = "#b9b9b9"
+bottombar_bg = "#252525"
+
+tab_num = "#464646"
+tab_divider = "#ababab"
+
+amfora_link = "#8e8e8e"
+foreign_link = "#525252"
+link_number = "#525252"
+
+btn_bg = "#252525"
+btn_text = "#b9b9b9"
+
+input_modal_bg = "#252525"
+input_modal_text = "#b9b9b9"
+input_modal_field_bg = "#101010"
+input_modal_field_text = "#b9b9b9"
+info_modal_bg = "#252525"
+info_modal_text = "#b9b9b9"
+error_modal_bg = "#252525"
+error_modal_text = "#5e5e5e"
+yesno_modal_bg = "#252525"
+yesno_modal_text = "#b9b9b9"
+tofu_modal_bg = "#252525"
+tofu_modal_text = "#b9b9b9"
+subscription_modal_bg = "#252525"
+subscription_modal_text = "#b9b9b9"
+
+hdg_1 = "#999999"
+hdg_2 = "#a0a0a0"
+hdg_3 = "#686868"
+regular_text = "#b9b9b9"
+preformatted_text = "#868686"
+list_text = "#b9b9b9"

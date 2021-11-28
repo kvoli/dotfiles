@@ -1,0 +1,42 @@
+# Base16 Gruvbox dark, soft - amfora color config
+# Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+[theme]
+bg = "#32302f"
+fg = "#d5c4a1"
+
+bottombar_label = "#d3869b"
+bottombar_text = "#d5c4a1"
+bottombar_bg = "#3c3836"
+
+tab_num = "#504945"
+tab_divider = "#bdae93"
+
+amfora_link = "#b8bb26"
+foreign_link = "#665c54"
+link_number = "#665c54"
+
+btn_bg = "#3c3836"
+btn_text = "#d5c4a1"
+
+input_modal_bg = "#3c3836"
+input_modal_text = "#d5c4a1"
+input_modal_field_bg = "#32302f"
+input_modal_field_text = "#d5c4a1"
+info_modal_bg = "#3c3836"
+info_modal_text = "#d5c4a1"
+error_modal_bg = "#3c3836"
+error_modal_text = "#d65d0e"
+yesno_modal_bg = "#3c3836"
+yesno_modal_text = "#d5c4a1"
+tofu_modal_bg = "#3c3836"
+tofu_modal_text = "#d5c4a1"
+subscription_modal_bg = "#3c3836"
+subscription_modal_text = "#d5c4a1"
+
+hdg_1 = "#fe8019"
+hdg_2 = "#fabd2f"
+hdg_3 = "#83a598"
+regular_text = "#d5c4a1"
+preformatted_text = "#8ec07c"
+list_text = "#d5c4a1"

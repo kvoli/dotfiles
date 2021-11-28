@@ -1,0 +1,42 @@
+# Base16 Flat - amfora color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+bg = "#2C3E50"
+fg = "#e0e0e0"
+
+bottombar_label = "#9B59B6"
+bottombar_text = "#e0e0e0"
+bottombar_bg = "#34495E"
+
+tab_num = "#7F8C8D"
+tab_divider = "#BDC3C7"
+
+amfora_link = "#2ECC71"
+foreign_link = "#95A5A6"
+link_number = "#95A5A6"
+
+btn_bg = "#34495E"
+btn_text = "#e0e0e0"
+
+input_modal_bg = "#34495E"
+input_modal_text = "#e0e0e0"
+input_modal_field_bg = "#2C3E50"
+input_modal_field_text = "#e0e0e0"
+info_modal_bg = "#34495E"
+info_modal_text = "#e0e0e0"
+error_modal_bg = "#34495E"
+error_modal_text = "#be643c"
+yesno_modal_bg = "#34495E"
+yesno_modal_text = "#e0e0e0"
+tofu_modal_bg = "#34495E"
+tofu_modal_text = "#e0e0e0"
+subscription_modal_bg = "#34495E"
+subscription_modal_text = "#e0e0e0"
+
+hdg_1 = "#E67E22"
+hdg_2 = "#F1C40F"
+hdg_3 = "#3498DB"
+regular_text = "#e0e0e0"
+preformatted_text = "#1ABC9C"
+list_text = "#e0e0e0"

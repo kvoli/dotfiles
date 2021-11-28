@@ -1,0 +1,42 @@
+# Base16 Spacemacs - amfora color config
+# Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+
+[theme]
+bg = "#1f2022"
+fg = "#a3a3a3"
+
+bottombar_label = "#a31db1"
+bottombar_text = "#a3a3a3"
+bottombar_bg = "#282828"
+
+tab_num = "#444155"
+tab_divider = "#b8b8b8"
+
+amfora_link = "#67b11d"
+foreign_link = "#585858"
+link_number = "#585858"
+
+btn_bg = "#282828"
+btn_text = "#a3a3a3"
+
+input_modal_bg = "#282828"
+input_modal_text = "#a3a3a3"
+input_modal_field_bg = "#1f2022"
+input_modal_field_text = "#a3a3a3"
+info_modal_bg = "#282828"
+info_modal_text = "#a3a3a3"
+error_modal_bg = "#282828"
+error_modal_text = "#b03060"
+yesno_modal_bg = "#282828"
+yesno_modal_text = "#a3a3a3"
+tofu_modal_bg = "#282828"
+tofu_modal_text = "#a3a3a3"
+subscription_modal_bg = "#282828"
+subscription_modal_text = "#a3a3a3"
+
+hdg_1 = "#ffa500"
+hdg_2 = "#b1951d"
+hdg_3 = "#4f97d7"
+regular_text = "#a3a3a3"
+preformatted_text = "#2d9574"
+list_text = "#a3a3a3"

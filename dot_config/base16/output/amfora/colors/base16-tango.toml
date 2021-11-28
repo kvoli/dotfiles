@@ -1,0 +1,42 @@
+# Base16 Tango - amfora color config
+# @Schnouki, based on the Tango Desktop Project
+
+[theme]
+bg = "#2e3436"
+fg = "#d3d7cf"
+
+bottombar_label = "#75507b"
+bottombar_text = "#d3d7cf"
+bottombar_bg = "#8ae234"
+
+tab_num = "#fce94f"
+tab_divider = "#729fcf"
+
+amfora_link = "#4e9a06"
+foreign_link = "#555753"
+link_number = "#555753"
+
+btn_bg = "#8ae234"
+btn_text = "#d3d7cf"
+
+input_modal_bg = "#8ae234"
+input_modal_text = "#d3d7cf"
+input_modal_field_bg = "#2e3436"
+input_modal_field_text = "#d3d7cf"
+info_modal_bg = "#8ae234"
+info_modal_text = "#d3d7cf"
+error_modal_bg = "#8ae234"
+error_modal_text = "#34e2e2"
+yesno_modal_bg = "#8ae234"
+yesno_modal_text = "#d3d7cf"
+tofu_modal_bg = "#8ae234"
+tofu_modal_text = "#d3d7cf"
+subscription_modal_bg = "#8ae234"
+subscription_modal_text = "#d3d7cf"
+
+hdg_1 = "#ef2929"
+hdg_2 = "#c4a000"
+hdg_3 = "#3465a4"
+regular_text = "#d3d7cf"
+preformatted_text = "#06989a"
+list_text = "#d3d7cf"

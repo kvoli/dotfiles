@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Windows NT Light by Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#ffffff"
+idle_fg = "#808080"
+info_bg = "#008080"
+info_fg = "#ffffff"
+good_bg = "#008000"
+good_fg = "#ffffff"
+warning_bg = "#808000"
+warning_fg = "#ffffff"
+critical_bg = "#800000"
+critical_fg = "#ffffff"
+# The rest of the theme settings are left at default.

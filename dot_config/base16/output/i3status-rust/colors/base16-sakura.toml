@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Sakura by Misterio77 (http://github.com/Misterio77)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#feedf3"
+idle_fg = "#564448"
+info_bg = "#1d8991"
+info_fg = "#feedf3"
+good_bg = "#2e916d"
+good_fg = "#feedf3"
+warning_bg = "#c29461"
+warning_fg = "#feedf3"
+critical_bg = "#df2d52"
+critical_fg = "#feedf3"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,42 @@
+# Base16 Unikitty Light - amfora color config
+# Josh W Lewis (@joshwlewis)
+
+[theme]
+bg = "#ffffff"
+fg = "#6c696e"
+
+bottombar_label = "#aa17e6"
+bottombar_text = "#6c696e"
+bottombar_bg = "#e1e1e2"
+
+tab_num = "#c4c3c5"
+tab_divider = "#89878b"
+
+amfora_link = "#17ad98"
+foreign_link = "#a7a5a8"
+link_number = "#a7a5a8"
+
+btn_bg = "#e1e1e2"
+btn_text = "#6c696e"
+
+input_modal_bg = "#e1e1e2"
+input_modal_text = "#6c696e"
+input_modal_field_bg = "#ffffff"
+input_modal_field_text = "#6c696e"
+info_modal_bg = "#e1e1e2"
+info_modal_text = "#6c696e"
+error_modal_bg = "#e1e1e2"
+error_modal_text = "#e013d0"
+yesno_modal_bg = "#e1e1e2"
+yesno_modal_text = "#6c696e"
+tofu_modal_bg = "#e1e1e2"
+tofu_modal_text = "#6c696e"
+subscription_modal_bg = "#e1e1e2"
+subscription_modal_text = "#6c696e"
+
+hdg_1 = "#d65407"
+hdg_2 = "#dc8a0e"
+hdg_3 = "#775dff"
+regular_text = "#6c696e"
+preformatted_text = "#149bda"
+list_text = "#6c696e"

@@ -1,0 +1,42 @@
+# Base16 Classic Light - amfora color config
+# Jason Heeris (http://heeris.id.au)
+
+[theme]
+bg = "#F5F5F5"
+fg = "#303030"
+
+bottombar_label = "#AA759F"
+bottombar_text = "#303030"
+bottombar_bg = "#E0E0E0"
+
+tab_num = "#D0D0D0"
+tab_divider = "#505050"
+
+amfora_link = "#90A959"
+foreign_link = "#B0B0B0"
+link_number = "#B0B0B0"
+
+btn_bg = "#E0E0E0"
+btn_text = "#303030"
+
+input_modal_bg = "#E0E0E0"
+input_modal_text = "#303030"
+input_modal_field_bg = "#F5F5F5"
+input_modal_field_text = "#303030"
+info_modal_bg = "#E0E0E0"
+info_modal_text = "#303030"
+error_modal_bg = "#E0E0E0"
+error_modal_text = "#8F5536"
+yesno_modal_bg = "#E0E0E0"
+yesno_modal_text = "#303030"
+tofu_modal_bg = "#E0E0E0"
+tofu_modal_text = "#303030"
+subscription_modal_bg = "#E0E0E0"
+subscription_modal_text = "#303030"
+
+hdg_1 = "#D28445"
+hdg_2 = "#F4BF75"
+hdg_3 = "#6A9FB5"
+regular_text = "#303030"
+preformatted_text = "#75B5AA"
+list_text = "#303030"

@@ -1,0 +1,42 @@
+# Base16 Atelier Heath - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#1b181b"
+fg = "#ab9bab"
+
+bottombar_label = "#7b59c0"
+bottombar_text = "#ab9bab"
+bottombar_bg = "#292329"
+
+tab_num = "#695d69"
+tab_divider = "#9e8f9e"
+
+amfora_link = "#918b3b"
+foreign_link = "#776977"
+link_number = "#776977"
+
+btn_bg = "#292329"
+btn_text = "#ab9bab"
+
+input_modal_bg = "#292329"
+input_modal_text = "#ab9bab"
+input_modal_field_bg = "#1b181b"
+input_modal_field_text = "#ab9bab"
+info_modal_bg = "#292329"
+info_modal_text = "#ab9bab"
+error_modal_bg = "#292329"
+error_modal_text = "#cc33cc"
+yesno_modal_bg = "#292329"
+yesno_modal_text = "#ab9bab"
+tofu_modal_bg = "#292329"
+tofu_modal_text = "#ab9bab"
+subscription_modal_bg = "#292329"
+subscription_modal_text = "#ab9bab"
+
+hdg_1 = "#a65926"
+hdg_2 = "#bb8a35"
+hdg_3 = "#516aec"
+regular_text = "#ab9bab"
+preformatted_text = "#159393"
+list_text = "#ab9bab"

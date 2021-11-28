@@ -1,0 +1,42 @@
+# Base16 Paraiso - amfora color config
+# Jan T. Sott
+
+[theme]
+bg = "#2f1e2e"
+fg = "#a39e9b"
+
+bottombar_label = "#815ba4"
+bottombar_text = "#a39e9b"
+bottombar_bg = "#41323f"
+
+tab_num = "#4f424c"
+tab_divider = "#8d8687"
+
+amfora_link = "#48b685"
+foreign_link = "#776e71"
+link_number = "#776e71"
+
+btn_bg = "#41323f"
+btn_text = "#a39e9b"
+
+input_modal_bg = "#41323f"
+input_modal_text = "#a39e9b"
+input_modal_field_bg = "#2f1e2e"
+input_modal_field_text = "#a39e9b"
+info_modal_bg = "#41323f"
+info_modal_text = "#a39e9b"
+error_modal_bg = "#41323f"
+error_modal_text = "#e96ba8"
+yesno_modal_bg = "#41323f"
+yesno_modal_text = "#a39e9b"
+tofu_modal_bg = "#41323f"
+tofu_modal_text = "#a39e9b"
+subscription_modal_bg = "#41323f"
+subscription_modal_text = "#a39e9b"
+
+hdg_1 = "#f99b15"
+hdg_2 = "#fec418"
+hdg_3 = "#06b6ef"
+regular_text = "#a39e9b"
+preformatted_text = "#5bc4bf"
+list_text = "#a39e9b"

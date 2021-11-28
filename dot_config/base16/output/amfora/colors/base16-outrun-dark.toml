@@ -1,0 +1,42 @@
+# Base16 Outrun Dark - amfora color config
+# Hugo Delahousse (http://github.com/hugodelahousse/)
+
+[theme]
+bg = "#00002A"
+fg = "#D0D0FA"
+
+bottombar_label = "#F10596"
+bottombar_text = "#D0D0FA"
+bottombar_bg = "#20204A"
+
+tab_num = "#30305A"
+tab_divider = "#B0B0DA"
+
+amfora_link = "#59F176"
+foreign_link = "#50507A"
+link_number = "#50507A"
+
+btn_bg = "#20204A"
+btn_text = "#D0D0FA"
+
+input_modal_bg = "#20204A"
+input_modal_text = "#D0D0FA"
+input_modal_field_bg = "#00002A"
+input_modal_field_text = "#D0D0FA"
+info_modal_bg = "#20204A"
+info_modal_text = "#D0D0FA"
+error_modal_bg = "#20204A"
+error_modal_text = "#F003EF"
+yesno_modal_bg = "#20204A"
+yesno_modal_text = "#D0D0FA"
+tofu_modal_bg = "#20204A"
+tofu_modal_text = "#D0D0FA"
+subscription_modal_bg = "#20204A"
+subscription_modal_text = "#D0D0FA"
+
+hdg_1 = "#FC8D28"
+hdg_2 = "#F3E877"
+hdg_3 = "#66B0FF"
+regular_text = "#D0D0FA"
+preformatted_text = "#0EF0F0"
+list_text = "#D0D0FA"

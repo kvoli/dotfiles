@@ -1,0 +1,42 @@
+# Base16 Embers - amfora color config
+# Jannik Siebert (https://github.com/janniks)
+
+[theme]
+bg = "#16130F"
+fg = "#A39A90"
+
+bottombar_label = "#82576D"
+bottombar_text = "#A39A90"
+bottombar_bg = "#2C2620"
+
+tab_num = "#433B32"
+tab_divider = "#8A8075"
+
+amfora_link = "#57826D"
+foreign_link = "#5A5047"
+link_number = "#5A5047"
+
+btn_bg = "#2C2620"
+btn_text = "#A39A90"
+
+input_modal_bg = "#2C2620"
+input_modal_text = "#A39A90"
+input_modal_field_bg = "#16130F"
+input_modal_field_text = "#A39A90"
+info_modal_bg = "#2C2620"
+info_modal_text = "#A39A90"
+error_modal_bg = "#2C2620"
+error_modal_text = "#825757"
+yesno_modal_bg = "#2C2620"
+yesno_modal_text = "#A39A90"
+tofu_modal_bg = "#2C2620"
+tofu_modal_text = "#A39A90"
+subscription_modal_bg = "#2C2620"
+subscription_modal_text = "#A39A90"
+
+hdg_1 = "#828257"
+hdg_2 = "#6D8257"
+hdg_3 = "#6D5782"
+regular_text = "#A39A90"
+preformatted_text = "#576D82"
+list_text = "#A39A90"

@@ -1,0 +1,21 @@
+<!--    Base16 Kimber
+        Author: Mishka Nguyen (https://github.com/akhsiM)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="222222" />
+    <option name="treeSelectionColor" value="537C9C" />
+    <option name="highlightColor" value="555D55" />
+    <option name="secondBorderColor" value="222222" />
+    <option name="tableSelectedColor" value="537C9C" />
+    <option name="contrastColor" value="313131" />
+    <option name="disabledColor" value="5A5A5A" />
+    <option name="secondaryBackgroundColor" value="313131" />
+    <option name="buttonColor" value="222222" />
+    <option name="selectionForegroundColor" value="C3C3B4" />
+    <option name="selectionBackgroundColor" value="537C9C" />
+    <option name="textColor" value="C3C3B4" />
+    <option name="foregroundColor" value="DEDEE7" />
+    <option name="backgroundColor" value="222222" />
+  </component>
+</application> 

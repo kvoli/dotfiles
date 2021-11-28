@@ -1,0 +1,42 @@
+# Base16 Windows High Contrast Light - amfora color config
+# Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+bg = "#fcfcfc"
+fg = "#545454"
+
+bottombar_label = "#800080"
+bottombar_text = "#545454"
+bottombar_bg = "#e8e8e8"
+
+tab_num = "#d4d4d4"
+tab_divider = "#7e7e7e"
+
+amfora_link = "#008000"
+foreign_link = "#c0c0c0"
+link_number = "#c0c0c0"
+
+btn_bg = "#e8e8e8"
+btn_text = "#545454"
+
+input_modal_bg = "#e8e8e8"
+input_modal_text = "#545454"
+input_modal_field_bg = "#fcfcfc"
+input_modal_field_text = "#545454"
+info_modal_bg = "#e8e8e8"
+info_modal_text = "#545454"
+error_modal_bg = "#e8e8e8"
+error_modal_text = "#54fc54"
+yesno_modal_bg = "#e8e8e8"
+yesno_modal_text = "#545454"
+tofu_modal_bg = "#e8e8e8"
+tofu_modal_text = "#545454"
+subscription_modal_bg = "#e8e8e8"
+subscription_modal_text = "#545454"
+
+hdg_1 = "#fcfc54"
+hdg_2 = "#808000"
+hdg_3 = "#000080"
+regular_text = "#545454"
+preformatted_text = "#008080"
+list_text = "#545454"

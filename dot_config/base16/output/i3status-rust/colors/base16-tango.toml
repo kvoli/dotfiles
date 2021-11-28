@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Tango by @Schnouki, based on the Tango Desktop Project
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#2e3436"
+idle_fg = "#d3d7cf"
+info_bg = "#06989a"
+info_fg = "#2e3436"
+good_bg = "#4e9a06"
+good_fg = "#2e3436"
+warning_bg = "#c4a000"
+warning_fg = "#2e3436"
+critical_bg = "#cc0000"
+critical_fg = "#2e3436"
+# The rest of the theme settings are left at default.

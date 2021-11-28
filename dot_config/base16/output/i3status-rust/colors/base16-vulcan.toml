@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# vulcan by Andrey Varfolomeev
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#041523"
+idle_fg = "#5b778c"
+info_bg = "#977d7c"
+info_fg = "#041523"
+good_bg = "#977d7c"
+good_fg = "#041523"
+warning_bg = "#adb4b9"
+warning_fg = "#041523"
+critical_bg = "#818591"
+critical_fg = "#041523"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,42 @@
+# Base16 Zenburn - amfora color config
+# elnawe
+
+[theme]
+bg = "#383838"
+fg = "#dcdccc"
+
+bottombar_label = "#dc8cc3"
+bottombar_text = "#dcdccc"
+bottombar_bg = "#404040"
+
+tab_num = "#606060"
+tab_divider = "#808080"
+
+amfora_link = "#5f7f5f"
+foreign_link = "#6f6f6f"
+link_number = "#6f6f6f"
+
+btn_bg = "#404040"
+btn_text = "#dcdccc"
+
+input_modal_bg = "#404040"
+input_modal_text = "#dcdccc"
+input_modal_field_bg = "#383838"
+input_modal_field_text = "#dcdccc"
+info_modal_bg = "#404040"
+info_modal_text = "#dcdccc"
+error_modal_bg = "#404040"
+error_modal_text = "#000000"
+yesno_modal_bg = "#404040"
+yesno_modal_text = "#dcdccc"
+tofu_modal_bg = "#404040"
+tofu_modal_text = "#dcdccc"
+subscription_modal_bg = "#404040"
+subscription_modal_text = "#dcdccc"
+
+hdg_1 = "#dfaf8f"
+hdg_2 = "#e0cf9f"
+hdg_3 = "#7cb8bb"
+regular_text = "#dcdccc"
+preformatted_text = "#93e0e3"
+list_text = "#dcdccc"

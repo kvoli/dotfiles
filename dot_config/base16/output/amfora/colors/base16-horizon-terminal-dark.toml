@@ -1,0 +1,42 @@
+# Base16 Horizon Dark - amfora color config
+# Michaël Ball (http://github.com/michael-ball/)
+
+[theme]
+bg = "#1C1E26"
+fg = "#CBCED0"
+
+bottombar_label = "#EE64AC"
+bottombar_text = "#CBCED0"
+bottombar_bg = "#232530"
+
+tab_num = "#2E303E"
+tab_divider = "#9DA0A2"
+
+amfora_link = "#29D398"
+foreign_link = "#6F6F70"
+link_number = "#6F6F70"
+
+btn_bg = "#232530"
+btn_text = "#CBCED0"
+
+input_modal_bg = "#232530"
+input_modal_text = "#CBCED0"
+input_modal_field_bg = "#1C1E26"
+input_modal_field_text = "#CBCED0"
+info_modal_bg = "#232530"
+info_modal_text = "#CBCED0"
+error_modal_bg = "#232530"
+error_modal_text = "#F09383"
+yesno_modal_bg = "#232530"
+yesno_modal_text = "#CBCED0"
+tofu_modal_bg = "#232530"
+tofu_modal_text = "#CBCED0"
+subscription_modal_bg = "#232530"
+subscription_modal_text = "#CBCED0"
+
+hdg_1 = "#FAB795"
+hdg_2 = "#FAC29A"
+hdg_3 = "#26BBD9"
+regular_text = "#CBCED0"
+preformatted_text = "#59E1E3"
+list_text = "#CBCED0"

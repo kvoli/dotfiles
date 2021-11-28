@@ -1,0 +1,49 @@
+// Base16 Dark Violet
+// Scheme: ruler501 (https://github.com/ruler501/base16-darkviolet)
+
+var color_scheme = {
+        'base00': '#000000',
+        'base01': '#231a40',
+        'base02': '#432d59',
+        'base03': '#593380',
+        'base04': '#00ff00',
+        'base05': '#b08ae6',
+        'base06': '#9045e6',
+        'base07': '#a366ff',
+        'base08': '#a82ee6',
+        'base09': '#bb66cc',
+        'base0A': '#f29df2',
+        'base0B': '#4595e6',
+        'base0C': '#40dfff',
+        'base0D': '#4136d9',
+        'base0E': '#7e5ce6',
+        'base0F': '#a886bf',
+};
+
+term_.prefs_.set('background-color', color_scheme.base00);
+term_.prefs_.set('foreground-color', color_scheme.base05);
+term_.prefs_.set('cursor-color', "rgba(176, 138, 230, 0.5)");
+
+term_.prefs_.set('color-palette-overrides', 
+                        [color_scheme.base00,
+                        color_scheme.base08,
+                        color_scheme.base0B,
+                        color_scheme.base0A,
+                        color_scheme.base0D,
+                        color_scheme.base0E,
+                        color_scheme.base0C,
+                        color_scheme.base05,
+                        color_scheme.base03,
+                        color_scheme.base08,
+                        color_scheme.base0B,
+                        color_scheme.base0A,
+                        color_scheme.base0D,
+                        color_scheme.base0E,
+                        color_scheme.base0C,
+                        color_scheme.base07,
+                        color_scheme.base09,
+                        color_scheme.base0F,
+                        color_scheme.base01,
+                        color_scheme.base02,
+                        color_scheme.base04,
+                        color_scheme.base06]);

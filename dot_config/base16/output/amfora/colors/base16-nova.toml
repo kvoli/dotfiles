@@ -1,0 +1,42 @@
+# Base16 Nova - amfora color config
+# George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+
+[theme]
+bg = "#3C4C55"
+fg = "#C5D4DD"
+
+bottombar_label = "#9A93E1"
+bottombar_text = "#C5D4DD"
+bottombar_bg = "#556873"
+
+tab_num = "#6A7D89"
+tab_divider = "#899BA6"
+
+amfora_link = "#7FC1CA"
+foreign_link = "#899BA6"
+link_number = "#899BA6"
+
+btn_bg = "#556873"
+btn_text = "#C5D4DD"
+
+input_modal_bg = "#556873"
+input_modal_text = "#C5D4DD"
+input_modal_field_bg = "#3C4C55"
+input_modal_field_text = "#C5D4DD"
+info_modal_bg = "#556873"
+info_modal_text = "#C5D4DD"
+error_modal_bg = "#556873"
+error_modal_text = "#F2C38F"
+yesno_modal_bg = "#556873"
+yesno_modal_text = "#C5D4DD"
+tofu_modal_bg = "#556873"
+tofu_modal_text = "#C5D4DD"
+subscription_modal_bg = "#556873"
+subscription_modal_text = "#C5D4DD"
+
+hdg_1 = "#7FC1CA"
+hdg_2 = "#A8CE93"
+hdg_3 = "#83AFE5"
+regular_text = "#C5D4DD"
+preformatted_text = "#F2C38F"
+list_text = "#C5D4DD"

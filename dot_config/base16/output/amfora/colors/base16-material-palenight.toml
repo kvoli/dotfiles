@@ -1,0 +1,42 @@
+# Base16 Material Palenight - amfora color config
+# Nate Peterson
+
+[theme]
+bg = "#292D3E"
+fg = "#959DCB"
+
+bottombar_label = "#C792EA"
+bottombar_text = "#959DCB"
+bottombar_bg = "#444267"
+
+tab_num = "#32374D"
+tab_divider = "#8796B0"
+
+amfora_link = "#C3E88D"
+foreign_link = "#676E95"
+link_number = "#676E95"
+
+btn_bg = "#444267"
+btn_text = "#959DCB"
+
+input_modal_bg = "#444267"
+input_modal_text = "#959DCB"
+input_modal_field_bg = "#292D3E"
+input_modal_field_text = "#959DCB"
+info_modal_bg = "#444267"
+info_modal_text = "#959DCB"
+error_modal_bg = "#444267"
+error_modal_text = "#FF5370"
+yesno_modal_bg = "#444267"
+yesno_modal_text = "#959DCB"
+tofu_modal_bg = "#444267"
+tofu_modal_text = "#959DCB"
+subscription_modal_bg = "#444267"
+subscription_modal_text = "#959DCB"
+
+hdg_1 = "#F78C6C"
+hdg_2 = "#FFCB6B"
+hdg_3 = "#82AAFF"
+regular_text = "#959DCB"
+preformatted_text = "#89DDFF"
+list_text = "#959DCB"

@@ -1,0 +1,42 @@
+# Base16 vulcan - amfora color config
+# Andrey Varfolomeev
+
+[theme]
+bg = "#041523"
+fg = "#5b778c"
+
+bottombar_label = "#9198a3"
+bottombar_text = "#5b778c"
+bottombar_bg = "#122339"
+
+tab_num = "#003552"
+tab_divider = "#6b6977"
+
+amfora_link = "#977d7c"
+foreign_link = "#7a5759"
+link_number = "#7a5759"
+
+btn_bg = "#122339"
+btn_text = "#5b778c"
+
+input_modal_bg = "#122339"
+input_modal_text = "#5b778c"
+input_modal_field_bg = "#041523"
+input_modal_field_text = "#5b778c"
+info_modal_bg = "#122339"
+info_modal_text = "#5b778c"
+error_modal_bg = "#122339"
+error_modal_text = "#977d7c"
+yesno_modal_bg = "#122339"
+yesno_modal_text = "#5b778c"
+tofu_modal_bg = "#122339"
+tofu_modal_text = "#5b778c"
+subscription_modal_bg = "#122339"
+subscription_modal_text = "#5b778c"
+
+hdg_1 = "#9198a3"
+hdg_2 = "#adb4b9"
+hdg_3 = "#977d7c"
+regular_text = "#5b778c"
+preformatted_text = "#977d7c"
+list_text = "#5b778c"

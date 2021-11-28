@@ -1,0 +1,165 @@
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
+export ZSH="/home/kvoli/.oh-my-zsh"
+export BROWSER="/usr/bin/waterfox-g3"
+
+alias vim="nvim"
+alias zshconfig="nvim ~/.zshrc"
+alias ohmyzsh="nvim ~/.oh-my-zsh"
+alias gg="git add . && git commit -m \"auto commit\" && git push"
+alias gcm="git commit -m "
+alias gs="git status "
+alias gP="git pull"
+alias gp="git push"
+alias gfp="git fetch && git pull"
+alias lll="lsd -lA "
+alias k="kubectl"
+alias kx="kubectx"
+alias d="docker"
+alias dif="delta"
+alias weather="curl wttr.in/Melbourne"
+alias idea="~/bin/idea"
+alias os="openstack"
+alias zigmod="~/bin/zigmod-x86_64-linux"
+alias badlion="~/Downloads/BadlionClient &!"
+alias mail="neomutt"
+alias libgen="/home/kvoli/go/src/bin/libgen-cli"
+alias calen="/usr/bin/gcalcli"
+alias os="openstack"
+alias nec="source ~/Documents/git/uni/research/code/mck8s/infra/necs.sh"
+alias calc="kalker"
+alias zathura='zathura -e $( tabbed -c ) & disown'
+alias counttex='clear;texcount -total -brief -relaxed -col -sum=1,1,2,0,20,10,40 *.tex'
+alias sl='slock'
+
+ZSH_THEME="powerlevel10k/powerlevel10k"
+plugins+=(git zsh-autosuggestions fast-syntax-highlighting)
+
+wmname LG3D
+
+source $ZSH/oh-my-zsh.sh
+source /home/kvoli/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/kvoli/.config/forgit/forgit.plugin.zsh
+if [ -n "${NVIM_LISTEN_ADDRESS+x}" ]; then
+  export COLORTERM="truecolor"
+fi
+
+export TERM="xterm-256color"
+
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+[ -f /opt/miniconda3/etc/profile.d/conda.sh ] && source /opt/miniconda3/etc/profile.d/conda.sh
+
+eval "$(thefuck --alias)"
+eval "$(direnv hook zsh)"
+eval "$(zoxide init zsh)"
+eval "$(mcfly init zsh)"
+
+NPM_PACKAGES="${HOME}/.npm-packages"
+RUST_PACKAGES="${HOME}/.cargo"
+
+export BASE16_SHELL="/home/kvoli/.config/base16/output/shell/"
+
+export HIGHLIGHT_STYLE=voidbear
+export PAGER=nvimpager
+export PATH="$PATH:$NPM_PACKAGES/bin"
+export PATH="$PATH:$RUST_PACKAGES/bin"
+export PATH="$PATH:/.config/dotfiles/.local/bin"
+export MANPATH="${MANPATH-$(manpath)}:$NPM_PACKAGES/share/man"
+export GOPATH=$HOME/go/src
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+export GTAGSLABEL=pygments
+export VISUAL='nvim'
+export EDITOR='nvim'
+export ARCHFLAGS="-arch x86_64"
+autoload -U +X bashcompinit && bashcompinit
+export PATH="$PATH:/home/kvoli/.local/bin"
+export BAT_THEME="base16"
+export MCFLY_KEY_SCHEME=vim
+export MCFLY_FUZZY=true
+export MCFLY_RESULTS=50
+export JDK_HOME="/home/kvoli/.jabba/jdk/openjdk@1.11.0-2"
+ZVM_CURSOR_STYLE_ENABLED=false
+
+HISTFILE="$HOME/.zsh_history"
+
+p () {
+  open=zathura 
+
+  ag -U -g ".pdf$" \
+    | fast-p \
+    | fzf --read0 --reverse -e -d $'\t'  \
+    --preview-window down:80% --preview '
+      v=$(echo {q} | tr " " "|");
+      echo -e {1}"\n"{2} | grep -E "^|$v" -i --color=always;
+      ' \
+        | cut -z -f 1 -d $'\t' | tr -d '\n' | xargs -r --null $open > /dev/null 2> /dev/null
+      }
+
+    ranger_cd() {
+      temp_file="$(mktemp -t "ranger_cd.XXXXXXXXXX")"
+      ranger --choosedir="$temp_file" -- "${@:-$PWD}"
+      if chosen_dir="$(cat -- "$temp_file")" && [ -n "$chosen_dir" ] && [ "$chosen_dir" != "$PWD" ]; then
+        cd -- "$chosen_dir"
+      fi
+      rm -f -- "$temp_file"
+    }
+
+  function drm() {
+    docker ps -a | sed 1d | fzf -q "$1" --no-sort -m --tac | awk '{ print $1 }' | xargs -r docker rm
+  }
+
+function ds() {
+  local cid
+  cid=$(docker ps | sed 1d | fzf -q "$1" | awk '{print $1}')
+
+  [ -n "$cid" ] && docker stop "$cid"
+}
+
+function drmi() {
+  docker images | sed 1d | fzf -q "$1" --no-sort -m --tac | awk '{ print $3 }' | xargs -r docker rmi
+}
+
+function da() {
+  local cid
+  cid=$(docker ps -a | sed 1d | fzf -1 -q "$1" | awk '{print $1}')
+
+  [ -n "$cid" ] && docker start "$cid" && docker attach "$cid"
+}
+
+function in() {
+  yay -Slq | fzf -q "$1" -m --preview 'yay -Si {1}'| xargs -ro yay -S
+}
+
+fkill() {
+  local pid
+  if [ "$UID" != "0" ]; then
+    pid=$(ps -f -u $UID | sed 1d | fzf -m | awk '{print $2}')
+  else
+    pid=$(ps -ef | sed 1d | fzf -m | awk '{print $2}')
+  fi
+
+  if [ "x$pid" != "x" ]
+  then
+    echo $pid | xargs kill -${1:-9}
+  fi
+}
+
+function bon(){
+  bluetoothctl power on
+  bluetoothctl connect '94:DB:56:70:C0:E5'
+}
+
+function boff(){
+  bluetoothctl power off
+}
+
+bindkey -v
+source /usr/share/nvm/init-nvm.sh
+
+
+[ -s "/home/kvoli/.jabba/jabba.sh" ] && source "/home/kvoli/.jabba/jabba.sh"
+
+#python ~/.config/ascii.py kvoli

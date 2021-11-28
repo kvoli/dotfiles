@@ -1,0 +1,42 @@
+# Base16 Material - amfora color config
+# Nate Peterson
+
+[theme]
+bg = "#263238"
+fg = "#EEFFFF"
+
+bottombar_label = "#C792EA"
+bottombar_text = "#EEFFFF"
+bottombar_bg = "#2E3C43"
+
+tab_num = "#314549"
+tab_divider = "#B2CCD6"
+
+amfora_link = "#C3E88D"
+foreign_link = "#546E7A"
+link_number = "#546E7A"
+
+btn_bg = "#2E3C43"
+btn_text = "#EEFFFF"
+
+input_modal_bg = "#2E3C43"
+input_modal_text = "#EEFFFF"
+input_modal_field_bg = "#263238"
+input_modal_field_text = "#EEFFFF"
+info_modal_bg = "#2E3C43"
+info_modal_text = "#EEFFFF"
+error_modal_bg = "#2E3C43"
+error_modal_text = "#FF5370"
+yesno_modal_bg = "#2E3C43"
+yesno_modal_text = "#EEFFFF"
+tofu_modal_bg = "#2E3C43"
+tofu_modal_text = "#EEFFFF"
+subscription_modal_bg = "#2E3C43"
+subscription_modal_text = "#EEFFFF"
+
+hdg_1 = "#F78C6C"
+hdg_2 = "#FFCB6B"
+hdg_3 = "#82AAFF"
+regular_text = "#EEFFFF"
+preformatted_text = "#89DDFF"
+list_text = "#EEFFFF"

@@ -1,0 +1,15 @@
+/*
+Base16 OceanicNext
+Author: https://github.com/voronianski/oceanic-next-color-scheme
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #1B2B34;
+@define-color fg_color #C0C5CE;
+@define-color base_color #343D46;
+@define-color text_color #C0C5CE;
+@define-color text_color_disabled #65737E;
+@define-color selected_bg_color #4F5B66;
+@define-color selected_fg_color #C0C5CE;
+@define-color tooltip_bg_color #1B2B34;
+@define-color tooltip_fg_color #C0C5CE;

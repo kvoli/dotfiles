@@ -1,0 +1,42 @@
+# Base16 Marrakesh - amfora color config
+# Alexandre Gavioli (http://github.com/Alexx2/)
+
+[theme]
+bg = "#201602"
+fg = "#948e48"
+
+bottombar_label = "#8868b3"
+bottombar_text = "#948e48"
+bottombar_bg = "#302e00"
+
+tab_num = "#5f5b17"
+tab_divider = "#86813b"
+
+amfora_link = "#18974e"
+foreign_link = "#6c6823"
+link_number = "#6c6823"
+
+btn_bg = "#302e00"
+btn_text = "#948e48"
+
+input_modal_bg = "#302e00"
+input_modal_text = "#948e48"
+input_modal_field_bg = "#201602"
+input_modal_field_text = "#948e48"
+info_modal_bg = "#302e00"
+info_modal_text = "#948e48"
+error_modal_bg = "#302e00"
+error_modal_text = "#b3588e"
+yesno_modal_bg = "#302e00"
+yesno_modal_text = "#948e48"
+tofu_modal_bg = "#302e00"
+tofu_modal_text = "#948e48"
+subscription_modal_bg = "#302e00"
+subscription_modal_text = "#948e48"
+
+hdg_1 = "#b36144"
+hdg_2 = "#a88339"
+hdg_3 = "#477ca1"
+regular_text = "#948e48"
+preformatted_text = "#75a738"
+list_text = "#948e48"

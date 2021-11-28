@@ -1,0 +1,42 @@
+# Base16 Snazzy - amfora color config
+# Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+
+[theme]
+bg = "#282a36"
+fg = "#e2e4e5"
+
+bottombar_label = "#ff6ac1"
+bottombar_text = "#e2e4e5"
+bottombar_bg = "#34353e"
+
+tab_num = "#43454f"
+tab_divider = "#a5a5a9"
+
+amfora_link = "#5af78e"
+foreign_link = "#78787e"
+link_number = "#78787e"
+
+btn_bg = "#34353e"
+btn_text = "#e2e4e5"
+
+input_modal_bg = "#34353e"
+input_modal_text = "#e2e4e5"
+input_modal_field_bg = "#282a36"
+input_modal_field_text = "#e2e4e5"
+info_modal_bg = "#34353e"
+info_modal_text = "#e2e4e5"
+error_modal_bg = "#34353e"
+error_modal_text = "#b2643c"
+yesno_modal_bg = "#34353e"
+yesno_modal_text = "#e2e4e5"
+tofu_modal_bg = "#34353e"
+tofu_modal_text = "#e2e4e5"
+subscription_modal_bg = "#34353e"
+subscription_modal_text = "#e2e4e5"
+
+hdg_1 = "#ff9f43"
+hdg_2 = "#f3f99d"
+hdg_3 = "#57c7ff"
+regular_text = "#e2e4e5"
+preformatted_text = "#9aedfe"
+list_text = "#e2e4e5"

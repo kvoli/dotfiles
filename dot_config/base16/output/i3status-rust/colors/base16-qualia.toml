@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Qualia by isaacwhanson
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#101010"
+idle_fg = "#C0C0C0"
+info_bg = "#C8C874"
+info_fg = "#101010"
+good_bg = "#80C990"
+good_fg = "#101010"
+warning_bg = "#E6A3DC"
+warning_fg = "#101010"
+critical_bg = "#EFA6A2"
+critical_fg = "#101010"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,42 @@
+# Base16 PaperColor Dark - amfora color config
+# Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
+[theme]
+bg = "#1c1c1c"
+fg = "#808080"
+
+bottombar_label = "#00afaf"
+bottombar_text = "#808080"
+bottombar_bg = "#af005f"
+
+tab_num = "#5faf00"
+tab_divider = "#5fafd7"
+
+amfora_link = "#af87d7"
+foreign_link = "#d7af5f"
+link_number = "#d7af5f"
+
+btn_bg = "#af005f"
+btn_text = "#808080"
+
+input_modal_bg = "#af005f"
+input_modal_text = "#808080"
+input_modal_field_bg = "#1c1c1c"
+input_modal_field_text = "#808080"
+info_modal_bg = "#af005f"
+info_modal_text = "#808080"
+error_modal_bg = "#af005f"
+error_modal_text = "#5f8787"
+yesno_modal_bg = "#af005f"
+yesno_modal_text = "#808080"
+tofu_modal_bg = "#af005f"
+tofu_modal_text = "#808080"
+subscription_modal_bg = "#af005f"
+subscription_modal_text = "#808080"
+
+hdg_1 = "#5faf5f"
+hdg_2 = "#afd700"
+hdg_3 = "#ff5faf"
+regular_text = "#808080"
+preformatted_text = "#ffaf00"
+list_text = "#808080"

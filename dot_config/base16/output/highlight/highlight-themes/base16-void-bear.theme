@@ -1,0 +1,26 @@
+-- Name: Base16 Void Bear
+-- Author: kvoli (https://github.com/kvoli)
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#b2c1aa" }
+Canvas = { Colour="#000000" }
+Number = { Colour="#524B46" }
+Escape = { Colour="#AA5B2B" , Italic=true}
+String = { Colour="#655B53" }
+BlockComment = { Colour="#7c8776" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#b2c1aa" }
+LineNum      = { Color="#7c8776" }
+PreProcessor      = { Colour="#887768" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#524B46", Bold=true},
+  { Colour="#6F665B"},
+  { Colour="#776E61"},
+  { Colour="#6F665B"},
+  { Colour="#6F665B" }
+}

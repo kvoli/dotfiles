@@ -1,0 +1,42 @@
+# Base16 Colors - amfora color config
+# mrmrs (http://clrs.cc)
+
+[theme]
+bg = "#111111"
+fg = "#bbbbbb"
+
+bottombar_label = "#b10dc9"
+bottombar_text = "#bbbbbb"
+bottombar_bg = "#333333"
+
+tab_num = "#555555"
+tab_divider = "#999999"
+
+amfora_link = "#2ecc40"
+foreign_link = "#777777"
+link_number = "#777777"
+
+btn_bg = "#333333"
+btn_text = "#bbbbbb"
+
+input_modal_bg = "#333333"
+input_modal_text = "#bbbbbb"
+input_modal_field_bg = "#111111"
+input_modal_field_text = "#bbbbbb"
+info_modal_bg = "#333333"
+info_modal_text = "#bbbbbb"
+error_modal_bg = "#333333"
+error_modal_text = "#85144b"
+yesno_modal_bg = "#333333"
+yesno_modal_text = "#bbbbbb"
+tofu_modal_bg = "#333333"
+tofu_modal_text = "#bbbbbb"
+subscription_modal_bg = "#333333"
+subscription_modal_text = "#bbbbbb"
+
+hdg_1 = "#ff851b"
+hdg_2 = "#ffdc00"
+hdg_3 = "#0074d9"
+regular_text = "#bbbbbb"
+preformatted_text = "#7fdbff"
+list_text = "#bbbbbb"

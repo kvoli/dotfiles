@@ -1,0 +1,42 @@
+# Base16 Ocean - amfora color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+bg = "#2b303b"
+fg = "#c0c5ce"
+
+bottombar_label = "#b48ead"
+bottombar_text = "#c0c5ce"
+bottombar_bg = "#343d46"
+
+tab_num = "#4f5b66"
+tab_divider = "#a7adba"
+
+amfora_link = "#a3be8c"
+foreign_link = "#65737e"
+link_number = "#65737e"
+
+btn_bg = "#343d46"
+btn_text = "#c0c5ce"
+
+input_modal_bg = "#343d46"
+input_modal_text = "#c0c5ce"
+input_modal_field_bg = "#2b303b"
+input_modal_field_text = "#c0c5ce"
+info_modal_bg = "#343d46"
+info_modal_text = "#c0c5ce"
+error_modal_bg = "#343d46"
+error_modal_text = "#ab7967"
+yesno_modal_bg = "#343d46"
+yesno_modal_text = "#c0c5ce"
+tofu_modal_bg = "#343d46"
+tofu_modal_text = "#c0c5ce"
+subscription_modal_bg = "#343d46"
+subscription_modal_text = "#c0c5ce"
+
+hdg_1 = "#d08770"
+hdg_2 = "#ebcb8b"
+hdg_3 = "#8fa1b3"
+regular_text = "#c0c5ce"
+preformatted_text = "#96b5b4"
+list_text = "#c0c5ce"

@@ -1,0 +1,42 @@
+# Base16 Dracula - amfora color config
+# Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+
+[theme]
+bg = "#282936"
+fg = "#e9e9f4"
+
+bottombar_label = "#b45bcf"
+bottombar_text = "#e9e9f4"
+bottombar_bg = "#3a3c4e"
+
+tab_num = "#4d4f68"
+tab_divider = "#62d6e8"
+
+amfora_link = "#ebff87"
+foreign_link = "#626483"
+link_number = "#626483"
+
+btn_bg = "#3a3c4e"
+btn_text = "#e9e9f4"
+
+input_modal_bg = "#3a3c4e"
+input_modal_text = "#e9e9f4"
+input_modal_field_bg = "#282936"
+input_modal_field_text = "#e9e9f4"
+info_modal_bg = "#3a3c4e"
+info_modal_text = "#e9e9f4"
+error_modal_bg = "#3a3c4e"
+error_modal_text = "#00f769"
+yesno_modal_bg = "#3a3c4e"
+yesno_modal_text = "#e9e9f4"
+tofu_modal_bg = "#3a3c4e"
+tofu_modal_text = "#e9e9f4"
+subscription_modal_bg = "#3a3c4e"
+subscription_modal_text = "#e9e9f4"
+
+hdg_1 = "#b45bcf"
+hdg_2 = "#00f769"
+hdg_3 = "#62d6e8"
+regular_text = "#e9e9f4"
+preformatted_text = "#a1efe4"
+list_text = "#e9e9f4"

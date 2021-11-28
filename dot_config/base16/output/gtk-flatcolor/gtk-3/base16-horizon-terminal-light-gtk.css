@@ -1,0 +1,15 @@
+/*
+Base16 Horizon Light
+Author: Michaël Ball (http://github.com/michael-ball/)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #FDF0ED;
+@define-color fg_color #403C3D;
+@define-color base_color #FADAD1;
+@define-color text_color #403C3D;
+@define-color text_color_disabled #BDB3B1;
+@define-color selected_bg_color #F9CBBE;
+@define-color selected_fg_color #403C3D;
+@define-color tooltip_bg_color #FDF0ED;
+@define-color tooltip_fg_color #403C3D;

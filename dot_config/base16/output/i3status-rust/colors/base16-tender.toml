@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# tender by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#282828"
+idle_fg = "#eeeeee"
+info_bg = "#73cef4"
+info_fg = "#282828"
+good_bg = "#c9d05c"
+good_fg = "#282828"
+warning_bg = "#ffc24b"
+warning_fg = "#282828"
+critical_bg = "#f43753"
+critical_fg = "#282828"
+# The rest of the theme settings are left at default.

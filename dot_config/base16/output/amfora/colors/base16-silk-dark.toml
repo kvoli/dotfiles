@@ -1,0 +1,42 @@
+# Base16 Silk Dark - amfora color config
+# Gabriel Fontes (https://github.com/Misterio77)
+
+[theme]
+bg = "#0e3c46"
+fg = "#C7DBDD"
+
+bottombar_label = "#756b8a"
+bottombar_text = "#C7DBDD"
+bottombar_bg = "#1D494E"
+
+tab_num = "#2A5054"
+tab_divider = "#9DC8CD"
+
+amfora_link = "#73d8ad"
+foreign_link = "#587073"
+link_number = "#587073"
+
+btn_bg = "#1D494E"
+btn_text = "#C7DBDD"
+
+input_modal_bg = "#1D494E"
+input_modal_text = "#C7DBDD"
+input_modal_field_bg = "#0e3c46"
+input_modal_field_text = "#C7DBDD"
+info_modal_bg = "#1D494E"
+info_modal_text = "#C7DBDD"
+error_modal_bg = "#1D494E"
+error_modal_text = "#9b647b"
+yesno_modal_bg = "#1D494E"
+yesno_modal_text = "#C7DBDD"
+tofu_modal_bg = "#1D494E"
+tofu_modal_text = "#C7DBDD"
+subscription_modal_bg = "#1D494E"
+subscription_modal_text = "#C7DBDD"
+
+hdg_1 = "#fcab74"
+hdg_2 = "#fce380"
+hdg_3 = "#46bddd"
+regular_text = "#C7DBDD"
+preformatted_text = "#3fb2b9"
+list_text = "#C7DBDD"

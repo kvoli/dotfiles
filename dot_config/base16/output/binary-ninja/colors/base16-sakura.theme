@@ -1,0 +1,109 @@
+{
+    "name": "Base16 Sakura",
+    "style": "Fusion",
+
+    "colors": {
+        "base00": [254, 237, 243],
+        "base01": [248, 226, 231],
+        "base02": [224, 204, 209],
+        "base03": [117, 95, 100],
+        "base04": [102, 80, 85],
+        "base05": [86, 68, 72],
+        "base06": [66, 56, 58],
+        "base07": [51, 41, 43],
+        "base08": [223, 45, 82],
+        "base09": [246, 102, 30],
+        "base0A": [194, 148, 97],
+        "base0B": [46, 145, 109],
+        "base0C": [29, 137, 145],
+        "base0D": [0, 110, 147],
+        "base0E": [94, 33, 128],
+        "base0F": [186, 13, 53]
+    },
+
+    "palette": {
+        "Window":          "base00",
+        "WindowText":      "base05",
+        "Base":            "base00",
+        "AlternateBase":   "base04",
+        "ToolTipBase":     "base01",
+        "ToolTipText":     "base05",
+        "Text":            "base05",
+        "Button":          "base01",
+        "ButtonText":      "base05",
+        "BrightText":      "base0F",
+        "Link":            "base0B",
+        "Highlight":       "base01",
+        "HighlightedText": "base05",
+        "Light":           "base03"
+    },
+
+    "theme-colors": {
+        "addressColor":                         "base09",
+        "modifiedColor":                        "base08",
+        "insertedColor":                        "base0C",
+        "notPresentColor":                      "base03",
+        "selectionColor":                       "base02",
+        "outlineColor":                         "base05",
+
+        "backgroundHighlightDarkColor":         "base00",
+        "backgroundHighlightLightColor":        "base01",
+
+        "boldBackgroundHighlightDarkColor":     "base0F",
+        "boldBackgroundHighlightLightColor":    "base03",
+
+        "alphanumericHighlightColor":           "base0A",
+        "printableHighlightColor":              "base08",
+
+        "graphBackgroundDarkColor":             "base01",
+        "graphBackgroundLightColor":            "base01",
+        "graphNodeDarkColor":                   "base00",
+        "graphNodeLightColor":                  "base00",
+        "graphNodeOutlineColor":                "base03",
+
+        "trueBranchColor":                      "base0B",
+        "falseBranchColor":                     "base08",
+        "unconditionalBranchColor":             "base0D",
+        "altTrueBranchColor":                   "base06",
+        "altFalseBranchColor":                  "base07",
+        "altUnconditionalBranchColor":          "base08",
+
+        "registerColor":                        "base0B",
+        "numberColor":                          "base09",
+
+        "codeSymbolColor":                      "base0D",
+        "dataSymbolColor":                      "base0B",
+
+        "stackVariableColor":                   "base08",
+        "importColor":                          "base0D",
+        "instructionHighlightColor":            "base03",
+        "tokenHighlightColor":                  "base05",
+        "annotationColor":                      "base0E",
+        "opcodeColor":                          "base03",
+
+        "linearDisassemblyFunctionHeaderColor": "base00",
+        "linearDisassemblyBlockColor":          "base00",
+        "linearDisassemblyNoteColor":           "base01",
+        "linearDisassemblySeparatorColor":      "base03",
+
+        "stringColor":                          "base0B",
+        "typeNameColor":                        "base0A",
+        "fieldNameColor":                       "base05",
+        "keywordColor":                         "base0E",
+        "uncertainColor":                       "base03",
+
+        "scriptConsoleOutputColor":             "base0B",
+        "scriptConsoleErrorColor":              "base08",
+        "scriptConsoleEchoColor":               "base05",
+
+        "blueStandardHighlightColor":           "base0D",
+        "greenStandardHighlightColor":          "base0B",
+        "cyanStandardHighlightColor":           "base0C",
+        "redStandardHighlightColor":            "base08",
+        "magentaStandardHighlightColor":        "base0E",
+        "yellowStandardHighlightColor":         "base0A",
+        "orangeStandardHighlightColor":         "base09",
+        "whiteStandardHighlightColor":          "base04",
+        "blackStandardHighlightColor":          "base02"
+    }
+}

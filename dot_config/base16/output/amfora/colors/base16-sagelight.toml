@@ -1,0 +1,42 @@
+# Base16 Sagelight - amfora color config
+# Carter Veldhuizen
+
+[theme]
+bg = "#f8f8f8"
+fg = "#383838"
+
+bottombar_label = "#c8a0d2"
+bottombar_text = "#383838"
+bottombar_bg = "#e8e8e8"
+
+tab_num = "#d8d8d8"
+tab_divider = "#585858"
+
+amfora_link = "#a0d2c8"
+foreign_link = "#b8b8b8"
+link_number = "#b8b8b8"
+
+btn_bg = "#e8e8e8"
+btn_text = "#383838"
+
+input_modal_bg = "#e8e8e8"
+input_modal_text = "#383838"
+input_modal_field_bg = "#f8f8f8"
+input_modal_field_text = "#383838"
+info_modal_bg = "#e8e8e8"
+info_modal_text = "#383838"
+error_modal_bg = "#e8e8e8"
+error_modal_text = "#d2b2a0"
+yesno_modal_bg = "#e8e8e8"
+yesno_modal_text = "#383838"
+tofu_modal_bg = "#e8e8e8"
+tofu_modal_text = "#383838"
+subscription_modal_bg = "#e8e8e8"
+subscription_modal_text = "#383838"
+
+hdg_1 = "#ffaa61"
+hdg_2 = "#ffdc61"
+hdg_3 = "#a0a7d2"
+regular_text = "#383838"
+preformatted_text = "#a2d6f5"
+list_text = "#383838"

@@ -1,0 +1,42 @@
+# Base16 Nebula - amfora color config
+# Gabriel Fontes (https://github.com/Misterio77)
+
+[theme]
+bg = "#22273b"
+fg = "#a4a6a9"
+
+bottombar_label = "#716cae"
+bottombar_text = "#a4a6a9"
+bottombar_bg = "#414f60"
+
+tab_num = "#5a8380"
+tab_divider = "#87888b"
+
+amfora_link = "#6562a8"
+foreign_link = "#6e6f72"
+link_number = "#6e6f72"
+
+btn_bg = "#414f60"
+btn_text = "#a4a6a9"
+
+input_modal_bg = "#414f60"
+input_modal_text = "#a4a6a9"
+input_modal_field_bg = "#22273b"
+input_modal_field_text = "#a4a6a9"
+info_modal_bg = "#414f60"
+info_modal_text = "#a4a6a9"
+error_modal_bg = "#414f60"
+error_modal_text = "#8c70a7"
+yesno_modal_bg = "#414f60"
+yesno_modal_text = "#a4a6a9"
+tofu_modal_bg = "#414f60"
+tofu_modal_text = "#a4a6a9"
+subscription_modal_bg = "#414f60"
+subscription_modal_text = "#a4a6a9"
+
+hdg_1 = "#94929e"
+hdg_2 = "#4f9062"
+hdg_3 = "#4d6bb6"
+regular_text = "#a4a6a9"
+preformatted_text = "#226f68"
+list_text = "#a4a6a9"

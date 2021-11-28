@@ -1,0 +1,42 @@
+# Base16 Apathy - amfora color config
+# Jannik Siebert (https://github.com/janniks)
+
+[theme]
+bg = "#031A16"
+fg = "#81B5AC"
+
+bottombar_label = "#4C963E"
+bottombar_text = "#81B5AC"
+bottombar_bg = "#0B342D"
+
+tab_num = "#184E45"
+tab_divider = "#5F9C92"
+
+amfora_link = "#883E96"
+foreign_link = "#2B685E"
+link_number = "#2B685E"
+
+btn_bg = "#0B342D"
+btn_text = "#81B5AC"
+
+input_modal_bg = "#0B342D"
+input_modal_text = "#81B5AC"
+input_modal_field_bg = "#031A16"
+input_modal_field_text = "#81B5AC"
+info_modal_bg = "#0B342D"
+info_modal_text = "#81B5AC"
+error_modal_bg = "#0B342D"
+error_modal_text = "#3E965B"
+yesno_modal_bg = "#0B342D"
+yesno_modal_text = "#81B5AC"
+tofu_modal_bg = "#0B342D"
+tofu_modal_text = "#81B5AC"
+subscription_modal_bg = "#0B342D"
+subscription_modal_text = "#81B5AC"
+
+hdg_1 = "#3E7996"
+hdg_2 = "#3E4C96"
+hdg_3 = "#96883E"
+regular_text = "#81B5AC"
+preformatted_text = "#963E4C"
+list_text = "#81B5AC"

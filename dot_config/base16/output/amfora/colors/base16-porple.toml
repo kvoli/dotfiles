@@ -1,0 +1,42 @@
+# Base16 Porple - amfora color config
+# Niek den Breeje (https://github.com/AuditeMarlow)
+
+[theme]
+bg = "#292c36"
+fg = "#d8d8d8"
+
+bottombar_label = "#b74989"
+bottombar_text = "#d8d8d8"
+bottombar_bg = "#333344"
+
+tab_num = "#474160"
+tab_divider = "#b8b8b8"
+
+amfora_link = "#95c76f"
+foreign_link = "#65568a"
+link_number = "#65568a"
+
+btn_bg = "#333344"
+btn_text = "#d8d8d8"
+
+input_modal_bg = "#333344"
+input_modal_text = "#d8d8d8"
+input_modal_field_bg = "#292c36"
+input_modal_field_text = "#d8d8d8"
+info_modal_bg = "#333344"
+info_modal_text = "#d8d8d8"
+error_modal_bg = "#333344"
+error_modal_text = "#986841"
+yesno_modal_bg = "#333344"
+yesno_modal_text = "#d8d8d8"
+tofu_modal_bg = "#333344"
+tofu_modal_text = "#d8d8d8"
+subscription_modal_bg = "#333344"
+subscription_modal_text = "#d8d8d8"
+
+hdg_1 = "#d28e5d"
+hdg_2 = "#efa16b"
+hdg_3 = "#8485ce"
+regular_text = "#d8d8d8"
+preformatted_text = "#64878f"
+list_text = "#d8d8d8"

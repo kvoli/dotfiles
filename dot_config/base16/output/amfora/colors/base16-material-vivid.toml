@@ -1,0 +1,42 @@
+# Base16 Material Vivid - amfora color config
+# joshyrobot
+
+[theme]
+bg = "#202124"
+fg = "#80868b"
+
+bottombar_label = "#673ab7"
+bottombar_text = "#80868b"
+bottombar_bg = "#27292c"
+
+tab_num = "#323639"
+tab_divider = "#676c71"
+
+amfora_link = "#00e676"
+foreign_link = "#44464d"
+link_number = "#44464d"
+
+btn_bg = "#27292c"
+btn_text = "#80868b"
+
+input_modal_bg = "#27292c"
+input_modal_text = "#80868b"
+input_modal_field_bg = "#202124"
+input_modal_field_text = "#80868b"
+info_modal_bg = "#27292c"
+info_modal_text = "#80868b"
+error_modal_bg = "#27292c"
+error_modal_text = "#8d6e63"
+yesno_modal_bg = "#27292c"
+yesno_modal_text = "#80868b"
+tofu_modal_bg = "#27292c"
+tofu_modal_text = "#80868b"
+subscription_modal_bg = "#27292c"
+subscription_modal_text = "#80868b"
+
+hdg_1 = "#ff9800"
+hdg_2 = "#ffeb3b"
+hdg_3 = "#2196f3"
+regular_text = "#80868b"
+preformatted_text = "#00bcd4"
+list_text = "#80868b"

@@ -1,0 +1,42 @@
+# Base16 Material Darker - amfora color config
+# Nate Peterson
+
+[theme]
+bg = "#212121"
+fg = "#EEFFFF"
+
+bottombar_label = "#C792EA"
+bottombar_text = "#EEFFFF"
+bottombar_bg = "#303030"
+
+tab_num = "#353535"
+tab_divider = "#B2CCD6"
+
+amfora_link = "#C3E88D"
+foreign_link = "#4A4A4A"
+link_number = "#4A4A4A"
+
+btn_bg = "#303030"
+btn_text = "#EEFFFF"
+
+input_modal_bg = "#303030"
+input_modal_text = "#EEFFFF"
+input_modal_field_bg = "#212121"
+input_modal_field_text = "#EEFFFF"
+info_modal_bg = "#303030"
+info_modal_text = "#EEFFFF"
+error_modal_bg = "#303030"
+error_modal_text = "#FF5370"
+yesno_modal_bg = "#303030"
+yesno_modal_text = "#EEFFFF"
+tofu_modal_bg = "#303030"
+tofu_modal_text = "#EEFFFF"
+subscription_modal_bg = "#303030"
+subscription_modal_text = "#EEFFFF"
+
+hdg_1 = "#F78C6C"
+hdg_2 = "#FFCB6B"
+hdg_3 = "#82AAFF"
+regular_text = "#EEFFFF"
+preformatted_text = "#89DDFF"
+list_text = "#EEFFFF"

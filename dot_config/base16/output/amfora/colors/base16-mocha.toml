@@ -1,0 +1,42 @@
+# Base16 Mocha - amfora color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+bg = "#3B3228"
+fg = "#d0c8c6"
+
+bottombar_label = "#a89bb9"
+bottombar_text = "#d0c8c6"
+bottombar_bg = "#534636"
+
+tab_num = "#645240"
+tab_divider = "#b8afad"
+
+amfora_link = "#beb55b"
+foreign_link = "#7e705a"
+link_number = "#7e705a"
+
+btn_bg = "#534636"
+btn_text = "#d0c8c6"
+
+input_modal_bg = "#534636"
+input_modal_text = "#d0c8c6"
+input_modal_field_bg = "#3B3228"
+input_modal_field_text = "#d0c8c6"
+info_modal_bg = "#534636"
+info_modal_text = "#d0c8c6"
+error_modal_bg = "#534636"
+error_modal_text = "#bb9584"
+yesno_modal_bg = "#534636"
+yesno_modal_text = "#d0c8c6"
+tofu_modal_bg = "#534636"
+tofu_modal_text = "#d0c8c6"
+subscription_modal_bg = "#534636"
+subscription_modal_text = "#d0c8c6"
+
+hdg_1 = "#d28b71"
+hdg_2 = "#f4bc87"
+hdg_3 = "#8ab3b5"
+regular_text = "#d0c8c6"
+preformatted_text = "#7bbda4"
+list_text = "#d0c8c6"

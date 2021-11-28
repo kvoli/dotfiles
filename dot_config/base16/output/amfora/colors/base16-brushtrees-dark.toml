@@ -1,0 +1,42 @@
+# Base16 Brush Trees Dark - amfora color config
+# Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+[theme]
+bg = "#485867"
+fg = "#B0C5C8"
+
+bottombar_label = "#b386b2"
+bottombar_text = "#B0C5C8"
+bottombar_bg = "#5A6D7A"
+
+tab_num = "#6D828E"
+tab_divider = "#98AFB5"
+
+amfora_link = "#87b386"
+foreign_link = "#8299A1"
+link_number = "#8299A1"
+
+btn_bg = "#5A6D7A"
+btn_text = "#B0C5C8"
+
+input_modal_bg = "#5A6D7A"
+input_modal_text = "#B0C5C8"
+input_modal_field_bg = "#485867"
+input_modal_field_text = "#B0C5C8"
+info_modal_bg = "#5A6D7A"
+info_modal_text = "#B0C5C8"
+error_modal_bg = "#5A6D7A"
+error_modal_text = "#b39f9f"
+yesno_modal_bg = "#5A6D7A"
+yesno_modal_text = "#B0C5C8"
+tofu_modal_bg = "#5A6D7A"
+tofu_modal_text = "#B0C5C8"
+subscription_modal_bg = "#5A6D7A"
+subscription_modal_text = "#B0C5C8"
+
+hdg_1 = "#d8bba2"
+hdg_2 = "#aab386"
+hdg_3 = "#868cb3"
+regular_text = "#B0C5C8"
+preformatted_text = "#86b3b3"
+list_text = "#B0C5C8"

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# darkmoss by Gabriel Avanzi (https://github.com/avanzzzi)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#171e1f"
+idle_fg = "#c7c7a5"
+info_bg = "#66d9ef"
+info_fg = "#171e1f"
+good_bg = "#499180"
+good_fg = "#171e1f"
+warning_bg = "#fdb11f"
+warning_fg = "#171e1f"
+critical_bg = "#ff4658"
+critical_fg = "#171e1f"
+# The rest of the theme settings are left at default.

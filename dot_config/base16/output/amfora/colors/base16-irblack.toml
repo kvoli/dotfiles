@@ -1,0 +1,42 @@
+# Base16 IR Black - amfora color config
+# Timothée Poisot (http://timotheepoisot.fr)
+
+[theme]
+bg = "#000000"
+fg = "#b5b3aa"
+
+bottombar_label = "#ff73fd"
+bottombar_text = "#b5b3aa"
+bottombar_bg = "#242422"
+
+tab_num = "#484844"
+tab_divider = "#918f88"
+
+amfora_link = "#a8ff60"
+foreign_link = "#6c6c66"
+link_number = "#6c6c66"
+
+btn_bg = "#242422"
+btn_text = "#b5b3aa"
+
+input_modal_bg = "#242422"
+input_modal_text = "#b5b3aa"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#b5b3aa"
+info_modal_bg = "#242422"
+info_modal_text = "#b5b3aa"
+error_modal_bg = "#242422"
+error_modal_text = "#b18a3d"
+yesno_modal_bg = "#242422"
+yesno_modal_text = "#b5b3aa"
+tofu_modal_bg = "#242422"
+tofu_modal_text = "#b5b3aa"
+subscription_modal_bg = "#242422"
+subscription_modal_text = "#b5b3aa"
+
+hdg_1 = "#e9c062"
+hdg_2 = "#ffffb6"
+hdg_3 = "#96cbfe"
+regular_text = "#b5b3aa"
+preformatted_text = "#c6c5fe"
+list_text = "#b5b3aa"

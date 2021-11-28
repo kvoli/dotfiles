@@ -1,0 +1,42 @@
+# Base16 Google Dark - amfora color config
+# Seth Wright (http://sethawright.com)
+
+[theme]
+bg = "#1d1f21"
+fg = "#c5c8c6"
+
+bottombar_label = "#A36AC7"
+bottombar_text = "#c5c8c6"
+bottombar_bg = "#282a2e"
+
+tab_num = "#373b41"
+tab_divider = "#b4b7b4"
+
+amfora_link = "#198844"
+foreign_link = "#969896"
+link_number = "#969896"
+
+btn_bg = "#282a2e"
+btn_text = "#c5c8c6"
+
+input_modal_bg = "#282a2e"
+input_modal_text = "#c5c8c6"
+input_modal_field_bg = "#1d1f21"
+input_modal_field_text = "#c5c8c6"
+info_modal_bg = "#282a2e"
+info_modal_text = "#c5c8c6"
+error_modal_bg = "#282a2e"
+error_modal_text = "#3971ED"
+yesno_modal_bg = "#282a2e"
+yesno_modal_text = "#c5c8c6"
+tofu_modal_bg = "#282a2e"
+tofu_modal_text = "#c5c8c6"
+subscription_modal_bg = "#282a2e"
+subscription_modal_text = "#c5c8c6"
+
+hdg_1 = "#F96A38"
+hdg_2 = "#FBA922"
+hdg_3 = "#3971ED"
+regular_text = "#c5c8c6"
+preformatted_text = "#3971ED"
+list_text = "#c5c8c6"

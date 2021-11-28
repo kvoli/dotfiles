@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<settings>
+	<console>
+		<colors>
+			<color  id="0" r="40" g="40" b="40"/> <!-- black -->
+			<color  id="1" r="179" g="222" b="239"/> <!-- blue -->
+			<color  id="2" r="201" g="208" b="92"/> <!-- green -->
+			<color  id="3" r="115" g="206" b="244"/> <!-- cyan -->
+			<color  id="4" r="244" g="55" b="83"/> <!-- red -->
+			<color  id="5" r="211" g="185" b="135"/> <!-- magenta -->
+			<color  id="6" r="220" g="150" b="86"/> <!-- yellow/brown -->
+			<color  id="7" r="184" g="184" b="184"/> <!-- white -->
+			<color  id="8" r="76" g="76" b="76"/> <!-- brblack -->
+			<color  id="9" r="115" g="206" b="244"/> <!-- brblue -->
+			<color id="10" r="255" g="194" b="75"/> <!-- brgreen -->
+			<color id="11" r="115" g="206" b="244"/> <!-- brcyan -->
+			<color id="12" r="244" g="55" b="83"/> <!-- brred -->
+			<color id="13" r="211" g="185" b="135"/> <!-- brmagenta/violet -->
+			<color id="14" r="255" g="194" b="75"/> <!-- bryellow -->
+			<color id="15" r="254" g="255" b="255"/> <!-- brwhite -->
+		</colors>
+	</console>
+</settings>

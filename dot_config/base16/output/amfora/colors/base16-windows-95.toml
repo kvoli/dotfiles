@@ -1,0 +1,42 @@
+# Base16 Windows 95 - amfora color config
+# Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+bg = "#000000"
+fg = "#a8a8a8"
+
+bottombar_label = "#fc54fc"
+bottombar_text = "#a8a8a8"
+bottombar_bg = "#1C1C1C"
+
+tab_num = "#383838"
+tab_divider = "#7e7e7e"
+
+amfora_link = "#54fc54"
+foreign_link = "#545454"
+link_number = "#545454"
+
+btn_bg = "#1C1C1C"
+btn_text = "#a8a8a8"
+
+input_modal_bg = "#1C1C1C"
+input_modal_text = "#a8a8a8"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#a8a8a8"
+info_modal_bg = "#1C1C1C"
+info_modal_text = "#a8a8a8"
+error_modal_bg = "#1C1C1C"
+error_modal_text = "#00a800"
+yesno_modal_bg = "#1C1C1C"
+yesno_modal_text = "#a8a8a8"
+tofu_modal_bg = "#1C1C1C"
+tofu_modal_text = "#a8a8a8"
+subscription_modal_bg = "#1C1C1C"
+subscription_modal_text = "#a8a8a8"
+
+hdg_1 = "#a85400"
+hdg_2 = "#fcfc54"
+hdg_3 = "#5454fc"
+regular_text = "#a8a8a8"
+preformatted_text = "#54fcfc"
+list_text = "#a8a8a8"

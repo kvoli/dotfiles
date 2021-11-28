@@ -1,0 +1,42 @@
+# Base16 Humanoid light - amfora color config
+# Thomas (tasmo) Friese
+
+[theme]
+bg = "#f8f8f2"
+fg = "#232629"
+
+bottombar_label = "#700f98"
+bottombar_text = "#232629"
+bottombar_bg = "#efefe9"
+
+tab_num = "#deded8"
+tab_divider = "#60615d"
+
+amfora_link = "#388e3c"
+foreign_link = "#c0c0bd"
+link_number = "#c0c0bd"
+
+btn_bg = "#efefe9"
+btn_text = "#232629"
+
+input_modal_bg = "#efefe9"
+input_modal_text = "#232629"
+input_modal_field_bg = "#f8f8f2"
+input_modal_field_text = "#232629"
+info_modal_bg = "#efefe9"
+info_modal_text = "#232629"
+error_modal_bg = "#efefe9"
+error_modal_text = "#b27701"
+yesno_modal_bg = "#efefe9"
+yesno_modal_text = "#232629"
+tofu_modal_bg = "#efefe9"
+tofu_modal_text = "#232629"
+subscription_modal_bg = "#efefe9"
+subscription_modal_text = "#232629"
+
+hdg_1 = "#ff3d00"
+hdg_2 = "#ffb627"
+hdg_3 = "#0082c9"
+regular_text = "#232629"
+preformatted_text = "#008e8e"
+list_text = "#232629"

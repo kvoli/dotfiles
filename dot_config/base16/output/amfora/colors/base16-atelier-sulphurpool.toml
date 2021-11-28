@@ -1,0 +1,42 @@
+# Base16 Atelier Sulphurpool - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#202746"
+fg = "#979db4"
+
+bottombar_label = "#6679cc"
+bottombar_text = "#979db4"
+bottombar_bg = "#293256"
+
+tab_num = "#5e6687"
+tab_divider = "#898ea4"
+
+amfora_link = "#ac9739"
+foreign_link = "#6b7394"
+link_number = "#6b7394"
+
+btn_bg = "#293256"
+btn_text = "#979db4"
+
+input_modal_bg = "#293256"
+input_modal_text = "#979db4"
+input_modal_field_bg = "#202746"
+input_modal_field_text = "#979db4"
+info_modal_bg = "#293256"
+info_modal_text = "#979db4"
+error_modal_bg = "#293256"
+error_modal_text = "#9c637a"
+yesno_modal_bg = "#293256"
+yesno_modal_text = "#979db4"
+tofu_modal_bg = "#293256"
+tofu_modal_text = "#979db4"
+subscription_modal_bg = "#293256"
+subscription_modal_text = "#979db4"
+
+hdg_1 = "#c76b29"
+hdg_2 = "#c08b30"
+hdg_3 = "#3d8fd1"
+regular_text = "#979db4"
+preformatted_text = "#22a2c9"
+list_text = "#979db4"

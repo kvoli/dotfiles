@@ -1,0 +1,42 @@
+# Base16 Qualia - amfora color config
+# isaacwhanson
+
+[theme]
+bg = "#101010"
+fg = "#C0C0C0"
+
+bottombar_label = "#E0AF85"
+bottombar_text = "#C0C0C0"
+bottombar_bg = "#454545"
+
+tab_num = "#454545"
+tab_divider = "#808080"
+
+amfora_link = "#80C990"
+foreign_link = "#454545"
+link_number = "#454545"
+
+btn_bg = "#454545"
+btn_text = "#C0C0C0"
+
+input_modal_bg = "#454545"
+input_modal_text = "#C0C0C0"
+input_modal_field_bg = "#101010"
+input_modal_field_text = "#C0C0C0"
+info_modal_bg = "#454545"
+info_modal_text = "#C0C0C0"
+error_modal_bg = "#454545"
+error_modal_text = "#808080"
+yesno_modal_bg = "#454545"
+yesno_modal_text = "#C0C0C0"
+tofu_modal_bg = "#454545"
+tofu_modal_text = "#C0C0C0"
+subscription_modal_bg = "#454545"
+subscription_modal_text = "#C0C0C0"
+
+hdg_1 = "#A3B8EF"
+hdg_2 = "#E6A3DC"
+hdg_3 = "#50CACD"
+regular_text = "#C0C0C0"
+preformatted_text = "#C8C874"
+list_text = "#C0C0C0"

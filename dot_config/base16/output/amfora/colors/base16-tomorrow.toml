@@ -1,0 +1,42 @@
+# Base16 Tomorrow - amfora color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+bg = "#ffffff"
+fg = "#4d4d4c"
+
+bottombar_label = "#8959a8"
+bottombar_text = "#4d4d4c"
+bottombar_bg = "#e0e0e0"
+
+tab_num = "#d6d6d6"
+tab_divider = "#969896"
+
+amfora_link = "#718c00"
+foreign_link = "#8e908c"
+link_number = "#8e908c"
+
+btn_bg = "#e0e0e0"
+btn_text = "#4d4d4c"
+
+input_modal_bg = "#e0e0e0"
+input_modal_text = "#4d4d4c"
+input_modal_field_bg = "#ffffff"
+input_modal_field_text = "#4d4d4c"
+info_modal_bg = "#e0e0e0"
+info_modal_text = "#4d4d4c"
+error_modal_bg = "#e0e0e0"
+error_modal_text = "#a3685a"
+yesno_modal_bg = "#e0e0e0"
+yesno_modal_text = "#4d4d4c"
+tofu_modal_bg = "#e0e0e0"
+tofu_modal_text = "#4d4d4c"
+subscription_modal_bg = "#e0e0e0"
+subscription_modal_text = "#4d4d4c"
+
+hdg_1 = "#f5871f"
+hdg_2 = "#eab700"
+hdg_3 = "#4271ae"
+regular_text = "#4d4d4c"
+preformatted_text = "#3e999f"
+list_text = "#4d4d4c"

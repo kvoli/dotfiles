@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Windows 10 Light by Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f2f2f2"
+idle_fg = "#767676"
+info_bg = "#3a96dd"
+info_fg = "#f2f2f2"
+good_bg = "#13a10e"
+good_fg = "#f2f2f2"
+warning_bg = "#c19c00"
+warning_fg = "#f2f2f2"
+critical_bg = "#c50f1f"
+critical_fg = "#f2f2f2"
+# The rest of the theme settings are left at default.

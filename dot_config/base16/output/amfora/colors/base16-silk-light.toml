@@ -1,0 +1,42 @@
+# Base16 Silk Light - amfora color config
+# Gabriel Fontes (https://github.com/Misterio77)
+
+[theme]
+bg = "#E9F1EF"
+fg = "#385156"
+
+bottombar_label = "#6E6582"
+bottombar_text = "#385156"
+bottombar_bg = "#CCD4D3"
+
+tab_num = "#90B7B6"
+tab_divider = "#4B5B5F"
+
+amfora_link = "#6CA38C"
+foreign_link = "#5C787B"
+link_number = "#5C787B"
+
+btn_bg = "#CCD4D3"
+btn_text = "#385156"
+
+input_modal_bg = "#CCD4D3"
+input_modal_text = "#385156"
+input_modal_field_bg = "#E9F1EF"
+input_modal_field_text = "#385156"
+info_modal_bg = "#CCD4D3"
+info_modal_text = "#385156"
+error_modal_bg = "#CCD4D3"
+error_modal_text = "#865369"
+yesno_modal_bg = "#CCD4D3"
+yesno_modal_text = "#385156"
+tofu_modal_bg = "#CCD4D3"
+tofu_modal_text = "#385156"
+subscription_modal_bg = "#CCD4D3"
+subscription_modal_text = "#385156"
+
+hdg_1 = "#D27F46"
+hdg_2 = "#CFAD25"
+hdg_3 = "#39AAC9"
+regular_text = "#385156"
+preformatted_text = "#329CA2"
+list_text = "#385156"

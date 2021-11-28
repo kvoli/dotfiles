@@ -1,0 +1,8 @@
+sh ~/.screenlayout/current.sh 
+nitrogen --restore 
+picom &!
+goblocks &!
+spotifyd --no-daemon --config-path .config/spotifyd.conf &!
+keynav &!
+xmodmap ~/.Xmodmap
+redshift -l 37.814:144.96332 &!

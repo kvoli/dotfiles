@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Kimber by Mishka Nguyen (https://github.com/akhsiM)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#222222"
+idle_fg = "#DEDEE7"
+info_bg = "#78B4B4"
+info_fg = "#222222"
+good_bg = "#99C899"
+good_fg = "#222222"
+warning_bg = "#D8B56D"
+warning_fg = "#222222"
+critical_bg = "#C88C8C"
+critical_fg = "#222222"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,42 @@
+# Base16 Isotope - amfora color config
+# Jan T. Sott
+
+[theme]
+bg = "#000000"
+fg = "#d0d0d0"
+
+bottombar_label = "#cc00ff"
+bottombar_text = "#d0d0d0"
+bottombar_bg = "#404040"
+
+tab_num = "#606060"
+tab_divider = "#c0c0c0"
+
+amfora_link = "#33ff00"
+foreign_link = "#808080"
+link_number = "#808080"
+
+btn_bg = "#404040"
+btn_text = "#d0d0d0"
+
+input_modal_bg = "#404040"
+input_modal_text = "#d0d0d0"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#d0d0d0"
+info_modal_bg = "#404040"
+info_modal_text = "#d0d0d0"
+error_modal_bg = "#404040"
+error_modal_text = "#3300ff"
+yesno_modal_bg = "#404040"
+yesno_modal_text = "#d0d0d0"
+tofu_modal_bg = "#404040"
+tofu_modal_text = "#d0d0d0"
+subscription_modal_bg = "#404040"
+subscription_modal_text = "#d0d0d0"
+
+hdg_1 = "#ff9900"
+hdg_2 = "#ff0099"
+hdg_3 = "#0066ff"
+regular_text = "#d0d0d0"
+preformatted_text = "#00ffff"
+list_text = "#d0d0d0"

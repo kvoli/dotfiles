@@ -1,0 +1,42 @@
+# Base16 Dark Violet - amfora color config
+# ruler501 (https://github.com/ruler501/base16-darkviolet)
+
+[theme]
+bg = "#000000"
+fg = "#b08ae6"
+
+bottombar_label = "#7e5ce6"
+bottombar_text = "#b08ae6"
+bottombar_bg = "#231a40"
+
+tab_num = "#432d59"
+tab_divider = "#00ff00"
+
+amfora_link = "#4595e6"
+foreign_link = "#593380"
+link_number = "#593380"
+
+btn_bg = "#231a40"
+btn_text = "#b08ae6"
+
+input_modal_bg = "#231a40"
+input_modal_text = "#b08ae6"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#b08ae6"
+info_modal_bg = "#231a40"
+info_modal_text = "#b08ae6"
+error_modal_bg = "#231a40"
+error_modal_text = "#a886bf"
+yesno_modal_bg = "#231a40"
+yesno_modal_text = "#b08ae6"
+tofu_modal_bg = "#231a40"
+tofu_modal_text = "#b08ae6"
+subscription_modal_bg = "#231a40"
+subscription_modal_text = "#b08ae6"
+
+hdg_1 = "#bb66cc"
+hdg_2 = "#f29df2"
+hdg_3 = "#4136d9"
+regular_text = "#b08ae6"
+preformatted_text = "#40dfff"
+list_text = "#b08ae6"

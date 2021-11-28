@@ -1,0 +1,26 @@
+-- Name: Base16 Apprentice
+-- Author: romainl
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#BCBCBC" }
+Canvas = { Colour="#262626" }
+Number = { Colour="#FF8700" }
+Escape = { Colour="#C9C9C9" , Italic=true}
+String = { Colour="#87AF87" }
+BlockComment = { Colour="#6C6C6C" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#BCBCBC" }
+LineNum      = { Color="#6C6C6C" }
+PreProcessor      = { Colour="#5F87AF" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#5F8787", Bold=true},
+  { Colour="#5F8787"},
+  { Colour="#FFFFAF"},
+  { Colour="#5F8787"},
+  { Colour="#5F8787" }
+}

@@ -1,0 +1,42 @@
+# Base16 Mexico Light - amfora color config
+# Sheldon Johnson
+
+[theme]
+bg = "#f8f8f8"
+fg = "#383838"
+
+bottombar_label = "#96609e"
+bottombar_text = "#383838"
+bottombar_bg = "#e8e8e8"
+
+tab_num = "#d8d8d8"
+tab_divider = "#585858"
+
+amfora_link = "#538947"
+foreign_link = "#b8b8b8"
+link_number = "#b8b8b8"
+
+btn_bg = "#e8e8e8"
+btn_text = "#383838"
+
+input_modal_bg = "#e8e8e8"
+input_modal_text = "#383838"
+input_modal_field_bg = "#f8f8f8"
+input_modal_field_text = "#383838"
+info_modal_bg = "#e8e8e8"
+info_modal_text = "#383838"
+error_modal_bg = "#e8e8e8"
+error_modal_text = "#a16946"
+yesno_modal_bg = "#e8e8e8"
+yesno_modal_text = "#383838"
+tofu_modal_bg = "#e8e8e8"
+tofu_modal_text = "#383838"
+subscription_modal_bg = "#e8e8e8"
+subscription_modal_text = "#383838"
+
+hdg_1 = "#dc9656"
+hdg_2 = "#f79a0e"
+hdg_3 = "#7cafc2"
+regular_text = "#383838"
+preformatted_text = "#4b8093"
+list_text = "#383838"

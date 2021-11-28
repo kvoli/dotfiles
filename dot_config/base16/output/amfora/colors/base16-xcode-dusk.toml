@@ -1,0 +1,42 @@
+# Base16 XCode Dusk - amfora color config
+# Elsa Gonsiorowski (https://github.com/gonsie)
+
+[theme]
+bg = "#282B35"
+fg = "#939599"
+
+bottombar_label = "#B21889"
+bottombar_text = "#939599"
+bottombar_bg = "#3D4048"
+
+tab_num = "#53555D"
+tab_divider = "#7E8086"
+
+amfora_link = "#DF0002"
+foreign_link = "#686A71"
+link_number = "#686A71"
+
+btn_bg = "#3D4048"
+btn_text = "#939599"
+
+input_modal_bg = "#3D4048"
+input_modal_text = "#939599"
+input_modal_field_bg = "#282B35"
+input_modal_field_text = "#939599"
+info_modal_bg = "#3D4048"
+info_modal_text = "#939599"
+error_modal_bg = "#3D4048"
+error_modal_text = "#C77C48"
+yesno_modal_bg = "#3D4048"
+yesno_modal_text = "#939599"
+tofu_modal_bg = "#3D4048"
+tofu_modal_text = "#939599"
+subscription_modal_bg = "#3D4048"
+subscription_modal_text = "#939599"
+
+hdg_1 = "#786DC5"
+hdg_2 = "#438288"
+hdg_3 = "#790EAD"
+regular_text = "#939599"
+preformatted_text = "#00A0BE"
+list_text = "#939599"

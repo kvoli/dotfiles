@@ -1,0 +1,42 @@
+# Base16 Bespin - amfora color config
+# Jan T. Sott
+
+[theme]
+bg = "#28211c"
+fg = "#8a8986"
+
+bottombar_label = "#9b859d"
+bottombar_text = "#8a8986"
+bottombar_bg = "#36312e"
+
+tab_num = "#5e5d5c"
+tab_divider = "#797977"
+
+amfora_link = "#54be0d"
+foreign_link = "#666666"
+link_number = "#666666"
+
+btn_bg = "#36312e"
+btn_text = "#8a8986"
+
+input_modal_bg = "#36312e"
+input_modal_text = "#8a8986"
+input_modal_field_bg = "#28211c"
+input_modal_field_text = "#8a8986"
+info_modal_bg = "#36312e"
+info_modal_text = "#8a8986"
+error_modal_bg = "#36312e"
+error_modal_text = "#937121"
+yesno_modal_bg = "#36312e"
+yesno_modal_text = "#8a8986"
+tofu_modal_bg = "#36312e"
+tofu_modal_text = "#8a8986"
+subscription_modal_bg = "#36312e"
+subscription_modal_text = "#8a8986"
+
+hdg_1 = "#cf7d34"
+hdg_2 = "#f9ee98"
+hdg_3 = "#5ea6ea"
+regular_text = "#8a8986"
+preformatted_text = "#afc4db"
+list_text = "#8a8986"

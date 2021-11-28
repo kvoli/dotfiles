@@ -1,0 +1,42 @@
+# Base16 Macintosh - amfora color config
+# Rebecca Bettencourt (http://www.kreativekorp.com)
+
+[theme]
+bg = "#000000"
+fg = "#c0c0c0"
+
+bottombar_label = "#4700a5"
+bottombar_text = "#c0c0c0"
+bottombar_bg = "#404040"
+
+tab_num = "#404040"
+tab_divider = "#808080"
+
+amfora_link = "#1fb714"
+foreign_link = "#808080"
+link_number = "#808080"
+
+btn_bg = "#404040"
+btn_text = "#c0c0c0"
+
+input_modal_bg = "#404040"
+input_modal_text = "#c0c0c0"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#c0c0c0"
+info_modal_bg = "#404040"
+info_modal_text = "#c0c0c0"
+error_modal_bg = "#404040"
+error_modal_text = "#90713a"
+yesno_modal_bg = "#404040"
+yesno_modal_text = "#c0c0c0"
+tofu_modal_bg = "#404040"
+tofu_modal_text = "#c0c0c0"
+subscription_modal_bg = "#404040"
+subscription_modal_text = "#c0c0c0"
+
+hdg_1 = "#ff6403"
+hdg_2 = "#fbf305"
+hdg_3 = "#0000d3"
+regular_text = "#c0c0c0"
+preformatted_text = "#02abea"
+list_text = "#c0c0c0"

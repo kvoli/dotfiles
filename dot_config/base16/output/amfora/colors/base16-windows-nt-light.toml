@@ -1,0 +1,42 @@
+# Base16 Windows NT Light - amfora color config
+# Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+bg = "#ffffff"
+fg = "#808080"
+
+bottombar_label = "#800080"
+bottombar_text = "#808080"
+bottombar_bg = "#eaeaea"
+
+tab_num = "#d5d5d5"
+tab_divider = "#a0a0a0"
+
+amfora_link = "#008000"
+foreign_link = "#c0c0c0"
+link_number = "#c0c0c0"
+
+btn_bg = "#eaeaea"
+btn_text = "#808080"
+
+input_modal_bg = "#eaeaea"
+input_modal_text = "#808080"
+input_modal_field_bg = "#ffffff"
+input_modal_field_text = "#808080"
+info_modal_bg = "#eaeaea"
+info_modal_text = "#808080"
+error_modal_bg = "#eaeaea"
+error_modal_text = "#00ff00"
+yesno_modal_bg = "#eaeaea"
+yesno_modal_text = "#808080"
+tofu_modal_bg = "#eaeaea"
+tofu_modal_text = "#808080"
+subscription_modal_bg = "#eaeaea"
+subscription_modal_text = "#808080"
+
+hdg_1 = "#ffff00"
+hdg_2 = "#808000"
+hdg_3 = "#000080"
+regular_text = "#808080"
+preformatted_text = "#008080"
+list_text = "#808080"

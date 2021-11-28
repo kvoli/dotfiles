@@ -1,0 +1,42 @@
+# Base16 pinky - amfora color config
+# Benjamin (https://github.com/b3nj5m1n)
+
+[theme]
+bg = "#171517"
+fg = "#f5f5f5"
+
+bottombar_label = "#007fff"
+bottombar_text = "#f5f5f5"
+bottombar_bg = "#1b181b"
+
+tab_num = "#1d1b1d"
+tab_divider = "#e7dbdb"
+
+amfora_link = "#ff0066"
+foreign_link = "#383338"
+link_number = "#383338"
+
+btn_bg = "#1b181b"
+btn_text = "#f5f5f5"
+
+input_modal_bg = "#1b181b"
+input_modal_text = "#f5f5f5"
+input_modal_field_bg = "#171517"
+input_modal_field_text = "#f5f5f5"
+info_modal_bg = "#1b181b"
+info_modal_text = "#f5f5f5"
+error_modal_bg = "#1b181b"
+error_modal_text = "#df206c"
+yesno_modal_bg = "#1b181b"
+yesno_modal_text = "#f5f5f5"
+tofu_modal_bg = "#1b181b"
+tofu_modal_text = "#f5f5f5"
+subscription_modal_bg = "#1b181b"
+subscription_modal_text = "#f5f5f5"
+
+hdg_1 = "#00ff66"
+hdg_2 = "#20df6c"
+hdg_3 = "#00ffff"
+regular_text = "#f5f5f5"
+preformatted_text = "#6600ff"
+list_text = "#f5f5f5"

@@ -1,0 +1,42 @@
+# Base16 iA Light - amfora color config
+# iA Inc. (modified by aramisgithub)
+
+[theme]
+bg = "#f6f6f6"
+fg = "#181818"
+
+bottombar_label = "#a94598"
+bottombar_text = "#181818"
+bottombar_bg = "#dedede"
+
+tab_num = "#bde5f2"
+tab_divider = "#767676"
+
+amfora_link = "#38781c"
+foreign_link = "#898989"
+link_number = "#898989"
+
+btn_bg = "#dedede"
+btn_text = "#181818"
+
+input_modal_bg = "#dedede"
+input_modal_text = "#181818"
+input_modal_field_bg = "#f6f6f6"
+input_modal_field_text = "#181818"
+info_modal_bg = "#dedede"
+info_modal_text = "#181818"
+error_modal_bg = "#dedede"
+error_modal_text = "#8b6c37"
+yesno_modal_bg = "#dedede"
+yesno_modal_text = "#181818"
+tofu_modal_bg = "#dedede"
+tofu_modal_text = "#181818"
+subscription_modal_bg = "#dedede"
+subscription_modal_text = "#181818"
+
+hdg_1 = "#c43e18"
+hdg_2 = "#c48218"
+hdg_3 = "#48bac2"
+regular_text = "#181818"
+preformatted_text = "#2d6bb1"
+list_text = "#181818"

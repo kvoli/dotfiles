@@ -1,0 +1,42 @@
+# Base16 Windows 10 Light - amfora color config
+# Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+bg = "#f2f2f2"
+fg = "#767676"
+
+bottombar_label = "#881798"
+bottombar_text = "#767676"
+bottombar_bg = "#e5e5e5"
+
+tab_num = "#d9d9d9"
+tab_divider = "#ababab"
+
+amfora_link = "#13a10e"
+foreign_link = "#cccccc"
+link_number = "#cccccc"
+
+btn_bg = "#e5e5e5"
+btn_text = "#767676"
+
+input_modal_bg = "#e5e5e5"
+input_modal_text = "#767676"
+input_modal_field_bg = "#f2f2f2"
+input_modal_field_text = "#767676"
+info_modal_bg = "#e5e5e5"
+info_modal_text = "#767676"
+error_modal_bg = "#e5e5e5"
+error_modal_text = "#16c60c"
+yesno_modal_bg = "#e5e5e5"
+yesno_modal_text = "#767676"
+tofu_modal_bg = "#e5e5e5"
+tofu_modal_text = "#767676"
+subscription_modal_bg = "#e5e5e5"
+subscription_modal_text = "#767676"
+
+hdg_1 = "#f9f1a5"
+hdg_2 = "#c19c00"
+hdg_3 = "#0037da"
+regular_text = "#767676"
+preformatted_text = "#3a96dd"
+list_text = "#767676"

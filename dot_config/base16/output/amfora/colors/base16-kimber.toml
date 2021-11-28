@@ -1,0 +1,42 @@
+# Base16 Kimber - amfora color config
+# Mishka Nguyen (https://github.com/akhsiM)
+
+[theme]
+bg = "#222222"
+fg = "#DEDEE7"
+
+bottombar_label = "#86CACD"
+bottombar_text = "#DEDEE7"
+bottombar_bg = "#313131"
+
+tab_num = "#555D55"
+tab_divider = "#5A5A5A"
+
+amfora_link = "#99C899"
+foreign_link = "#644646"
+link_number = "#644646"
+
+btn_bg = "#313131"
+btn_text = "#DEDEE7"
+
+input_modal_bg = "#313131"
+input_modal_text = "#DEDEE7"
+input_modal_field_bg = "#222222"
+input_modal_field_text = "#DEDEE7"
+info_modal_bg = "#313131"
+info_modal_text = "#DEDEE7"
+error_modal_bg = "#313131"
+error_modal_text = "#704F4F"
+yesno_modal_bg = "#313131"
+yesno_modal_text = "#DEDEE7"
+tofu_modal_bg = "#313131"
+tofu_modal_text = "#DEDEE7"
+subscription_modal_bg = "#313131"
+subscription_modal_text = "#DEDEE7"
+
+hdg_1 = "#476C88"
+hdg_2 = "#D8B56D"
+hdg_3 = "#537C9C"
+regular_text = "#DEDEE7"
+preformatted_text = "#78B4B4"
+list_text = "#DEDEE7"

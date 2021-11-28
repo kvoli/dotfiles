@@ -1,0 +1,42 @@
+# Base16 Darktooth - amfora color config
+# Jason Milkins (https://github.com/jasonm23)
+
+[theme]
+bg = "#1D2021"
+fg = "#A89984"
+
+bottombar_label = "#8F4673"
+bottombar_text = "#A89984"
+bottombar_bg = "#32302F"
+
+tab_num = "#504945"
+tab_divider = "#928374"
+
+amfora_link = "#95C085"
+foreign_link = "#665C54"
+link_number = "#665C54"
+
+btn_bg = "#32302F"
+btn_text = "#A89984"
+
+input_modal_bg = "#32302F"
+input_modal_text = "#A89984"
+input_modal_field_bg = "#1D2021"
+input_modal_field_text = "#A89984"
+info_modal_bg = "#32302F"
+info_modal_text = "#A89984"
+error_modal_bg = "#32302F"
+error_modal_text = "#A87322"
+yesno_modal_bg = "#32302F"
+yesno_modal_text = "#A89984"
+tofu_modal_bg = "#32302F"
+tofu_modal_text = "#A89984"
+subscription_modal_bg = "#32302F"
+subscription_modal_text = "#A89984"
+
+hdg_1 = "#FE8625"
+hdg_2 = "#FAC03B"
+hdg_3 = "#0D6678"
+regular_text = "#A89984"
+preformatted_text = "#8BA59B"
+list_text = "#A89984"

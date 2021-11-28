@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Windows 95 Light by Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fcfcfc"
+idle_fg = "#545454"
+info_bg = "#00a8a8"
+info_fg = "#fcfcfc"
+good_bg = "#00a800"
+good_fg = "#fcfcfc"
+warning_bg = "#a85400"
+warning_fg = "#fcfcfc"
+critical_bg = "#a80000"
+critical_fg = "#fcfcfc"
+# The rest of the theme settings are left at default.

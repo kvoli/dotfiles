@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Rosé Pine Dawn by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#faf4ed"
+idle_fg = "#575279"
+info_bg = "#286983"
+info_fg = "#faf4ed"
+good_bg = "#d7827e"
+good_fg = "#faf4ed"
+warning_bg = "#ea9d34"
+warning_fg = "#faf4ed"
+critical_bg = "#1f1d2e"
+critical_fg = "#faf4ed"
+# The rest of the theme settings are left at default.

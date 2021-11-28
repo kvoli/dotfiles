@@ -1,0 +1,42 @@
+# Base16 Atelier Savanna - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#171c19"
+fg = "#87928a"
+
+bottombar_label = "#55859b"
+bottombar_text = "#87928a"
+bottombar_bg = "#232a25"
+
+tab_num = "#526057"
+tab_divider = "#78877d"
+
+amfora_link = "#489963"
+foreign_link = "#5f6d64"
+link_number = "#5f6d64"
+
+btn_bg = "#232a25"
+btn_text = "#87928a"
+
+input_modal_bg = "#232a25"
+input_modal_text = "#87928a"
+input_modal_field_bg = "#171c19"
+input_modal_field_text = "#87928a"
+info_modal_bg = "#232a25"
+info_modal_text = "#87928a"
+error_modal_bg = "#232a25"
+error_modal_text = "#867469"
+yesno_modal_bg = "#232a25"
+yesno_modal_text = "#87928a"
+tofu_modal_bg = "#232a25"
+tofu_modal_text = "#87928a"
+subscription_modal_bg = "#232a25"
+subscription_modal_text = "#87928a"
+
+hdg_1 = "#9f713c"
+hdg_2 = "#a07e3b"
+hdg_3 = "#478c90"
+regular_text = "#87928a"
+preformatted_text = "#1c9aa0"
+list_text = "#87928a"

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Windows High Contrast Light by Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fcfcfc"
+idle_fg = "#545454"
+info_bg = "#008080"
+info_fg = "#fcfcfc"
+good_bg = "#008000"
+good_fg = "#fcfcfc"
+warning_bg = "#808000"
+warning_fg = "#fcfcfc"
+critical_bg = "#800000"
+critical_fg = "#fcfcfc"
+# The rest of the theme settings are left at default.

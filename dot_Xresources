@@ -1,0 +1,5 @@
+Xcursor.size:  16       !  32, 48 or 64 may also be good values
+
+!Colors
+#include "/home/kvoli/.config/x11/colorschemes/void-bear.Xresources"
+

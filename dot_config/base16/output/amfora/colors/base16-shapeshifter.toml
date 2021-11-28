@@ -1,0 +1,42 @@
+# Base16 Shapeshifter - amfora color config
+# Tyler Benziger (http://tybenz.com)
+
+[theme]
+bg = "#f9f9f9"
+fg = "#102015"
+
+bottombar_label = "#f996e2"
+bottombar_text = "#102015"
+bottombar_bg = "#e0e0e0"
+
+tab_num = "#ababab"
+tab_divider = "#343434"
+
+amfora_link = "#0ed839"
+foreign_link = "#555555"
+link_number = "#555555"
+
+btn_bg = "#e0e0e0"
+btn_text = "#102015"
+
+input_modal_bg = "#e0e0e0"
+input_modal_text = "#102015"
+input_modal_field_bg = "#f9f9f9"
+input_modal_field_text = "#102015"
+info_modal_bg = "#e0e0e0"
+info_modal_text = "#102015"
+error_modal_bg = "#e0e0e0"
+error_modal_text = "#69542d"
+yesno_modal_bg = "#e0e0e0"
+yesno_modal_text = "#102015"
+tofu_modal_bg = "#e0e0e0"
+tofu_modal_text = "#102015"
+subscription_modal_bg = "#e0e0e0"
+subscription_modal_text = "#102015"
+
+hdg_1 = "#e09448"
+hdg_2 = "#dddd13"
+hdg_3 = "#3b48e3"
+regular_text = "#102015"
+preformatted_text = "#23edda"
+list_text = "#102015"

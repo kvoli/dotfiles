@@ -1,0 +1,42 @@
+# Base16 Rebecca - amfora color config
+# Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+[theme]
+bg = "#292a44"
+fg = "#f1eff8"
+
+bottombar_label = "#7aa5ff"
+bottombar_text = "#f1eff8"
+bottombar_bg = "#663399"
+
+tab_num = "#383a62"
+tab_divider = "#a0a0c5"
+
+amfora_link = "#6dfedf"
+foreign_link = "#666699"
+link_number = "#666699"
+
+btn_bg = "#663399"
+btn_text = "#f1eff8"
+
+input_modal_bg = "#663399"
+input_modal_text = "#f1eff8"
+input_modal_field_bg = "#292a44"
+input_modal_field_text = "#f1eff8"
+info_modal_bg = "#663399"
+info_modal_text = "#f1eff8"
+error_modal_bg = "#663399"
+error_modal_text = "#ff79c6"
+yesno_modal_bg = "#663399"
+yesno_modal_text = "#f1eff8"
+tofu_modal_bg = "#663399"
+tofu_modal_text = "#f1eff8"
+subscription_modal_bg = "#663399"
+subscription_modal_text = "#f1eff8"
+
+hdg_1 = "#efe4a1"
+hdg_2 = "#ae81ff"
+hdg_3 = "#2de0a7"
+regular_text = "#f1eff8"
+preformatted_text = "#8eaee0"
+list_text = "#f1eff8"

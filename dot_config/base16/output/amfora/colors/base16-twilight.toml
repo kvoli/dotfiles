@@ -1,0 +1,42 @@
+# Base16 Twilight - amfora color config
+# David Hart (https://github.com/hartbit)
+
+[theme]
+bg = "#1e1e1e"
+fg = "#a7a7a7"
+
+bottombar_label = "#9b859d"
+bottombar_text = "#a7a7a7"
+bottombar_bg = "#323537"
+
+tab_num = "#464b50"
+tab_divider = "#838184"
+
+amfora_link = "#8f9d6a"
+foreign_link = "#5f5a60"
+link_number = "#5f5a60"
+
+btn_bg = "#323537"
+btn_text = "#a7a7a7"
+
+input_modal_bg = "#323537"
+input_modal_text = "#a7a7a7"
+input_modal_field_bg = "#1e1e1e"
+input_modal_field_text = "#a7a7a7"
+info_modal_bg = "#323537"
+info_modal_text = "#a7a7a7"
+error_modal_bg = "#323537"
+error_modal_text = "#9b703f"
+yesno_modal_bg = "#323537"
+yesno_modal_text = "#a7a7a7"
+tofu_modal_bg = "#323537"
+tofu_modal_text = "#a7a7a7"
+subscription_modal_bg = "#323537"
+subscription_modal_text = "#a7a7a7"
+
+hdg_1 = "#cda869"
+hdg_2 = "#f9ee98"
+hdg_3 = "#7587a6"
+regular_text = "#a7a7a7"
+preformatted_text = "#afc4db"
+list_text = "#a7a7a7"

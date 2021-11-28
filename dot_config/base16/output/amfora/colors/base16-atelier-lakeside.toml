@@ -1,0 +1,42 @@
+# Base16 Atelier Lakeside - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#161b1d"
+fg = "#7ea2b4"
+
+bottombar_label = "#6b6bb8"
+bottombar_text = "#7ea2b4"
+bottombar_bg = "#1f292e"
+
+tab_num = "#516d7b"
+tab_divider = "#7195a8"
+
+amfora_link = "#568c3b"
+foreign_link = "#5a7b8c"
+link_number = "#5a7b8c"
+
+btn_bg = "#1f292e"
+btn_text = "#7ea2b4"
+
+input_modal_bg = "#1f292e"
+input_modal_text = "#7ea2b4"
+input_modal_field_bg = "#161b1d"
+input_modal_field_text = "#7ea2b4"
+info_modal_bg = "#1f292e"
+info_modal_text = "#7ea2b4"
+error_modal_bg = "#1f292e"
+error_modal_text = "#b72dd2"
+yesno_modal_bg = "#1f292e"
+yesno_modal_text = "#7ea2b4"
+tofu_modal_bg = "#1f292e"
+tofu_modal_text = "#7ea2b4"
+subscription_modal_bg = "#1f292e"
+subscription_modal_text = "#7ea2b4"
+
+hdg_1 = "#935c25"
+hdg_2 = "#8a8a0f"
+hdg_3 = "#257fad"
+regular_text = "#7ea2b4"
+preformatted_text = "#2d8f6f"
+list_text = "#7ea2b4"

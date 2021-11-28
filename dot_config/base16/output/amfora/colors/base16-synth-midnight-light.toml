@@ -1,0 +1,42 @@
+# Base16 Synth Midnight Terminal Light - amfora color config
+# Michaël Ball (http://github.com/michael-ball/)
+
+[theme]
+bg = "#dddfe0"
+fg = "#28292a"
+
+bottombar_label = "#ea5ce2"
+bottombar_text = "#28292a"
+bottombar_bg = "#cfd1d2"
+
+tab_num = "#c1c3c4"
+tab_divider = "#474849"
+
+amfora_link = "#06ea61"
+foreign_link = "#a3a5a6"
+link_number = "#a3a5a6"
+
+btn_bg = "#cfd1d2"
+btn_text = "#28292a"
+
+input_modal_bg = "#cfd1d2"
+input_modal_text = "#28292a"
+input_modal_field_bg = "#dddfe0"
+input_modal_field_text = "#28292a"
+info_modal_bg = "#cfd1d2"
+info_modal_text = "#28292a"
+error_modal_bg = "#cfd1d2"
+error_modal_text = "#cd6320"
+yesno_modal_bg = "#cfd1d2"
+yesno_modal_text = "#28292a"
+tofu_modal_bg = "#cfd1d2"
+tofu_modal_text = "#28292a"
+subscription_modal_bg = "#cfd1d2"
+subscription_modal_text = "#28292a"
+
+hdg_1 = "#ea770d"
+hdg_2 = "#c9d364"
+hdg_3 = "#03aeff"
+regular_text = "#28292a"
+preformatted_text = "#42fff9"
+list_text = "#28292a"

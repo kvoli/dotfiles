@@ -1,0 +1,42 @@
+# Base16 Classic Dark - amfora color config
+# Jason Heeris (http://heeris.id.au)
+
+[theme]
+bg = "#151515"
+fg = "#D0D0D0"
+
+bottombar_label = "#AA759F"
+bottombar_text = "#D0D0D0"
+bottombar_bg = "#202020"
+
+tab_num = "#303030"
+tab_divider = "#B0B0B0"
+
+amfora_link = "#90A959"
+foreign_link = "#505050"
+link_number = "#505050"
+
+btn_bg = "#202020"
+btn_text = "#D0D0D0"
+
+input_modal_bg = "#202020"
+input_modal_text = "#D0D0D0"
+input_modal_field_bg = "#151515"
+input_modal_field_text = "#D0D0D0"
+info_modal_bg = "#202020"
+info_modal_text = "#D0D0D0"
+error_modal_bg = "#202020"
+error_modal_text = "#8F5536"
+yesno_modal_bg = "#202020"
+yesno_modal_text = "#D0D0D0"
+tofu_modal_bg = "#202020"
+tofu_modal_text = "#D0D0D0"
+subscription_modal_bg = "#202020"
+subscription_modal_text = "#D0D0D0"
+
+hdg_1 = "#D28445"
+hdg_2 = "#F4BF75"
+hdg_3 = "#6A9FB5"
+regular_text = "#D0D0D0"
+preformatted_text = "#75B5AA"
+list_text = "#D0D0D0"

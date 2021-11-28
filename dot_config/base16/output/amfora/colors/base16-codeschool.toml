@@ -1,0 +1,42 @@
+# Base16 Codeschool - amfora color config
+# blockloop
+
+[theme]
+bg = "#232c31"
+fg = "#9ea7a6"
+
+bottombar_label = "#c59820"
+bottombar_text = "#9ea7a6"
+bottombar_bg = "#1c3657"
+
+tab_num = "#2a343a"
+tab_divider = "#84898c"
+
+amfora_link = "#237986"
+foreign_link = "#3f4944"
+link_number = "#3f4944"
+
+btn_bg = "#1c3657"
+btn_text = "#9ea7a6"
+
+input_modal_bg = "#1c3657"
+input_modal_text = "#9ea7a6"
+input_modal_field_bg = "#232c31"
+input_modal_field_text = "#9ea7a6"
+info_modal_bg = "#1c3657"
+info_modal_text = "#9ea7a6"
+error_modal_bg = "#1c3657"
+error_modal_text = "#c98344"
+yesno_modal_bg = "#1c3657"
+yesno_modal_text = "#9ea7a6"
+tofu_modal_bg = "#1c3657"
+tofu_modal_text = "#9ea7a6"
+subscription_modal_bg = "#1c3657"
+subscription_modal_text = "#9ea7a6"
+
+hdg_1 = "#43820d"
+hdg_2 = "#a03b1e"
+hdg_3 = "#484d79"
+regular_text = "#9ea7a6"
+preformatted_text = "#b02f30"
+list_text = "#9ea7a6"

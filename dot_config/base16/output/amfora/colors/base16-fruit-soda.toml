@@ -1,0 +1,42 @@
+# Base16 Fruit Soda - amfora color config
+# jozip
+
+[theme]
+bg = "#f1ecf1"
+fg = "#515151"
+
+bottombar_label = "#611fce"
+bottombar_text = "#515151"
+bottombar_bg = "#e0dee0"
+
+tab_num = "#d8d5d5"
+tab_divider = "#979598"
+
+amfora_link = "#47f74c"
+foreign_link = "#b5b4b6"
+link_number = "#b5b4b6"
+
+btn_bg = "#e0dee0"
+btn_text = "#515151"
+
+input_modal_bg = "#e0dee0"
+input_modal_text = "#515151"
+input_modal_field_bg = "#f1ecf1"
+input_modal_field_text = "#515151"
+info_modal_bg = "#e0dee0"
+info_modal_text = "#515151"
+error_modal_bg = "#e0dee0"
+error_modal_text = "#b16f40"
+yesno_modal_bg = "#e0dee0"
+yesno_modal_text = "#515151"
+tofu_modal_bg = "#e0dee0"
+tofu_modal_text = "#515151"
+subscription_modal_bg = "#e0dee0"
+subscription_modal_text = "#515151"
+
+hdg_1 = "#fe6d08"
+hdg_2 = "#f7e203"
+hdg_3 = "#2931df"
+regular_text = "#515151"
+preformatted_text = "#0f9cfd"
+list_text = "#515151"

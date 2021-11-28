@@ -1,0 +1,42 @@
+# Base16 Google Light - amfora color config
+# Seth Wright (http://sethawright.com)
+
+[theme]
+bg = "#ffffff"
+fg = "#373b41"
+
+bottombar_label = "#A36AC7"
+bottombar_text = "#373b41"
+bottombar_bg = "#e0e0e0"
+
+tab_num = "#c5c8c6"
+tab_divider = "#969896"
+
+amfora_link = "#198844"
+foreign_link = "#b4b7b4"
+link_number = "#b4b7b4"
+
+btn_bg = "#e0e0e0"
+btn_text = "#373b41"
+
+input_modal_bg = "#e0e0e0"
+input_modal_text = "#373b41"
+input_modal_field_bg = "#ffffff"
+input_modal_field_text = "#373b41"
+info_modal_bg = "#e0e0e0"
+info_modal_text = "#373b41"
+error_modal_bg = "#e0e0e0"
+error_modal_text = "#3971ED"
+yesno_modal_bg = "#e0e0e0"
+yesno_modal_text = "#373b41"
+tofu_modal_bg = "#e0e0e0"
+tofu_modal_text = "#373b41"
+subscription_modal_bg = "#e0e0e0"
+subscription_modal_text = "#373b41"
+
+hdg_1 = "#F96A38"
+hdg_2 = "#FBA922"
+hdg_3 = "#3971ED"
+regular_text = "#373b41"
+preformatted_text = "#3971ED"
+list_text = "#373b41"

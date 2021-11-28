@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Dark Violet by ruler501 (https://github.com/ruler501/base16-darkviolet)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#000000"
+idle_fg = "#b08ae6"
+info_bg = "#40dfff"
+info_fg = "#000000"
+good_bg = "#4595e6"
+good_fg = "#000000"
+warning_bg = "#f29df2"
+warning_fg = "#000000"
+critical_bg = "#a82ee6"
+critical_fg = "#000000"
+# The rest of the theme settings are left at default.

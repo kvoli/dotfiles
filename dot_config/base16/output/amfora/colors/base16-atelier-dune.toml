@@ -1,0 +1,42 @@
+# Base16 Atelier Dune - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#20201d"
+fg = "#a6a28c"
+
+bottombar_label = "#b854d4"
+bottombar_text = "#a6a28c"
+bottombar_bg = "#292824"
+
+tab_num = "#6e6b5e"
+tab_divider = "#999580"
+
+amfora_link = "#60ac39"
+foreign_link = "#7d7a68"
+link_number = "#7d7a68"
+
+btn_bg = "#292824"
+btn_text = "#a6a28c"
+
+input_modal_bg = "#292824"
+input_modal_text = "#a6a28c"
+input_modal_field_bg = "#20201d"
+input_modal_field_text = "#a6a28c"
+info_modal_bg = "#292824"
+info_modal_text = "#a6a28c"
+error_modal_bg = "#292824"
+error_modal_text = "#d43552"
+yesno_modal_bg = "#292824"
+yesno_modal_text = "#a6a28c"
+tofu_modal_bg = "#292824"
+tofu_modal_text = "#a6a28c"
+subscription_modal_bg = "#292824"
+subscription_modal_text = "#a6a28c"
+
+hdg_1 = "#b65611"
+hdg_2 = "#ae9513"
+hdg_3 = "#6684e1"
+regular_text = "#a6a28c"
+preformatted_text = "#1fad83"
+list_text = "#a6a28c"

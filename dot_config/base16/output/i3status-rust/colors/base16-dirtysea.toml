@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# dirtysea by Kahlil (Kal) Hodgson
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#e0e0e0"
+idle_fg = "#000000"
+info_bg = "#755B00"
+info_fg = "#e0e0e0"
+good_bg = "#730073"
+good_fg = "#e0e0e0"
+warning_bg = "#755B00"
+warning_fg = "#e0e0e0"
+critical_bg = "#840000"
+critical_fg = "#e0e0e0"
+# The rest of the theme settings are left at default.

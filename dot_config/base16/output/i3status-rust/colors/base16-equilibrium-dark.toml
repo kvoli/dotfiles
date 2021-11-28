@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Equilibrium Dark by Carlo Abelli
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#0c1118"
+idle_fg = "#afaba2"
+info_bg = "#00948b"
+info_fg = "#0c1118"
+good_bg = "#7f8b00"
+good_fg = "#0c1118"
+warning_bg = "#bb8801"
+warning_fg = "#0c1118"
+critical_bg = "#f04339"
+critical_fg = "#0c1118"
+# The rest of the theme settings are left at default.

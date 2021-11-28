@@ -1,0 +1,42 @@
+# Base16 summercamp - amfora color config
+# zoe firi (zoefiri.github.io)
+
+[theme]
+bg = "#1c1810"
+fg = "#736e55"
+
+bottombar_label = "#FF8080"
+bottombar_text = "#736e55"
+bottombar_bg = "#2a261c"
+
+tab_num = "#3a3527"
+tab_divider = "#5f5b45"
+
+amfora_link = "#5ceb5a"
+foreign_link = "#504b38"
+link_number = "#504b38"
+
+btn_bg = "#2a261c"
+btn_text = "#736e55"
+
+input_modal_bg = "#2a261c"
+input_modal_text = "#736e55"
+input_modal_field_bg = "#1c1810"
+input_modal_field_text = "#736e55"
+info_modal_bg = "#2a261c"
+info_modal_text = "#736e55"
+error_modal_bg = "#2a261c"
+error_modal_text = "#F69BE7"
+yesno_modal_bg = "#2a261c"
+yesno_modal_text = "#736e55"
+tofu_modal_bg = "#2a261c"
+tofu_modal_text = "#736e55"
+subscription_modal_bg = "#2a261c"
+subscription_modal_text = "#736e55"
+
+hdg_1 = "#fba11b"
+hdg_2 = "#f2ff27"
+hdg_3 = "#489bf0"
+regular_text = "#736e55"
+preformatted_text = "#5aebbc"
+list_text = "#736e55"

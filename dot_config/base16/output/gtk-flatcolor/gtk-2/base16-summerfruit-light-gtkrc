@@ -1,0 +1,15 @@
+## Base16 Summerfruit Light
+# Author: Christopher Corley (http://christop.club/)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#FFFFFF
+color0:#FFFFFF
+text_color:#101010
+selected_bg_color:#D0D0D0
+selected_fg_color:#101010
+tooltip_bg_color:#FFFFFF
+tooltip_fg_color:#101010
+titlebar_bg_color:#FFFFFF
+titlebar_fg_color:#101010
+menu_bg_color:#FFFFFF
+menu_fg_color:#101010
+link_color:#D0D0D0"

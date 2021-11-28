@@ -1,0 +1,42 @@
+# Base16 Harmonic16 Light - amfora color config
+# Jannik Siebert (https://github.com/janniks)
+
+[theme]
+bg = "#f7f9fb"
+fg = "#405c79"
+
+bottombar_label = "#bf568b"
+bottombar_text = "#405c79"
+bottombar_bg = "#e5ebf1"
+
+tab_num = "#cbd6e2"
+tab_divider = "#627e99"
+
+amfora_link = "#56bf8b"
+foreign_link = "#aabcce"
+link_number = "#aabcce"
+
+btn_bg = "#e5ebf1"
+btn_text = "#405c79"
+
+input_modal_bg = "#e5ebf1"
+input_modal_text = "#405c79"
+input_modal_field_bg = "#f7f9fb"
+input_modal_field_text = "#405c79"
+info_modal_bg = "#e5ebf1"
+info_modal_text = "#405c79"
+error_modal_bg = "#e5ebf1"
+error_modal_text = "#bf5656"
+yesno_modal_bg = "#e5ebf1"
+yesno_modal_text = "#405c79"
+tofu_modal_bg = "#e5ebf1"
+tofu_modal_text = "#405c79"
+subscription_modal_bg = "#e5ebf1"
+subscription_modal_text = "#405c79"
+
+hdg_1 = "#bfbf56"
+hdg_2 = "#8bbf56"
+hdg_3 = "#8b56bf"
+regular_text = "#405c79"
+preformatted_text = "#568bbf"
+list_text = "#405c79"

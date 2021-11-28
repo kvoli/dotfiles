@@ -1,0 +1,42 @@
+# Base16 Nord - amfora color config
+# arcticicestudio
+
+[theme]
+bg = "#2E3440"
+fg = "#E5E9F0"
+
+bottombar_label = "#B48EAD"
+bottombar_text = "#E5E9F0"
+bottombar_bg = "#3B4252"
+
+tab_num = "#434C5E"
+tab_divider = "#D8DEE9"
+
+amfora_link = "#A3BE8C"
+foreign_link = "#4C566A"
+link_number = "#4C566A"
+
+btn_bg = "#3B4252"
+btn_text = "#E5E9F0"
+
+input_modal_bg = "#3B4252"
+input_modal_text = "#E5E9F0"
+input_modal_field_bg = "#2E3440"
+input_modal_field_text = "#E5E9F0"
+info_modal_bg = "#3B4252"
+info_modal_text = "#E5E9F0"
+error_modal_bg = "#3B4252"
+error_modal_text = "#5E81AC"
+yesno_modal_bg = "#3B4252"
+yesno_modal_text = "#E5E9F0"
+tofu_modal_bg = "#3B4252"
+tofu_modal_text = "#E5E9F0"
+subscription_modal_bg = "#3B4252"
+subscription_modal_text = "#E5E9F0"
+
+hdg_1 = "#D08770"
+hdg_2 = "#EBCB8B"
+hdg_3 = "#81A1C1"
+regular_text = "#E5E9F0"
+preformatted_text = "#88C0D0"
+list_text = "#E5E9F0"

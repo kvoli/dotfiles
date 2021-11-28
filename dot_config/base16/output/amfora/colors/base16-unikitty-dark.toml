@@ -1,0 +1,42 @@
+# Base16 Unikitty Dark - amfora color config
+# Josh W Lewis (@joshwlewis)
+
+[theme]
+bg = "#2e2a31"
+fg = "#bcbabe"
+
+bottombar_label = "#bb60ea"
+bottombar_text = "#bcbabe"
+bottombar_bg = "#4a464d"
+
+tab_num = "#666369"
+tab_divider = "#9f9da2"
+
+amfora_link = "#17ad98"
+foreign_link = "#838085"
+link_number = "#838085"
+
+btn_bg = "#4a464d"
+btn_text = "#bcbabe"
+
+input_modal_bg = "#4a464d"
+input_modal_text = "#bcbabe"
+input_modal_field_bg = "#2e2a31"
+input_modal_field_text = "#bcbabe"
+info_modal_bg = "#4a464d"
+info_modal_text = "#bcbabe"
+error_modal_bg = "#4a464d"
+error_modal_text = "#c720ca"
+yesno_modal_bg = "#4a464d"
+yesno_modal_text = "#bcbabe"
+tofu_modal_bg = "#4a464d"
+tofu_modal_text = "#bcbabe"
+subscription_modal_bg = "#4a464d"
+subscription_modal_text = "#bcbabe"
+
+hdg_1 = "#d65407"
+hdg_2 = "#dc8a0e"
+hdg_3 = "#796af5"
+regular_text = "#bcbabe"
+preformatted_text = "#149bda"
+list_text = "#bcbabe"

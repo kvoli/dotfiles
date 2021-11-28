@@ -1,0 +1,42 @@
+# Base16 Sakura - amfora color config
+# Misterio77 (http://github.com/Misterio77)
+
+[theme]
+bg = "#feedf3"
+fg = "#564448"
+
+bottombar_label = "#5e2180"
+bottombar_text = "#564448"
+bottombar_bg = "#f8e2e7"
+
+tab_num = "#e0ccd1"
+tab_divider = "#665055"
+
+amfora_link = "#2e916d"
+foreign_link = "#755f64"
+link_number = "#755f64"
+
+btn_bg = "#f8e2e7"
+btn_text = "#564448"
+
+input_modal_bg = "#f8e2e7"
+input_modal_text = "#564448"
+input_modal_field_bg = "#feedf3"
+input_modal_field_text = "#564448"
+info_modal_bg = "#f8e2e7"
+info_modal_text = "#564448"
+error_modal_bg = "#f8e2e7"
+error_modal_text = "#ba0d35"
+yesno_modal_bg = "#f8e2e7"
+yesno_modal_text = "#564448"
+tofu_modal_bg = "#f8e2e7"
+tofu_modal_text = "#564448"
+subscription_modal_bg = "#f8e2e7"
+subscription_modal_text = "#564448"
+
+hdg_1 = "#f6661e"
+hdg_2 = "#c29461"
+hdg_3 = "#006e93"
+regular_text = "#564448"
+preformatted_text = "#1d8991"
+list_text = "#564448"

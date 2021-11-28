@@ -1,0 +1,42 @@
+# Base16 Heetch Dark - amfora color config
+# Geoffrey Teale (tealeg@gmail.com)
+
+[theme]
+bg = "#190134"
+fg = "#BDB6C5"
+
+bottombar_label = "#82034C"
+bottombar_text = "#BDB6C5"
+bottombar_bg = "#392551"
+
+tab_num = "#5A496E"
+tab_divider = "#9C92A8"
+
+amfora_link = "#C33678"
+foreign_link = "#7B6D8B"
+link_number = "#7B6D8B"
+
+btn_bg = "#392551"
+btn_text = "#BDB6C5"
+
+input_modal_bg = "#392551"
+input_modal_text = "#BDB6C5"
+input_modal_field_bg = "#190134"
+input_modal_field_text = "#BDB6C5"
+info_modal_bg = "#392551"
+info_modal_text = "#BDB6C5"
+error_modal_bg = "#392551"
+error_modal_text = "#470546"
+yesno_modal_bg = "#392551"
+yesno_modal_text = "#BDB6C5"
+tofu_modal_bg = "#392551"
+tofu_modal_text = "#BDB6C5"
+subscription_modal_bg = "#392551"
+subscription_modal_text = "#BDB6C5"
+
+hdg_1 = "#5BA2B6"
+hdg_2 = "#8F6C97"
+hdg_3 = "#BD0152"
+regular_text = "#BDB6C5"
+preformatted_text = "#F80059"
+list_text = "#BDB6C5"

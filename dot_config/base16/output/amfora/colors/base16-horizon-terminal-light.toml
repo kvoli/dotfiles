@@ -1,0 +1,42 @@
+# Base16 Horizon Light - amfora color config
+# Michaël Ball (http://github.com/michael-ball/)
+
+[theme]
+bg = "#FDF0ED"
+fg = "#403C3D"
+
+bottombar_label = "#EE64AC"
+bottombar_text = "#403C3D"
+bottombar_bg = "#FADAD1"
+
+tab_num = "#F9CBBE"
+tab_divider = "#948C8A"
+
+amfora_link = "#29D398"
+foreign_link = "#BDB3B1"
+link_number = "#BDB3B1"
+
+btn_bg = "#FADAD1"
+btn_text = "#403C3D"
+
+input_modal_bg = "#FADAD1"
+input_modal_text = "#403C3D"
+input_modal_field_bg = "#FDF0ED"
+input_modal_field_text = "#403C3D"
+info_modal_bg = "#FADAD1"
+info_modal_text = "#403C3D"
+error_modal_bg = "#FADAD1"
+error_modal_text = "#F9CBBE"
+yesno_modal_bg = "#FADAD1"
+yesno_modal_text = "#403C3D"
+tofu_modal_bg = "#FADAD1"
+tofu_modal_text = "#403C3D"
+subscription_modal_bg = "#FADAD1"
+subscription_modal_text = "#403C3D"
+
+hdg_1 = "#F9CEC3"
+hdg_2 = "#FADAD1"
+hdg_3 = "#26BBD9"
+regular_text = "#403C3D"
+preformatted_text = "#59E1E3"
+list_text = "#403C3D"

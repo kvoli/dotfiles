@@ -1,0 +1,42 @@
+# Base16 Edge Dark - amfora color config
+# cjayross (https://github.com/cjayross)
+
+[theme]
+bg = "#262729"
+fg = "#b7bec9"
+
+bottombar_label = "#d390e7"
+bottombar_text = "#b7bec9"
+bottombar_bg = "#88909f"
+
+tab_num = "#b7bec9"
+tab_divider = "#73b3e7"
+
+amfora_link = "#a1bf78"
+foreign_link = "#3e4249"
+link_number = "#3e4249"
+
+btn_bg = "#88909f"
+btn_text = "#b7bec9"
+
+input_modal_bg = "#88909f"
+input_modal_text = "#b7bec9"
+input_modal_field_bg = "#262729"
+input_modal_field_text = "#b7bec9"
+info_modal_bg = "#88909f"
+info_modal_text = "#b7bec9"
+error_modal_bg = "#88909f"
+error_modal_text = "#5ebaa5"
+yesno_modal_bg = "#88909f"
+yesno_modal_text = "#b7bec9"
+tofu_modal_bg = "#88909f"
+tofu_modal_text = "#b7bec9"
+subscription_modal_bg = "#88909f"
+subscription_modal_text = "#b7bec9"
+
+hdg_1 = "#e77171"
+hdg_2 = "#dbb774"
+hdg_3 = "#73b3e7"
+regular_text = "#b7bec9"
+preformatted_text = "#5ebaa5"
+list_text = "#b7bec9"

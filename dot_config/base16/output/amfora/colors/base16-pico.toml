@@ -1,0 +1,42 @@
+# Base16 Pico - amfora color config
+# PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+[theme]
+bg = "#000000"
+fg = "#5f574f"
+
+bottombar_label = "#ff77a8"
+bottombar_text = "#5f574f"
+bottombar_bg = "#1d2b53"
+
+tab_num = "#7e2553"
+tab_divider = "#ab5236"
+
+amfora_link = "#00e756"
+foreign_link = "#008751"
+link_number = "#008751"
+
+btn_bg = "#1d2b53"
+btn_text = "#5f574f"
+
+input_modal_bg = "#1d2b53"
+input_modal_text = "#5f574f"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#5f574f"
+info_modal_bg = "#1d2b53"
+info_modal_text = "#5f574f"
+error_modal_bg = "#1d2b53"
+error_modal_text = "#ffccaa"
+yesno_modal_bg = "#1d2b53"
+yesno_modal_text = "#5f574f"
+tofu_modal_bg = "#1d2b53"
+tofu_modal_text = "#5f574f"
+subscription_modal_bg = "#1d2b53"
+subscription_modal_text = "#5f574f"
+
+hdg_1 = "#ffa300"
+hdg_2 = "#fff024"
+hdg_3 = "#83769c"
+regular_text = "#5f574f"
+preformatted_text = "#29adff"
+list_text = "#5f574f"

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Synth Midnight Terminal Light by Michaël Ball (http://github.com/michael-ball/)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#dddfe0"
+idle_fg = "#28292a"
+info_bg = "#42fff9"
+info_fg = "#dddfe0"
+good_bg = "#06ea61"
+good_fg = "#dddfe0"
+warning_bg = "#c9d364"
+warning_fg = "#dddfe0"
+critical_bg = "#b53b50"
+critical_fg = "#dddfe0"
+# The rest of the theme settings are left at default.

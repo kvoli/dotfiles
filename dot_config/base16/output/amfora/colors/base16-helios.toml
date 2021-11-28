@@ -1,0 +1,42 @@
+# Base16 Helios - amfora color config
+# Alex Meyer (https://github.com/reyemxela)
+
+[theme]
+bg = "#1d2021"
+fg = "#d5d5d5"
+
+bottombar_label = "#be4264"
+bottombar_text = "#d5d5d5"
+bottombar_bg = "#383c3e"
+
+tab_num = "#53585b"
+tab_divider = "#cdcdcd"
+
+amfora_link = "#88b92d"
+foreign_link = "#6f7579"
+link_number = "#6f7579"
+
+btn_bg = "#383c3e"
+btn_text = "#d5d5d5"
+
+input_modal_bg = "#383c3e"
+input_modal_text = "#d5d5d5"
+input_modal_field_bg = "#1d2021"
+input_modal_field_text = "#d5d5d5"
+info_modal_bg = "#383c3e"
+info_modal_text = "#d5d5d5"
+error_modal_bg = "#383c3e"
+error_modal_text = "#c85e0d"
+yesno_modal_bg = "#383c3e"
+yesno_modal_text = "#d5d5d5"
+tofu_modal_bg = "#383c3e"
+tofu_modal_text = "#d5d5d5"
+subscription_modal_bg = "#383c3e"
+subscription_modal_text = "#d5d5d5"
+
+hdg_1 = "#eb8413"
+hdg_2 = "#f19d1a"
+hdg_3 = "#1e8bac"
+regular_text = "#d5d5d5"
+preformatted_text = "#1ba595"
+list_text = "#d5d5d5"

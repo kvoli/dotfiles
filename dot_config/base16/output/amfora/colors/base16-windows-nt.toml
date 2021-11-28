@@ -1,0 +1,42 @@
+# Base16 Windows NT - amfora color config
+# Fergus Collins (https://github.com/C-Fergus)
+
+[theme]
+bg = "#000000"
+fg = "#c0c0c0"
+
+bottombar_label = "#ff00ff"
+bottombar_text = "#c0c0c0"
+bottombar_bg = "#2a2a2a"
+
+tab_num = "#555555"
+tab_divider = "#a1a1a1"
+
+amfora_link = "#00ff00"
+foreign_link = "#808080"
+link_number = "#808080"
+
+btn_bg = "#2a2a2a"
+btn_text = "#c0c0c0"
+
+input_modal_bg = "#2a2a2a"
+input_modal_text = "#c0c0c0"
+input_modal_field_bg = "#000000"
+input_modal_field_text = "#c0c0c0"
+info_modal_bg = "#2a2a2a"
+info_modal_text = "#c0c0c0"
+error_modal_bg = "#2a2a2a"
+error_modal_text = "#008000"
+yesno_modal_bg = "#2a2a2a"
+yesno_modal_text = "#c0c0c0"
+tofu_modal_bg = "#2a2a2a"
+tofu_modal_text = "#c0c0c0"
+subscription_modal_bg = "#2a2a2a"
+subscription_modal_text = "#c0c0c0"
+
+hdg_1 = "#808000"
+hdg_2 = "#ffff00"
+hdg_3 = "#0000ff"
+regular_text = "#c0c0c0"
+preformatted_text = "#00ffff"
+list_text = "#c0c0c0"

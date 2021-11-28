@@ -1,0 +1,42 @@
+# Base16 DanQing - amfora color config
+# Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+
+[theme]
+bg = "#2d302f"
+fg = "#e0f0eF"
+
+bottombar_label = "#CCA4E3"
+bottombar_text = "#e0f0eF"
+bottombar_bg = "#434846"
+
+tab_num = "#5a605d"
+tab_divider = "#cad8d2"
+
+amfora_link = "#8AB361"
+foreign_link = "#9da8a3"
+link_number = "#9da8a3"
+
+btn_bg = "#434846"
+btn_text = "#e0f0eF"
+
+input_modal_bg = "#434846"
+input_modal_text = "#e0f0eF"
+input_modal_field_bg = "#2d302f"
+input_modal_field_text = "#e0f0eF"
+info_modal_bg = "#434846"
+info_modal_text = "#e0f0eF"
+error_modal_bg = "#434846"
+error_modal_text = "#CA6924"
+yesno_modal_bg = "#434846"
+yesno_modal_text = "#e0f0eF"
+tofu_modal_bg = "#434846"
+tofu_modal_text = "#e0f0eF"
+subscription_modal_bg = "#434846"
+subscription_modal_text = "#e0f0eF"
+
+hdg_1 = "#B38A61"
+hdg_2 = "#F0C239"
+hdg_3 = "#B0A4E3"
+regular_text = "#e0f0eF"
+preformatted_text = "#30DFF3"
+list_text = "#e0f0eF"

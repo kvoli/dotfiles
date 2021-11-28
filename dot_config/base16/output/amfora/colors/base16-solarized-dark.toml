@@ -1,0 +1,42 @@
+# Base16 Solarized Dark - amfora color config
+# Ethan Schoonover (modified by aramisgithub)
+
+[theme]
+bg = "#002b36"
+fg = "#93a1a1"
+
+bottombar_label = "#6c71c4"
+bottombar_text = "#93a1a1"
+bottombar_bg = "#073642"
+
+tab_num = "#586e75"
+tab_divider = "#839496"
+
+amfora_link = "#859900"
+foreign_link = "#657b83"
+link_number = "#657b83"
+
+btn_bg = "#073642"
+btn_text = "#93a1a1"
+
+input_modal_bg = "#073642"
+input_modal_text = "#93a1a1"
+input_modal_field_bg = "#002b36"
+input_modal_field_text = "#93a1a1"
+info_modal_bg = "#073642"
+info_modal_text = "#93a1a1"
+error_modal_bg = "#073642"
+error_modal_text = "#d33682"
+yesno_modal_bg = "#073642"
+yesno_modal_text = "#93a1a1"
+tofu_modal_bg = "#073642"
+tofu_modal_text = "#93a1a1"
+subscription_modal_bg = "#073642"
+subscription_modal_text = "#93a1a1"
+
+hdg_1 = "#cb4b16"
+hdg_2 = "#b58900"
+hdg_3 = "#268bd2"
+regular_text = "#93a1a1"
+preformatted_text = "#2aa198"
+list_text = "#93a1a1"

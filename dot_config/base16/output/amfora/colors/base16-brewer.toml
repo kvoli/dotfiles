@@ -1,0 +1,42 @@
+# Base16 Brewer - amfora color config
+# Timothée Poisot (http://github.com/tpoisot)
+
+[theme]
+bg = "#0c0d0e"
+fg = "#b7b8b9"
+
+bottombar_label = "#756bb1"
+bottombar_text = "#b7b8b9"
+bottombar_bg = "#2e2f30"
+
+tab_num = "#515253"
+tab_divider = "#959697"
+
+amfora_link = "#31a354"
+foreign_link = "#737475"
+link_number = "#737475"
+
+btn_bg = "#2e2f30"
+btn_text = "#b7b8b9"
+
+input_modal_bg = "#2e2f30"
+input_modal_text = "#b7b8b9"
+input_modal_field_bg = "#0c0d0e"
+input_modal_field_text = "#b7b8b9"
+info_modal_bg = "#2e2f30"
+info_modal_text = "#b7b8b9"
+error_modal_bg = "#2e2f30"
+error_modal_text = "#b15928"
+yesno_modal_bg = "#2e2f30"
+yesno_modal_text = "#b7b8b9"
+tofu_modal_bg = "#2e2f30"
+tofu_modal_text = "#b7b8b9"
+subscription_modal_bg = "#2e2f30"
+subscription_modal_text = "#b7b8b9"
+
+hdg_1 = "#e6550d"
+hdg_2 = "#dca060"
+hdg_3 = "#3182bd"
+regular_text = "#b7b8b9"
+preformatted_text = "#80b1d3"
+list_text = "#b7b8b9"

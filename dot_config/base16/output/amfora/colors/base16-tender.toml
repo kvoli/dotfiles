@@ -1,0 +1,42 @@
+# Base16 tender - amfora color config
+# Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+
+[theme]
+bg = "#282828"
+fg = "#eeeeee"
+
+bottombar_label = "#d3b987"
+bottombar_text = "#eeeeee"
+bottombar_bg = "#383838"
+
+tab_num = "#484848"
+tab_divider = "#b8b8b8"
+
+amfora_link = "#c9d05c"
+foreign_link = "#4c4c4c"
+link_number = "#4c4c4c"
+
+btn_bg = "#383838"
+btn_text = "#eeeeee"
+
+input_modal_bg = "#383838"
+input_modal_text = "#eeeeee"
+input_modal_field_bg = "#282828"
+input_modal_field_text = "#eeeeee"
+info_modal_bg = "#383838"
+info_modal_text = "#eeeeee"
+error_modal_bg = "#383838"
+error_modal_text = "#a16946"
+yesno_modal_bg = "#383838"
+yesno_modal_text = "#eeeeee"
+tofu_modal_bg = "#383838"
+tofu_modal_text = "#eeeeee"
+subscription_modal_bg = "#383838"
+subscription_modal_text = "#eeeeee"
+
+hdg_1 = "#dc9656"
+hdg_2 = "#ffc24b"
+hdg_3 = "#b3deef"
+regular_text = "#eeeeee"
+preformatted_text = "#73cef4"
+list_text = "#eeeeee"

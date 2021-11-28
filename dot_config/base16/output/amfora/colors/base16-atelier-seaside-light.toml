@@ -1,0 +1,42 @@
+# Base16 Atelier Seaside Light - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#f4fbf4"
+fg = "#5e6e5e"
+
+bottombar_label = "#ad2bee"
+bottombar_text = "#5e6e5e"
+bottombar_bg = "#cfe8cf"
+
+tab_num = "#8ca68c"
+tab_divider = "#687d68"
+
+amfora_link = "#29a329"
+foreign_link = "#809980"
+link_number = "#809980"
+
+btn_bg = "#cfe8cf"
+btn_text = "#5e6e5e"
+
+input_modal_bg = "#cfe8cf"
+input_modal_text = "#5e6e5e"
+input_modal_field_bg = "#f4fbf4"
+input_modal_field_text = "#5e6e5e"
+info_modal_bg = "#cfe8cf"
+info_modal_text = "#5e6e5e"
+error_modal_bg = "#cfe8cf"
+error_modal_text = "#e619c3"
+yesno_modal_bg = "#cfe8cf"
+yesno_modal_text = "#5e6e5e"
+tofu_modal_bg = "#cfe8cf"
+tofu_modal_text = "#5e6e5e"
+subscription_modal_bg = "#cfe8cf"
+subscription_modal_text = "#5e6e5e"
+
+hdg_1 = "#87711d"
+hdg_2 = "#98981b"
+hdg_3 = "#3d62f5"
+regular_text = "#5e6e5e"
+preformatted_text = "#1999b3"
+list_text = "#5e6e5e"

@@ -1,0 +1,42 @@
+# Base16 OneDark - amfora color config
+# Lalit Magant (http://github.com/tilal6991)
+
+[theme]
+bg = "#282c34"
+fg = "#abb2bf"
+
+bottombar_label = "#c678dd"
+bottombar_text = "#abb2bf"
+bottombar_bg = "#353b45"
+
+tab_num = "#3e4451"
+tab_divider = "#565c64"
+
+amfora_link = "#98c379"
+foreign_link = "#545862"
+link_number = "#545862"
+
+btn_bg = "#353b45"
+btn_text = "#abb2bf"
+
+input_modal_bg = "#353b45"
+input_modal_text = "#abb2bf"
+input_modal_field_bg = "#282c34"
+input_modal_field_text = "#abb2bf"
+info_modal_bg = "#353b45"
+info_modal_text = "#abb2bf"
+error_modal_bg = "#353b45"
+error_modal_text = "#be5046"
+yesno_modal_bg = "#353b45"
+yesno_modal_text = "#abb2bf"
+tofu_modal_bg = "#353b45"
+tofu_modal_text = "#abb2bf"
+subscription_modal_bg = "#353b45"
+subscription_modal_text = "#abb2bf"
+
+hdg_1 = "#d19a66"
+hdg_2 = "#e5c07b"
+hdg_3 = "#61afef"
+regular_text = "#abb2bf"
+preformatted_text = "#56b6c2"
+list_text = "#abb2bf"

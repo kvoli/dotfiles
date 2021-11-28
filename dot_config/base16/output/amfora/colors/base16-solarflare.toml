@@ -1,0 +1,42 @@
+# Base16 Solar Flare - amfora color config
+# Chuck Harmston (https://chuck.harmston.ch)
+
+[theme]
+bg = "#18262F"
+fg = "#A6AFB8"
+
+bottombar_label = "#A363D5"
+bottombar_text = "#A6AFB8"
+bottombar_bg = "#222E38"
+
+tab_num = "#586875"
+tab_divider = "#85939E"
+
+amfora_link = "#7CC844"
+foreign_link = "#667581"
+link_number = "#667581"
+
+btn_bg = "#222E38"
+btn_text = "#A6AFB8"
+
+input_modal_bg = "#222E38"
+input_modal_text = "#A6AFB8"
+input_modal_field_bg = "#18262F"
+input_modal_field_text = "#A6AFB8"
+info_modal_bg = "#222E38"
+info_modal_text = "#A6AFB8"
+error_modal_bg = "#222E38"
+error_modal_text = "#D73C9A"
+yesno_modal_bg = "#222E38"
+yesno_modal_text = "#A6AFB8"
+tofu_modal_bg = "#222E38"
+tofu_modal_text = "#A6AFB8"
+subscription_modal_bg = "#222E38"
+subscription_modal_text = "#A6AFB8"
+
+hdg_1 = "#E66B2B"
+hdg_2 = "#E4B51C"
+hdg_3 = "#33B5E1"
+regular_text = "#A6AFB8"
+preformatted_text = "#52CBB0"
+list_text = "#A6AFB8"

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# summercamp by zoe firi (zoefiri.github.io)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1c1810"
+idle_fg = "#736e55"
+info_bg = "#5aebbc"
+info_fg = "#1c1810"
+good_bg = "#5ceb5a"
+good_fg = "#1c1810"
+warning_bg = "#f2ff27"
+warning_fg = "#1c1810"
+critical_bg = "#e35142"
+critical_fg = "#1c1810"
+# The rest of the theme settings are left at default.

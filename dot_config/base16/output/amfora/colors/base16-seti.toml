@@ -1,0 +1,42 @@
+# Base16 Seti UI - amfora color config
+# 
+
+[theme]
+bg = "#151718"
+fg = "#d6d6d6"
+
+bottombar_label = "#a074c4"
+bottombar_text = "#d6d6d6"
+bottombar_bg = "#282a2b"
+
+tab_num = "#3B758C"
+tab_divider = "#43a5d5"
+
+amfora_link = "#9fca56"
+foreign_link = "#41535B"
+link_number = "#41535B"
+
+btn_bg = "#282a2b"
+btn_text = "#d6d6d6"
+
+input_modal_bg = "#282a2b"
+input_modal_text = "#d6d6d6"
+input_modal_field_bg = "#151718"
+input_modal_field_text = "#d6d6d6"
+info_modal_bg = "#282a2b"
+info_modal_text = "#d6d6d6"
+error_modal_bg = "#282a2b"
+error_modal_text = "#8a553f"
+yesno_modal_bg = "#282a2b"
+yesno_modal_text = "#d6d6d6"
+tofu_modal_bg = "#282a2b"
+tofu_modal_text = "#d6d6d6"
+subscription_modal_bg = "#282a2b"
+subscription_modal_text = "#d6d6d6"
+
+hdg_1 = "#db7b55"
+hdg_2 = "#e6cd69"
+hdg_3 = "#55b5db"
+regular_text = "#d6d6d6"
+preformatted_text = "#55dbbe"
+list_text = "#d6d6d6"

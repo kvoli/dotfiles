@@ -1,0 +1,15 @@
+## Base16 Ashes
+# Author: Jannik Siebert (https://github.com/janniks)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#1C2023
+color0:#1C2023
+text_color:#C7CCD1
+selected_bg_color:#565E65
+selected_fg_color:#C7CCD1
+tooltip_bg_color:#1C2023
+tooltip_fg_color:#C7CCD1
+titlebar_bg_color:#1C2023
+titlebar_fg_color:#C7CCD1
+menu_bg_color:#1C2023
+menu_fg_color:#C7CCD1
+link_color:#565E65"

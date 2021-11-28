@@ -1,0 +1,42 @@
+# Base16 darkmoss - amfora color config
+# Gabriel Avanzi (https://github.com/avanzzzi)
+
+[theme]
+bg = "#171e1f"
+fg = "#c7c7a5"
+
+bottombar_label = "#9bc0c8"
+bottombar_text = "#c7c7a5"
+bottombar_bg = "#252c2d"
+
+tab_num = "#373c3d"
+tab_divider = "#818f80"
+
+amfora_link = "#499180"
+foreign_link = "#555e5f"
+link_number = "#555e5f"
+
+btn_bg = "#252c2d"
+btn_text = "#c7c7a5"
+
+input_modal_bg = "#252c2d"
+input_modal_text = "#c7c7a5"
+input_modal_field_bg = "#171e1f"
+input_modal_field_text = "#c7c7a5"
+info_modal_bg = "#252c2d"
+info_modal_text = "#c7c7a5"
+error_modal_bg = "#252c2d"
+error_modal_text = "#d27b53"
+yesno_modal_bg = "#252c2d"
+yesno_modal_text = "#c7c7a5"
+tofu_modal_bg = "#252c2d"
+tofu_modal_text = "#c7c7a5"
+subscription_modal_bg = "#252c2d"
+subscription_modal_text = "#c7c7a5"
+
+hdg_1 = "#e6db74"
+hdg_2 = "#fdb11f"
+hdg_3 = "#498091"
+regular_text = "#c7c7a5"
+preformatted_text = "#66d9ef"
+list_text = "#c7c7a5"

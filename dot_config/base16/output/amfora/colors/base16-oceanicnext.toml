@@ -1,0 +1,42 @@
+# Base16 OceanicNext - amfora color config
+# https://github.com/voronianski/oceanic-next-color-scheme
+
+[theme]
+bg = "#1B2B34"
+fg = "#C0C5CE"
+
+bottombar_label = "#C594C5"
+bottombar_text = "#C0C5CE"
+bottombar_bg = "#343D46"
+
+tab_num = "#4F5B66"
+tab_divider = "#A7ADBA"
+
+amfora_link = "#99C794"
+foreign_link = "#65737E"
+link_number = "#65737E"
+
+btn_bg = "#343D46"
+btn_text = "#C0C5CE"
+
+input_modal_bg = "#343D46"
+input_modal_text = "#C0C5CE"
+input_modal_field_bg = "#1B2B34"
+input_modal_field_text = "#C0C5CE"
+info_modal_bg = "#343D46"
+info_modal_text = "#C0C5CE"
+error_modal_bg = "#343D46"
+error_modal_text = "#AB7967"
+yesno_modal_bg = "#343D46"
+yesno_modal_text = "#C0C5CE"
+tofu_modal_bg = "#343D46"
+tofu_modal_text = "#C0C5CE"
+subscription_modal_bg = "#343D46"
+subscription_modal_text = "#C0C5CE"
+
+hdg_1 = "#F99157"
+hdg_2 = "#FAC863"
+hdg_3 = "#6699CC"
+regular_text = "#C0C5CE"
+preformatted_text = "#5FB3B3"
+list_text = "#C0C5CE"

@@ -1,0 +1,42 @@
+# Base16 London Tube - amfora color config
+# Jan T. Sott
+
+[theme]
+bg = "#231f20"
+fg = "#d9d8d8"
+
+bottombar_label = "#98005d"
+bottombar_text = "#d9d8d8"
+bottombar_bg = "#1c3f95"
+
+tab_num = "#5a5758"
+tab_divider = "#959ca1"
+
+amfora_link = "#00853e"
+foreign_link = "#737171"
+link_number = "#737171"
+
+btn_bg = "#1c3f95"
+btn_text = "#d9d8d8"
+
+input_modal_bg = "#1c3f95"
+input_modal_text = "#d9d8d8"
+input_modal_field_bg = "#231f20"
+input_modal_field_text = "#d9d8d8"
+info_modal_bg = "#1c3f95"
+info_modal_text = "#d9d8d8"
+error_modal_bg = "#1c3f95"
+error_modal_text = "#b06110"
+yesno_modal_bg = "#1c3f95"
+yesno_modal_text = "#d9d8d8"
+tofu_modal_bg = "#1c3f95"
+tofu_modal_text = "#d9d8d8"
+subscription_modal_bg = "#1c3f95"
+subscription_modal_text = "#d9d8d8"
+
+hdg_1 = "#f386a1"
+hdg_2 = "#ffd204"
+hdg_3 = "#009ddc"
+regular_text = "#d9d8d8"
+preformatted_text = "#85cebc"
+list_text = "#d9d8d8"

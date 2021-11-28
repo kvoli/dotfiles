@@ -1,0 +1,42 @@
+# Base16 One Light - amfora color config
+# Daniel Pfeifer (http://github.com/purpleKarrot)
+
+[theme]
+bg = "#fafafa"
+fg = "#383a42"
+
+bottombar_label = "#a626a4"
+bottombar_text = "#383a42"
+bottombar_bg = "#f0f0f1"
+
+tab_num = "#e5e5e6"
+tab_divider = "#696c77"
+
+amfora_link = "#50a14f"
+foreign_link = "#a0a1a7"
+link_number = "#a0a1a7"
+
+btn_bg = "#f0f0f1"
+btn_text = "#383a42"
+
+input_modal_bg = "#f0f0f1"
+input_modal_text = "#383a42"
+input_modal_field_bg = "#fafafa"
+input_modal_field_text = "#383a42"
+info_modal_bg = "#f0f0f1"
+info_modal_text = "#383a42"
+error_modal_bg = "#f0f0f1"
+error_modal_text = "#986801"
+yesno_modal_bg = "#f0f0f1"
+yesno_modal_text = "#383a42"
+tofu_modal_bg = "#f0f0f1"
+tofu_modal_text = "#383a42"
+subscription_modal_bg = "#f0f0f1"
+subscription_modal_text = "#383a42"
+
+hdg_1 = "#d75f00"
+hdg_2 = "#c18401"
+hdg_3 = "#4078f2"
+regular_text = "#383a42"
+preformatted_text = "#0184bc"
+list_text = "#383a42"

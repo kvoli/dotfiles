@@ -1,0 +1,42 @@
+# Base16 dirtysea - amfora color config
+# Kahlil (Kal) Hodgson
+
+[theme]
+bg = "#e0e0e0"
+fg = "#000000"
+
+bottombar_label = "#000090"
+bottombar_text = "#000000"
+bottombar_bg = "#d0dad0"
+
+tab_num = "#d0d0d0"
+tab_divider = "#202020"
+
+amfora_link = "#730073"
+foreign_link = "#707070"
+link_number = "#707070"
+
+btn_bg = "#d0dad0"
+btn_text = "#000000"
+
+input_modal_bg = "#d0dad0"
+input_modal_text = "#000000"
+input_modal_field_bg = "#e0e0e0"
+input_modal_field_text = "#000000"
+info_modal_bg = "#d0dad0"
+info_modal_text = "#000000"
+error_modal_bg = "#d0dad0"
+error_modal_text = "#755B00"
+yesno_modal_bg = "#d0dad0"
+yesno_modal_text = "#000000"
+tofu_modal_bg = "#d0dad0"
+tofu_modal_text = "#000000"
+subscription_modal_bg = "#d0dad0"
+subscription_modal_text = "#000000"
+
+hdg_1 = "#006565"
+hdg_2 = "#755B00"
+hdg_3 = "#007300"
+regular_text = "#000000"
+preformatted_text = "#755B00"
+list_text = "#000000"

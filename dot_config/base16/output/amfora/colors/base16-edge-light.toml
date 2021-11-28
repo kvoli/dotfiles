@@ -1,0 +1,42 @@
+# Base16 Edge Light - amfora color config
+# cjayross (https://github.com/cjayross)
+
+[theme]
+bg = "#fafafa"
+fg = "#5e646f"
+
+bottombar_label = "#b870ce"
+bottombar_text = "#5e646f"
+bottombar_bg = "#7c9f4b"
+
+tab_num = "#d69822"
+tab_divider = "#6587bf"
+
+amfora_link = "#7c9f4b"
+foreign_link = "#5e646f"
+link_number = "#5e646f"
+
+btn_bg = "#7c9f4b"
+btn_text = "#5e646f"
+
+input_modal_bg = "#7c9f4b"
+input_modal_text = "#5e646f"
+input_modal_field_bg = "#fafafa"
+input_modal_field_text = "#5e646f"
+info_modal_bg = "#7c9f4b"
+info_modal_text = "#5e646f"
+error_modal_bg = "#7c9f4b"
+error_modal_text = "#509c93"
+yesno_modal_bg = "#7c9f4b"
+yesno_modal_text = "#5e646f"
+tofu_modal_bg = "#7c9f4b"
+tofu_modal_text = "#5e646f"
+subscription_modal_bg = "#7c9f4b"
+subscription_modal_text = "#5e646f"
+
+hdg_1 = "#db7070"
+hdg_2 = "#d69822"
+hdg_3 = "#6587bf"
+regular_text = "#5e646f"
+preformatted_text = "#509c93"
+list_text = "#5e646f"

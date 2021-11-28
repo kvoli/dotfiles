@@ -1,0 +1,42 @@
+# Base16 Atelier Plateau Light - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#f4ecec"
+fg = "#585050"
+
+bottombar_label = "#8464c4"
+bottombar_text = "#585050"
+bottombar_bg = "#e7dfdf"
+
+tab_num = "#8a8585"
+tab_divider = "#655d5d"
+
+amfora_link = "#4b8b8b"
+foreign_link = "#7e7777"
+link_number = "#7e7777"
+
+btn_bg = "#e7dfdf"
+btn_text = "#585050"
+
+input_modal_bg = "#e7dfdf"
+input_modal_text = "#585050"
+input_modal_field_bg = "#f4ecec"
+input_modal_field_text = "#585050"
+info_modal_bg = "#e7dfdf"
+info_modal_text = "#585050"
+error_modal_bg = "#e7dfdf"
+error_modal_text = "#bd5187"
+yesno_modal_bg = "#e7dfdf"
+yesno_modal_text = "#585050"
+tofu_modal_bg = "#e7dfdf"
+tofu_modal_text = "#585050"
+subscription_modal_bg = "#e7dfdf"
+subscription_modal_text = "#585050"
+
+hdg_1 = "#b45a3c"
+hdg_2 = "#a06e3b"
+hdg_3 = "#7272ca"
+regular_text = "#585050"
+preformatted_text = "#5485b6"
+list_text = "#585050"

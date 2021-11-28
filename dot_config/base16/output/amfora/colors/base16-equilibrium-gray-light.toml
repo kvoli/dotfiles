@@ -1,0 +1,42 @@
+# Base16 Equilibrium Gray Light - amfora color config
+# Carlo Abelli
+
+[theme]
+bg = "#f1f1f1"
+fg = "#474747"
+
+bottombar_label = "#4e66b6"
+bottombar_text = "#474747"
+bottombar_bg = "#e2e2e2"
+
+tab_num = "#d4d4d4"
+tab_divider = "#5e5e5e"
+
+amfora_link = "#637200"
+foreign_link = "#777777"
+link_number = "#777777"
+
+btn_bg = "#e2e2e2"
+btn_text = "#474747"
+
+input_modal_bg = "#e2e2e2"
+input_modal_text = "#474747"
+input_modal_field_bg = "#f1f1f1"
+input_modal_field_text = "#474747"
+info_modal_bg = "#e2e2e2"
+info_modal_text = "#474747"
+error_modal_bg = "#e2e2e2"
+error_modal_text = "#c42775"
+yesno_modal_bg = "#e2e2e2"
+yesno_modal_text = "#474747"
+tofu_modal_bg = "#e2e2e2"
+tofu_modal_text = "#474747"
+subscription_modal_bg = "#e2e2e2"
+subscription_modal_text = "#474747"
+
+hdg_1 = "#bf3e05"
+hdg_2 = "#9d6f00"
+hdg_3 = "#0073b5"
+regular_text = "#474747"
+preformatted_text = "#007a72"
+list_text = "#474747"

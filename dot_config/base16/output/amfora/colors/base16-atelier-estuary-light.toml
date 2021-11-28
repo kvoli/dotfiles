@@ -1,0 +1,42 @@
+# Base16 Atelier Estuary Light - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#f4f3ec"
+fg = "#5f5e4e"
+
+bottombar_label = "#5f9182"
+bottombar_text = "#5f5e4e"
+bottombar_bg = "#e7e6df"
+
+tab_num = "#929181"
+tab_divider = "#6c6b5a"
+
+amfora_link = "#7d9726"
+foreign_link = "#878573"
+link_number = "#878573"
+
+btn_bg = "#e7e6df"
+btn_text = "#5f5e4e"
+
+input_modal_bg = "#e7e6df"
+input_modal_text = "#5f5e4e"
+input_modal_field_bg = "#f4f3ec"
+input_modal_field_text = "#5f5e4e"
+info_modal_bg = "#e7e6df"
+info_modal_text = "#5f5e4e"
+error_modal_bg = "#e7e6df"
+error_modal_text = "#9d6c7c"
+yesno_modal_bg = "#e7e6df"
+yesno_modal_text = "#5f5e4e"
+tofu_modal_bg = "#e7e6df"
+tofu_modal_text = "#5f5e4e"
+subscription_modal_bg = "#e7e6df"
+subscription_modal_text = "#5f5e4e"
+
+hdg_1 = "#ae7313"
+hdg_2 = "#a5980d"
+hdg_3 = "#36a166"
+regular_text = "#5f5e4e"
+preformatted_text = "#5b9d48"
+list_text = "#5f5e4e"

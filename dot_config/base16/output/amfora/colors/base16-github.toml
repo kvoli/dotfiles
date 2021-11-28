@@ -1,0 +1,42 @@
+# Base16 Github - amfora color config
+# Defman21
+
+[theme]
+bg = "#ffffff"
+fg = "#333333"
+
+bottombar_label = "#a71d5d"
+bottombar_text = "#333333"
+bottombar_bg = "#f5f5f5"
+
+tab_num = "#c8c8fa"
+tab_divider = "#e8e8e8"
+
+amfora_link = "#183691"
+foreign_link = "#969896"
+link_number = "#969896"
+
+btn_bg = "#f5f5f5"
+btn_text = "#333333"
+
+input_modal_bg = "#f5f5f5"
+input_modal_text = "#333333"
+input_modal_field_bg = "#ffffff"
+input_modal_field_text = "#333333"
+info_modal_bg = "#f5f5f5"
+info_modal_text = "#333333"
+error_modal_bg = "#f5f5f5"
+error_modal_text = "#333333"
+yesno_modal_bg = "#f5f5f5"
+yesno_modal_text = "#333333"
+tofu_modal_bg = "#f5f5f5"
+tofu_modal_text = "#333333"
+subscription_modal_bg = "#f5f5f5"
+subscription_modal_text = "#333333"
+
+hdg_1 = "#0086b3"
+hdg_2 = "#795da3"
+hdg_3 = "#795da3"
+regular_text = "#333333"
+preformatted_text = "#183691"
+list_text = "#333333"

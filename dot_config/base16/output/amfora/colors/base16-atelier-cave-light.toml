@@ -1,0 +1,42 @@
+# Base16 Atelier Cave Light - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#efecf4"
+fg = "#585260"
+
+bottombar_label = "#955ae7"
+bottombar_text = "#585260"
+bottombar_bg = "#e2dfe7"
+
+tab_num = "#8b8792"
+tab_divider = "#655f6d"
+
+amfora_link = "#2a9292"
+foreign_link = "#7e7887"
+link_number = "#7e7887"
+
+btn_bg = "#e2dfe7"
+btn_text = "#585260"
+
+input_modal_bg = "#e2dfe7"
+input_modal_text = "#585260"
+input_modal_field_bg = "#efecf4"
+input_modal_field_text = "#585260"
+info_modal_bg = "#e2dfe7"
+info_modal_text = "#585260"
+error_modal_bg = "#e2dfe7"
+error_modal_text = "#bf40bf"
+yesno_modal_bg = "#e2dfe7"
+yesno_modal_text = "#585260"
+tofu_modal_bg = "#e2dfe7"
+tofu_modal_text = "#585260"
+subscription_modal_bg = "#e2dfe7"
+subscription_modal_text = "#585260"
+
+hdg_1 = "#aa573c"
+hdg_2 = "#a06e3b"
+hdg_3 = "#576ddb"
+regular_text = "#585260"
+preformatted_text = "#398bc6"
+list_text = "#585260"

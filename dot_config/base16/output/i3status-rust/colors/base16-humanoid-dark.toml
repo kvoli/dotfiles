@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Humanoid dark by Thomas (tasmo) Friese
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#232629"
+idle_fg = "#f8f8f2"
+info_bg = "#0dd9d6"
+info_fg = "#232629"
+good_bg = "#02d849"
+good_fg = "#232629"
+warning_bg = "#ffb627"
+warning_fg = "#232629"
+critical_bg = "#f11235"
+critical_fg = "#232629"
+# The rest of the theme settings are left at default.

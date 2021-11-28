@@ -1,0 +1,42 @@
+# Base16 Synth Midnight Terminal Dark - amfora color config
+# Michaël Ball (http://github.com/michael-ball/)
+
+[theme]
+bg = "#050608"
+fg = "#c1c3c4"
+
+bottombar_label = "#ea5ce2"
+bottombar_text = "#c1c3c4"
+bottombar_bg = "#1a1b1c"
+
+tab_num = "#28292a"
+tab_divider = "#a3a5a6"
+
+amfora_link = "#06ea61"
+foreign_link = "#474849"
+link_number = "#474849"
+
+btn_bg = "#1a1b1c"
+btn_text = "#c1c3c4"
+
+input_modal_bg = "#1a1b1c"
+input_modal_text = "#c1c3c4"
+input_modal_field_bg = "#050608"
+input_modal_field_text = "#c1c3c4"
+info_modal_bg = "#1a1b1c"
+info_modal_text = "#c1c3c4"
+error_modal_bg = "#1a1b1c"
+error_modal_text = "#cd6320"
+yesno_modal_bg = "#1a1b1c"
+yesno_modal_text = "#c1c3c4"
+tofu_modal_bg = "#1a1b1c"
+tofu_modal_text = "#c1c3c4"
+subscription_modal_bg = "#1a1b1c"
+subscription_modal_text = "#c1c3c4"
+
+hdg_1 = "#ea770d"
+hdg_2 = "#c9d364"
+hdg_3 = "#03aeff"
+regular_text = "#c1c3c4"
+preformatted_text = "#42fff9"
+list_text = "#c1c3c4"

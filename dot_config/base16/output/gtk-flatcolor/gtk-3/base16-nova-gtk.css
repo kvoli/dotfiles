@@ -1,0 +1,15 @@
+/*
+Base16 Nova
+Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+In files gtk-3.0/gtk.css and gtk-3.20/gtk.css, delete section "Default color scheme" and inject this
+*/
+
+@define-color bg_color #3C4C55;
+@define-color fg_color #C5D4DD;
+@define-color base_color #556873;
+@define-color text_color #C5D4DD;
+@define-color text_color_disabled #899BA6;
+@define-color selected_bg_color #6A7D89;
+@define-color selected_fg_color #C5D4DD;
+@define-color tooltip_bg_color #3C4C55;
+@define-color tooltip_fg_color #C5D4DD;

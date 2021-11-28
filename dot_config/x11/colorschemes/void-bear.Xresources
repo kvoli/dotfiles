@@ -1,0 +1,54 @@
+! Base16 Void Bear
+! Scheme: kvoli (https://github.com/kvoli)
+
+#define base00 #000000
+#define base01 #655B53
+#define base02 #6F665B
+#define base03 #7c8776
+#define base04 #776E61
+#define base05 #b2c1aa
+#define base06 #AA5B2B
+#define base07 #b2c1aa
+#define base08 #524B46
+#define base09 #524B46
+#define base0A #6F665B
+#define base0B #655B53
+#define base0C #887768
+#define base0D #776E61
+#define base0E #AA5B2B
+#define base0F #887768
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base08
+*color10:      base0B
+*color11:      base0A
+*color12:      base0D
+*color13:      base0E
+*color14:      base0C
+*color15:      base07
+
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+*color16:      base09
+*color17:      base0F
+*color18:      base01
+*color19:      base02
+*color20:      base04
+*color21:      base06

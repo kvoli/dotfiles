@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Pasque by Gabriel Fontes (https://github.com/Misterio77)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#271C3A"
+idle_fg = "#DEDCDF"
+info_bg = "#7263AA"
+info_fg = "#271C3A"
+good_bg = "#C6914B"
+good_fg = "#271C3A"
+warning_bg = "#804ead"
+warning_fg = "#271C3A"
+critical_bg = "#A92258"
+critical_fg = "#271C3A"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,42 @@
+# Base16 Materia - amfora color config
+# Defman21
+
+[theme]
+bg = "#263238"
+fg = "#CDD3DE"
+
+bottombar_label = "#82AAFF"
+bottombar_text = "#CDD3DE"
+bottombar_bg = "#2C393F"
+
+tab_num = "#37474F"
+tab_divider = "#C9CCD3"
+
+amfora_link = "#8BD649"
+foreign_link = "#707880"
+link_number = "#707880"
+
+btn_bg = "#2C393F"
+btn_text = "#CDD3DE"
+
+input_modal_bg = "#2C393F"
+input_modal_text = "#CDD3DE"
+input_modal_field_bg = "#263238"
+input_modal_field_text = "#CDD3DE"
+info_modal_bg = "#2C393F"
+info_modal_text = "#CDD3DE"
+error_modal_bg = "#2C393F"
+error_modal_text = "#EC5F67"
+yesno_modal_bg = "#2C393F"
+yesno_modal_text = "#CDD3DE"
+tofu_modal_bg = "#2C393F"
+tofu_modal_text = "#CDD3DE"
+subscription_modal_bg = "#2C393F"
+subscription_modal_text = "#CDD3DE"
+
+hdg_1 = "#EA9560"
+hdg_2 = "#FFCC00"
+hdg_3 = "#89DDFF"
+regular_text = "#CDD3DE"
+preformatted_text = "#80CBC4"
+list_text = "#CDD3DE"

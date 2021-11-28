@@ -1,0 +1,42 @@
+# Base16 Shades of Purple - amfora color config
+# Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+
+[theme]
+bg = "#1e1e3f"
+fg = "#c7c7c7"
+
+bottombar_label = "#ff2c70"
+bottombar_text = "#c7c7c7"
+bottombar_bg = "#43d426"
+
+tab_num = "#f1d000"
+tab_divider = "#6871ff"
+
+amfora_link = "#3ad900"
+foreign_link = "#808080"
+link_number = "#808080"
+
+btn_bg = "#43d426"
+btn_text = "#c7c7c7"
+
+input_modal_bg = "#43d426"
+input_modal_text = "#c7c7c7"
+input_modal_field_bg = "#1e1e3f"
+input_modal_field_text = "#c7c7c7"
+info_modal_bg = "#43d426"
+info_modal_text = "#c7c7c7"
+error_modal_bg = "#43d426"
+error_modal_text = "#79e8fb"
+yesno_modal_bg = "#43d426"
+yesno_modal_text = "#c7c7c7"
+tofu_modal_bg = "#43d426"
+tofu_modal_text = "#c7c7c7"
+subscription_modal_bg = "#43d426"
+subscription_modal_text = "#c7c7c7"
+
+hdg_1 = "#f92a1c"
+hdg_2 = "#ffe700"
+hdg_3 = "#6943ff"
+regular_text = "#c7c7c7"
+preformatted_text = "#00c5c7"
+list_text = "#c7c7c7"

@@ -1,0 +1,42 @@
+# Base16 Atelier Estuary - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#22221b"
+fg = "#929181"
+
+bottombar_label = "#5f9182"
+bottombar_text = "#929181"
+bottombar_bg = "#302f27"
+
+tab_num = "#5f5e4e"
+tab_divider = "#878573"
+
+amfora_link = "#7d9726"
+foreign_link = "#6c6b5a"
+link_number = "#6c6b5a"
+
+btn_bg = "#302f27"
+btn_text = "#929181"
+
+input_modal_bg = "#302f27"
+input_modal_text = "#929181"
+input_modal_field_bg = "#22221b"
+input_modal_field_text = "#929181"
+info_modal_bg = "#302f27"
+info_modal_text = "#929181"
+error_modal_bg = "#302f27"
+error_modal_text = "#9d6c7c"
+yesno_modal_bg = "#302f27"
+yesno_modal_text = "#929181"
+tofu_modal_bg = "#302f27"
+tofu_modal_text = "#929181"
+subscription_modal_bg = "#302f27"
+subscription_modal_text = "#929181"
+
+hdg_1 = "#ae7313"
+hdg_2 = "#a5980d"
+hdg_3 = "#36a166"
+regular_text = "#929181"
+preformatted_text = "#5b9d48"
+list_text = "#929181"

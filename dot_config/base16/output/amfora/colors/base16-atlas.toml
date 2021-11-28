@@ -1,0 +1,42 @@
+# Base16 Atlas - amfora color config
+# Alex Lende (https://ajlende.com)
+
+[theme]
+bg = "#002635"
+fg = "#a1a19a"
+
+bottombar_label = "#9a70a4"
+bottombar_text = "#a1a19a"
+bottombar_bg = "#00384d"
+
+tab_num = "#517F8D"
+tab_divider = "#869696"
+
+amfora_link = "#7fc06e"
+foreign_link = "#6C8B91"
+link_number = "#6C8B91"
+
+btn_bg = "#00384d"
+btn_text = "#a1a19a"
+
+input_modal_bg = "#00384d"
+input_modal_text = "#a1a19a"
+input_modal_field_bg = "#002635"
+input_modal_field_text = "#a1a19a"
+info_modal_bg = "#00384d"
+info_modal_text = "#a1a19a"
+error_modal_bg = "#00384d"
+error_modal_text = "#c43060"
+yesno_modal_bg = "#00384d"
+yesno_modal_text = "#a1a19a"
+tofu_modal_bg = "#00384d"
+tofu_modal_text = "#a1a19a"
+subscription_modal_bg = "#00384d"
+subscription_modal_text = "#a1a19a"
+
+hdg_1 = "#f08e48"
+hdg_2 = "#ffcc1b"
+hdg_3 = "#5dd7b9"
+regular_text = "#a1a19a"
+preformatted_text = "#14747e"
+list_text = "#a1a19a"

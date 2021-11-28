@@ -1,0 +1,15 @@
+## Base16 Outrun Dark
+# Author: Hugo Delahousse (http://github.com/hugodelahousse/)
+# In file gtk-2.0/gtkrc, delete "gtk-color-scheme" including everything between quotes (don't delete gtk-auto-mnemonics) and inject this.
+gtk-color-scheme = "bg_color:#00002A
+color0:#00002A
+text_color:#D0D0FA
+selected_bg_color:#30305A
+selected_fg_color:#D0D0FA
+tooltip_bg_color:#00002A
+tooltip_fg_color:#D0D0FA
+titlebar_bg_color:#00002A
+titlebar_fg_color:#D0D0FA
+menu_bg_color:#00002A
+menu_fg_color:#D0D0FA
+link_color:#30305A"

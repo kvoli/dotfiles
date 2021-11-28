@@ -1,0 +1,42 @@
+# Base16 Framer - amfora color config
+# Framer (Maintained by Jesse Hoyos)
+
+[theme]
+bg = "#181818"
+fg = "#D0D0D0"
+
+bottombar_label = "#BA8CFC"
+bottombar_text = "#D0D0D0"
+bottombar_bg = "#151515"
+
+tab_num = "#464646"
+tab_divider = "#B9B9B9"
+
+amfora_link = "#32CCDC"
+foreign_link = "#747474"
+link_number = "#747474"
+
+btn_bg = "#151515"
+btn_text = "#D0D0D0"
+
+input_modal_bg = "#151515"
+input_modal_text = "#D0D0D0"
+input_modal_field_bg = "#181818"
+input_modal_field_text = "#D0D0D0"
+info_modal_bg = "#151515"
+info_modal_text = "#D0D0D0"
+error_modal_bg = "#151515"
+error_modal_text = "#B15F4A"
+yesno_modal_bg = "#151515"
+yesno_modal_text = "#D0D0D0"
+tofu_modal_bg = "#151515"
+tofu_modal_text = "#D0D0D0"
+subscription_modal_bg = "#151515"
+subscription_modal_text = "#D0D0D0"
+
+hdg_1 = "#FC4769"
+hdg_2 = "#FECB6E"
+hdg_3 = "#20BCFC"
+regular_text = "#D0D0D0"
+preformatted_text = "#ACDDFD"
+list_text = "#D0D0D0"

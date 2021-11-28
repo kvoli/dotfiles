@@ -1,0 +1,42 @@
+# Base16 Atelier Seaside - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#131513"
+fg = "#8ca68c"
+
+bottombar_label = "#ad2bee"
+bottombar_text = "#8ca68c"
+bottombar_bg = "#242924"
+
+tab_num = "#5e6e5e"
+tab_divider = "#809980"
+
+amfora_link = "#29a329"
+foreign_link = "#687d68"
+link_number = "#687d68"
+
+btn_bg = "#242924"
+btn_text = "#8ca68c"
+
+input_modal_bg = "#242924"
+input_modal_text = "#8ca68c"
+input_modal_field_bg = "#131513"
+input_modal_field_text = "#8ca68c"
+info_modal_bg = "#242924"
+info_modal_text = "#8ca68c"
+error_modal_bg = "#242924"
+error_modal_text = "#e619c3"
+yesno_modal_bg = "#242924"
+yesno_modal_text = "#8ca68c"
+tofu_modal_bg = "#242924"
+tofu_modal_text = "#8ca68c"
+subscription_modal_bg = "#242924"
+subscription_modal_text = "#8ca68c"
+
+hdg_1 = "#87711d"
+hdg_2 = "#98981b"
+hdg_3 = "#3d62f5"
+regular_text = "#8ca68c"
+preformatted_text = "#1999b3"
+list_text = "#8ca68c"

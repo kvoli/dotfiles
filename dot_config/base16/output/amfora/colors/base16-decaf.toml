@@ -1,0 +1,42 @@
+# Base16 Decaf - amfora color config
+# Alex Mirrington (https://github.com/alexmirrington)
+
+[theme]
+bg = "#2d2d2d"
+fg = "#cccccc"
+
+bottombar_label = "#efb3f7"
+bottombar_text = "#cccccc"
+bottombar_bg = "#393939"
+
+tab_num = "#515151"
+tab_divider = "#b4b7b4"
+
+amfora_link = "#beda78"
+foreign_link = "#777777"
+link_number = "#777777"
+
+btn_bg = "#393939"
+btn_text = "#cccccc"
+
+input_modal_bg = "#393939"
+input_modal_text = "#cccccc"
+input_modal_field_bg = "#2d2d2d"
+input_modal_field_text = "#cccccc"
+info_modal_bg = "#393939"
+info_modal_text = "#cccccc"
+error_modal_bg = "#393939"
+error_modal_text = "#ff93b3"
+yesno_modal_bg = "#393939"
+yesno_modal_text = "#cccccc"
+tofu_modal_bg = "#393939"
+tofu_modal_text = "#cccccc"
+subscription_modal_bg = "#393939"
+subscription_modal_text = "#cccccc"
+
+hdg_1 = "#ffbf70"
+hdg_2 = "#ffd67c"
+hdg_3 = "#90bee1"
+regular_text = "#cccccc"
+preformatted_text = "#bed6ff"
+list_text = "#cccccc"

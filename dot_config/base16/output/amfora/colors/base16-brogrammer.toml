@@ -1,0 +1,42 @@
+# Base16 Brogrammer - amfora color config
+# Vik Ramanujam (http://github.com/piggyslasher)
+
+[theme]
+bg = "#1f1f1f"
+fg = "#4e5ab7"
+
+bottombar_label = "#0f7ddb"
+bottombar_text = "#4e5ab7"
+bottombar_bg = "#f81118"
+
+tab_num = "#2dc55e"
+tab_divider = "#2a84d2"
+
+amfora_link = "#f3bd09"
+foreign_link = "#ecba0f"
+link_number = "#ecba0f"
+
+btn_bg = "#f81118"
+btn_text = "#4e5ab7"
+
+input_modal_bg = "#f81118"
+input_modal_text = "#4e5ab7"
+input_modal_field_bg = "#1f1f1f"
+input_modal_field_text = "#4e5ab7"
+info_modal_bg = "#f81118"
+info_modal_text = "#4e5ab7"
+error_modal_bg = "#f81118"
+error_modal_text = "#ffffff"
+yesno_modal_bg = "#f81118"
+yesno_modal_text = "#4e5ab7"
+tofu_modal_bg = "#f81118"
+tofu_modal_text = "#4e5ab7"
+subscription_modal_bg = "#f81118"
+subscription_modal_text = "#4e5ab7"
+
+hdg_1 = "#de352e"
+hdg_2 = "#1dd361"
+hdg_3 = "#5350b9"
+regular_text = "#4e5ab7"
+preformatted_text = "#1081d6"
+list_text = "#4e5ab7"

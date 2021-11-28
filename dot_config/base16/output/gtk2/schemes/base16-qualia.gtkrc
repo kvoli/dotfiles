@@ -1,0 +1,5 @@
+# Base16 Qualia for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By isaacwhanson
+
+gtk-color-scheme = "bg_color:#101010\nfg_color:#C0C0C0\nbase_color:#101010\ntext_color:#C0C0C0\nselected_bg_color:#454545\nselected_fg_color:#C0C0C0\ntooltip_bg_color:#101010\ntooltip_fg_color:#808080\ntitlebar_bg_color:#101010\ntitlebar_fg_color:#50CACD\nmenubar_bg_color:#101010\nmenubar_fg_color:#50CACD\ntoolbar_bg_color:#101010\ntoolbar_fg_color:#E6A3DC\nmenu_bg_color:#101010\nmenu_fg_color:#C0C0C0\npanel_bg_color:#101010\npanel_fg_color:#80C990\nlink_color:#A3B8EF"
+

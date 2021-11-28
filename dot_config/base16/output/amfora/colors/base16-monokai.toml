@@ -1,0 +1,42 @@
+# Base16 Monokai - amfora color config
+# Wimer Hazenberg (http://www.monokai.nl)
+
+[theme]
+bg = "#272822"
+fg = "#f8f8f2"
+
+bottombar_label = "#ae81ff"
+bottombar_text = "#f8f8f2"
+bottombar_bg = "#383830"
+
+tab_num = "#49483e"
+tab_divider = "#a59f85"
+
+amfora_link = "#a6e22e"
+foreign_link = "#75715e"
+link_number = "#75715e"
+
+btn_bg = "#383830"
+btn_text = "#f8f8f2"
+
+input_modal_bg = "#383830"
+input_modal_text = "#f8f8f2"
+input_modal_field_bg = "#272822"
+input_modal_field_text = "#f8f8f2"
+info_modal_bg = "#383830"
+info_modal_text = "#f8f8f2"
+error_modal_bg = "#383830"
+error_modal_text = "#cc6633"
+yesno_modal_bg = "#383830"
+yesno_modal_text = "#f8f8f2"
+tofu_modal_bg = "#383830"
+tofu_modal_text = "#f8f8f2"
+subscription_modal_bg = "#383830"
+subscription_modal_text = "#f8f8f2"
+
+hdg_1 = "#fd971f"
+hdg_2 = "#f4bf75"
+hdg_3 = "#66d9ef"
+regular_text = "#f8f8f2"
+preformatted_text = "#a1efe4"
+list_text = "#f8f8f2"

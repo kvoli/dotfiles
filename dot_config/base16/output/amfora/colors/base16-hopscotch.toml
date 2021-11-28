@@ -1,0 +1,42 @@
+# Base16 Hopscotch - amfora color config
+# Jan T. Sott
+
+[theme]
+bg = "#322931"
+fg = "#b9b5b8"
+
+bottombar_label = "#c85e7c"
+bottombar_text = "#b9b5b8"
+bottombar_bg = "#433b42"
+
+tab_num = "#5c545b"
+tab_divider = "#989498"
+
+amfora_link = "#8fc13e"
+foreign_link = "#797379"
+link_number = "#797379"
+
+btn_bg = "#433b42"
+btn_text = "#b9b5b8"
+
+input_modal_bg = "#433b42"
+input_modal_text = "#b9b5b8"
+input_modal_field_bg = "#322931"
+input_modal_field_text = "#b9b5b8"
+info_modal_bg = "#433b42"
+info_modal_text = "#b9b5b8"
+error_modal_bg = "#433b42"
+error_modal_text = "#b33508"
+yesno_modal_bg = "#433b42"
+yesno_modal_text = "#b9b5b8"
+tofu_modal_bg = "#433b42"
+tofu_modal_text = "#b9b5b8"
+subscription_modal_bg = "#433b42"
+subscription_modal_text = "#b9b5b8"
+
+hdg_1 = "#fd8b19"
+hdg_2 = "#fdcc59"
+hdg_3 = "#1290bf"
+regular_text = "#b9b5b8"
+preformatted_text = "#149b93"
+list_text = "#b9b5b8"

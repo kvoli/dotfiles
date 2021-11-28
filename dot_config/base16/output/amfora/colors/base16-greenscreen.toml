@@ -1,0 +1,42 @@
+# Base16 Green Screen - amfora color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+bg = "#001100"
+fg = "#00bb00"
+
+bottombar_label = "#00bb00"
+bottombar_text = "#00bb00"
+bottombar_bg = "#003300"
+
+tab_num = "#005500"
+tab_divider = "#009900"
+
+amfora_link = "#00bb00"
+foreign_link = "#007700"
+link_number = "#007700"
+
+btn_bg = "#003300"
+btn_text = "#00bb00"
+
+input_modal_bg = "#003300"
+input_modal_text = "#00bb00"
+input_modal_field_bg = "#001100"
+input_modal_field_text = "#00bb00"
+info_modal_bg = "#003300"
+info_modal_text = "#00bb00"
+error_modal_bg = "#003300"
+error_modal_text = "#005500"
+yesno_modal_bg = "#003300"
+yesno_modal_text = "#00bb00"
+tofu_modal_bg = "#003300"
+tofu_modal_text = "#00bb00"
+subscription_modal_bg = "#003300"
+subscription_modal_text = "#00bb00"
+
+hdg_1 = "#009900"
+hdg_2 = "#007700"
+hdg_3 = "#009900"
+regular_text = "#00bb00"
+preformatted_text = "#005500"
+list_text = "#00bb00"

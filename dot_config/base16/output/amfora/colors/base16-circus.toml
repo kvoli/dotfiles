@@ -1,0 +1,42 @@
+# Base16 Circus - amfora color config
+# Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+
+[theme]
+bg = "#191919"
+fg = "#a7a7a7"
+
+bottombar_label = "#b888e2"
+bottombar_text = "#a7a7a7"
+bottombar_bg = "#202020"
+
+tab_num = "#303030"
+tab_divider = "#505050"
+
+amfora_link = "#84b97c"
+foreign_link = "#5f5a60"
+link_number = "#5f5a60"
+
+btn_bg = "#202020"
+btn_text = "#a7a7a7"
+
+input_modal_bg = "#202020"
+input_modal_text = "#a7a7a7"
+input_modal_field_bg = "#191919"
+input_modal_field_text = "#a7a7a7"
+info_modal_bg = "#202020"
+info_modal_text = "#a7a7a7"
+error_modal_bg = "#202020"
+error_modal_text = "#b888e2"
+yesno_modal_bg = "#202020"
+yesno_modal_text = "#a7a7a7"
+tofu_modal_bg = "#202020"
+tofu_modal_text = "#a7a7a7"
+subscription_modal_bg = "#202020"
+subscription_modal_text = "#a7a7a7"
+
+hdg_1 = "#4bb1a7"
+hdg_2 = "#c3ba63"
+hdg_3 = "#639ee4"
+regular_text = "#a7a7a7"
+preformatted_text = "#4bb1a7"
+list_text = "#a7a7a7"

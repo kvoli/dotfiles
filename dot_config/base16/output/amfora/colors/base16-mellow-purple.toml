@@ -1,0 +1,42 @@
+# Base16 Mellow Purple - amfora color config
+# gidsi
+
+[theme]
+bg = "#1e0528"
+fg = "#ffeeff"
+
+bottombar_label = "#8991bb"
+bottombar_text = "#ffeeff"
+bottombar_bg = "#1A092D"
+
+tab_num = "#331354"
+tab_divider = "#873582"
+
+amfora_link = "#05cb0d"
+foreign_link = "#320f55"
+link_number = "#320f55"
+
+btn_bg = "#1A092D"
+btn_text = "#ffeeff"
+
+input_modal_bg = "#1A092D"
+input_modal_text = "#ffeeff"
+input_modal_field_bg = "#1e0528"
+input_modal_field_text = "#ffeeff"
+info_modal_bg = "#1A092D"
+info_modal_text = "#ffeeff"
+error_modal_bg = "#1A092D"
+error_modal_text = "#4d6fff"
+yesno_modal_bg = "#1A092D"
+yesno_modal_text = "#ffeeff"
+tofu_modal_bg = "#1A092D"
+tofu_modal_text = "#ffeeff"
+subscription_modal_bg = "#1A092D"
+subscription_modal_text = "#ffeeff"
+
+hdg_1 = "#aa00a3"
+hdg_2 = "#955ae7"
+hdg_3 = "#550068"
+regular_text = "#ffeeff"
+preformatted_text = "#b900b1"
+list_text = "#ffeeff"

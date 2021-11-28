@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Colors by mrmrs (http://clrs.cc)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#111111"
+idle_fg = "#bbbbbb"
+info_bg = "#7fdbff"
+info_fg = "#111111"
+good_bg = "#2ecc40"
+good_fg = "#111111"
+warning_bg = "#ffdc00"
+warning_fg = "#111111"
+critical_bg = "#ff4136"
+critical_fg = "#111111"
+# The rest of the theme settings are left at default.

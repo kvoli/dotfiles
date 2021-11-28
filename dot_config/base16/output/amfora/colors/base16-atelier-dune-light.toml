@@ -1,0 +1,42 @@
+# Base16 Atelier Dune Light - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#fefbec"
+fg = "#6e6b5e"
+
+bottombar_label = "#b854d4"
+bottombar_text = "#6e6b5e"
+bottombar_bg = "#e8e4cf"
+
+tab_num = "#a6a28c"
+tab_divider = "#7d7a68"
+
+amfora_link = "#60ac39"
+foreign_link = "#999580"
+link_number = "#999580"
+
+btn_bg = "#e8e4cf"
+btn_text = "#6e6b5e"
+
+input_modal_bg = "#e8e4cf"
+input_modal_text = "#6e6b5e"
+input_modal_field_bg = "#fefbec"
+input_modal_field_text = "#6e6b5e"
+info_modal_bg = "#e8e4cf"
+info_modal_text = "#6e6b5e"
+error_modal_bg = "#e8e4cf"
+error_modal_text = "#d43552"
+yesno_modal_bg = "#e8e4cf"
+yesno_modal_text = "#6e6b5e"
+tofu_modal_bg = "#e8e4cf"
+tofu_modal_text = "#6e6b5e"
+subscription_modal_bg = "#e8e4cf"
+subscription_modal_text = "#6e6b5e"
+
+hdg_1 = "#b65611"
+hdg_2 = "#ae9513"
+hdg_3 = "#6684e1"
+regular_text = "#6e6b5e"
+preformatted_text = "#1fad83"
+list_text = "#6e6b5e"

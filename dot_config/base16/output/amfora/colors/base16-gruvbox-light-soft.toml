@@ -1,0 +1,42 @@
+# Base16 Gruvbox light, soft - amfora color config
+# Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+[theme]
+bg = "#f2e5bc"
+fg = "#504945"
+
+bottombar_label = "#8f3f71"
+bottombar_text = "#504945"
+bottombar_bg = "#ebdbb2"
+
+tab_num = "#d5c4a1"
+tab_divider = "#665c54"
+
+amfora_link = "#79740e"
+foreign_link = "#bdae93"
+link_number = "#bdae93"
+
+btn_bg = "#ebdbb2"
+btn_text = "#504945"
+
+input_modal_bg = "#ebdbb2"
+input_modal_text = "#504945"
+input_modal_field_bg = "#f2e5bc"
+input_modal_field_text = "#504945"
+info_modal_bg = "#ebdbb2"
+info_modal_text = "#504945"
+error_modal_bg = "#ebdbb2"
+error_modal_text = "#d65d0e"
+yesno_modal_bg = "#ebdbb2"
+yesno_modal_text = "#504945"
+tofu_modal_bg = "#ebdbb2"
+tofu_modal_text = "#504945"
+subscription_modal_bg = "#ebdbb2"
+subscription_modal_text = "#504945"
+
+hdg_1 = "#af3a03"
+hdg_2 = "#b57614"
+hdg_3 = "#076678"
+regular_text = "#504945"
+preformatted_text = "#427b58"
+list_text = "#504945"

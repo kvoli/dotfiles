@@ -1,0 +1,42 @@
+# Base16 Atelier Forest Light - amfora color config
+# Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+bg = "#f1efee"
+fg = "#68615e"
+
+bottombar_label = "#6666ea"
+bottombar_text = "#68615e"
+bottombar_bg = "#e6e2e0"
+
+tab_num = "#a8a19f"
+tab_divider = "#766e6b"
+
+amfora_link = "#7b9726"
+foreign_link = "#9c9491"
+link_number = "#9c9491"
+
+btn_bg = "#e6e2e0"
+btn_text = "#68615e"
+
+input_modal_bg = "#e6e2e0"
+input_modal_text = "#68615e"
+input_modal_field_bg = "#f1efee"
+input_modal_field_text = "#68615e"
+info_modal_bg = "#e6e2e0"
+info_modal_text = "#68615e"
+error_modal_bg = "#e6e2e0"
+error_modal_text = "#c33ff3"
+yesno_modal_bg = "#e6e2e0"
+yesno_modal_text = "#68615e"
+tofu_modal_bg = "#e6e2e0"
+tofu_modal_text = "#68615e"
+subscription_modal_bg = "#e6e2e0"
+subscription_modal_text = "#68615e"
+
+hdg_1 = "#df5320"
+hdg_2 = "#c38418"
+hdg_3 = "#407ee7"
+regular_text = "#68615e"
+preformatted_text = "#3d97b8"
+list_text = "#68615e"

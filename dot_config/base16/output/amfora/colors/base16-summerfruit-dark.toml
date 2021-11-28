@@ -1,0 +1,42 @@
+# Base16 Summerfruit Dark - amfora color config
+# Christopher Corley (http://christop.club/)
+
+[theme]
+bg = "#151515"
+fg = "#D0D0D0"
+
+bottombar_label = "#AD00A1"
+bottombar_text = "#D0D0D0"
+bottombar_bg = "#202020"
+
+tab_num = "#303030"
+tab_divider = "#B0B0B0"
+
+amfora_link = "#00C918"
+foreign_link = "#505050"
+link_number = "#505050"
+
+btn_bg = "#202020"
+btn_text = "#D0D0D0"
+
+input_modal_bg = "#202020"
+input_modal_text = "#D0D0D0"
+input_modal_field_bg = "#151515"
+input_modal_field_text = "#D0D0D0"
+info_modal_bg = "#202020"
+info_modal_text = "#D0D0D0"
+error_modal_bg = "#202020"
+error_modal_text = "#CC6633"
+yesno_modal_bg = "#202020"
+yesno_modal_text = "#D0D0D0"
+tofu_modal_bg = "#202020"
+tofu_modal_text = "#D0D0D0"
+subscription_modal_bg = "#202020"
+subscription_modal_text = "#D0D0D0"
+
+hdg_1 = "#FD8900"
+hdg_2 = "#ABA800"
+hdg_3 = "#3777E6"
+regular_text = "#D0D0D0"
+preformatted_text = "#1FAAAA"
+list_text = "#D0D0D0"

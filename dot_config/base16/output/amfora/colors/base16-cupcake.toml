@@ -1,0 +1,42 @@
+# Base16 Cupcake - amfora color config
+# Chris Kempson (http://chriskempson.com)
+
+[theme]
+bg = "#fbf1f2"
+fg = "#8b8198"
+
+bottombar_label = "#BB99B4"
+bottombar_text = "#8b8198"
+bottombar_bg = "#f2f1f4"
+
+tab_num = "#d8d5dd"
+tab_divider = "#a59daf"
+
+amfora_link = "#A3B367"
+foreign_link = "#bfb9c6"
+link_number = "#bfb9c6"
+
+btn_bg = "#f2f1f4"
+btn_text = "#8b8198"
+
+input_modal_bg = "#f2f1f4"
+input_modal_text = "#8b8198"
+input_modal_field_bg = "#fbf1f2"
+input_modal_field_text = "#8b8198"
+info_modal_bg = "#f2f1f4"
+info_modal_text = "#8b8198"
+error_modal_bg = "#f2f1f4"
+error_modal_text = "#BAA58C"
+yesno_modal_bg = "#f2f1f4"
+yesno_modal_text = "#8b8198"
+tofu_modal_bg = "#f2f1f4"
+tofu_modal_text = "#8b8198"
+subscription_modal_bg = "#f2f1f4"
+subscription_modal_text = "#8b8198"
+
+hdg_1 = "#EBB790"
+hdg_2 = "#DCB16C"
+hdg_3 = "#7297B9"
+regular_text = "#8b8198"
+preformatted_text = "#69A9A7"
+list_text = "#8b8198"

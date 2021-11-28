@@ -1,0 +1,42 @@
+# Base16 Apprentice - amfora color config
+# romainl
+
+[theme]
+bg = "#262626"
+fg = "#BCBCBC"
+
+bottombar_label = "#87AFD7"
+bottombar_text = "#BCBCBC"
+bottombar_bg = "#303030"
+
+tab_num = "#333333"
+tab_divider = "#787878"
+
+amfora_link = "#87AF87"
+foreign_link = "#6C6C6C"
+link_number = "#6C6C6C"
+
+btn_bg = "#303030"
+btn_text = "#BCBCBC"
+
+input_modal_bg = "#303030"
+input_modal_text = "#BCBCBC"
+input_modal_field_bg = "#262626"
+input_modal_field_text = "#BCBCBC"
+info_modal_bg = "#303030"
+info_modal_text = "#BCBCBC"
+error_modal_bg = "#303030"
+error_modal_text = "#5F87AF"
+yesno_modal_bg = "#303030"
+yesno_modal_text = "#BCBCBC"
+tofu_modal_bg = "#303030"
+tofu_modal_text = "#BCBCBC"
+subscription_modal_bg = "#303030"
+subscription_modal_text = "#BCBCBC"
+
+hdg_1 = "#FF8700"
+hdg_2 = "#5F8787"
+hdg_3 = "#FFFFAF"
+regular_text = "#BCBCBC"
+preformatted_text = "#5F875F"
+list_text = "#BCBCBC"

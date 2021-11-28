@@ -1,0 +1,42 @@
+# Base16 3024 - amfora color config
+# Jan T. Sott (http://github.com/idleberg)
+
+[theme]
+bg = "#090300"
+fg = "#a5a2a2"
+
+bottombar_label = "#a16a94"
+bottombar_text = "#a5a2a2"
+bottombar_bg = "#3a3432"
+
+tab_num = "#4a4543"
+tab_divider = "#807d7c"
+
+amfora_link = "#01a252"
+foreign_link = "#5c5855"
+link_number = "#5c5855"
+
+btn_bg = "#3a3432"
+btn_text = "#a5a2a2"
+
+input_modal_bg = "#3a3432"
+input_modal_text = "#a5a2a2"
+input_modal_field_bg = "#090300"
+input_modal_field_text = "#a5a2a2"
+info_modal_bg = "#3a3432"
+info_modal_text = "#a5a2a2"
+error_modal_bg = "#3a3432"
+error_modal_text = "#cdab53"
+yesno_modal_bg = "#3a3432"
+yesno_modal_text = "#a5a2a2"
+tofu_modal_bg = "#3a3432"
+tofu_modal_text = "#a5a2a2"
+subscription_modal_bg = "#3a3432"
+subscription_modal_text = "#a5a2a2"
+
+hdg_1 = "#e8bbd0"
+hdg_2 = "#fded02"
+hdg_3 = "#01a0e4"
+regular_text = "#a5a2a2"
+preformatted_text = "#b5e4f4"
+list_text = "#a5a2a2"
